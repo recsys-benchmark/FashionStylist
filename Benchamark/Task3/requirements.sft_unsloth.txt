@@ -1,0 +1,11 @@
+# Core runtime for sft_unsloth.py
+# Install torch with a build compatible with your CUDA environment.
+
+Pillow
+torch
+torchvision
+transformers
+accelerate
+peft
+trl
+unsloth
