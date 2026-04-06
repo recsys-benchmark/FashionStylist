@@ -1,0 +1,8 @@
+# Core runtime for mllm_eval.py and task3_dataset.py
+# Install torch/vllm with versions compatible with your CUDA environment.
+
+Pillow
+torch
+torchvision
+transformers
+vllm
