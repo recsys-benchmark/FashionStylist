@@ -1,0 +1,5 @@
+torch>=2.2
+torchvision>=0.17
+transformers>=4.39
+pandas>=2.0
+Pillow>=10.0

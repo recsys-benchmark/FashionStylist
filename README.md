@@ -3,8 +3,7 @@
 ## News
 
 - [x] **April 1, 2026**: Released **FashionStylist V1**, including **1,000 outfit-level entries** and **4,637 item-level annotations** across **Female**, **Male**, and **Child** subsets.
-<!-- - ☐ **TBA**: Release benchmark and baseline code.
-- ☐ **TBA**: Release **FashionStylist V2**, a larger-scale version of the dataset. -->
+<!-- - ☐ **TBA**: Release **FashionStylist V2**, a larger-scale version of the dataset. -->
 
 ## Dataset Overview
 
@@ -18,20 +17,25 @@ In V1, each outfit is linked to all of its items through an outfit identifier (`
 
 <!-- All textual annotations in the current release are in **Chinese**. -->
 
-### File Organization
+### Outfit Examples
+
+| Female | Male | Child |
+| --- | --- | --- |
+| ![Female outfit example](assets/example_female.jpg) | ![Male outfit example](assets/example_male.jpg) | ![Child outfit example](assets/example_child.jpg) |
+
+### Dataset File Organization
 
 ```text
-FashionStylist/
-├── Female/
-│   ├── look(b1-500).csv
-│   └── label(p1-2406).csv
-├── Male/
-│   ├── look(b1-300).csv
-│   └── label(p1-1390).csv
+Dataset
 ├── Child/
 │   ├── look(b1-200).csv
 │   └── label(p1-841).csv
-└── README.md
+├── Female/
+│   ├── look(b1-500).csv
+│   └── label(p1-2406).csv
+└── Male/
+    ├── look(b1-300).csv
+    └── label(p1-1390).csv
 ```
 
 ### Annotation Schema
@@ -60,6 +64,10 @@ FashionStylist/
 - `URL link`: source product URL
 
 Note: the last field is semantically the same across all subsets, but its raw header name varies slightly in the released CSV files (`donning/doffing`, `donning、doffing`, or `donningdoffing`).
+
+## Supplementary Material
+
+Experimental baseline settings and all prompts used in our experiments are provided in [`Supplementary_material.pdf`](./Supplementary_material.pdf).
 
 ## Todo List
 
