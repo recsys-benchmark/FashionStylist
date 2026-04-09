@@ -1,4 +1,8 @@
-# <img src="assets/logo.png?v=2" width="40" height="40" style="vertical-align: middle;" /> FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
+# <img src="assets/logo.png?v=2" width="45" height="45" style="vertical-align: middle;" /> FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
+
+## Supplementary Material
+
+Experimental baseline settings and all prompts used in our experiments are provided in [`Supplementary_material.pdf`](./Supplementary_material.pdf).
 
 ## News
 
@@ -71,11 +75,6 @@ Dataset
 - `donning/doffing`: wearing or removal mode
 - `URL link`: source product URL (Chinese only)
 
-
-
-## Supplementary Material
-
-Experimental baseline settings and all prompts used in our experiments are provided in [`Supplementary_material.pdf`](./Supplementary_material.pdf).
 
 ## Benchmark
 
