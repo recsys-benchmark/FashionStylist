@@ -1,4 +1,4 @@
-# <img src="assets/logo.png?v=2" width="45" height="45" style="vertical-align: middle;" /> FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
+# <img src="assets/logo.png?v=2" width="50" height="50" style="vertical-align: middle;" /> FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
 
 ## Supplementary Material
 
