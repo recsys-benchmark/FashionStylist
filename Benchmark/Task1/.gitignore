@@ -1,0 +1,38 @@
+.DS_Store
+.claude
+__pycache__/
+*.py[cod]
+*.so
+
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.venv/
+venv/
+env/
+
+dist/
+build/
+*.egg-info/
+output/
+outputs/
+
+# External repos (users clone these themselves)
+external/
+DiffSynth-Studio*/
+
+# Intermediate results & logs
+eval_res/
+*.log
+checkpoints/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tests
+tests/

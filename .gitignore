@@ -1,2 +1,36 @@
+# OS
 .DS_Store
+Thumbs.db
+
+# Claude Code
 .claude
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Environment variables
+.env
+.env.*
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/

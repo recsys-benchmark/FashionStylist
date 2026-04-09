@@ -1,7 +1,8 @@
-# FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
+# <img src="assets/logo.png" width="40" height="40" style="vertical-align: middle;" /> FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding
 
 ## News
 
+- [x] **April 8, 2026**: Released **English version** of FashionStylist V1.
 - [x] **April 1, 2026**: Released **FashionStylist V1**, including **1,000 outfit-level entries** and **4,637 item-level annotations** across **Female**, **Male**, and **Child** subsets.
 <!-- - ☐ **TBA**: Release **FashionStylist V2**, a larger-scale version of the dataset. -->
 
@@ -15,7 +16,7 @@ FashionStylist is an expert knowledge-enhanced multimodal fashion dataset for ou
 
 In V1, each outfit is linked to all of its items through an outfit identifier (`outfitID`) and a list of item identifiers (`items`). The dataset supports research on outfit understanding, item attribute recognition, fashion description grounding, cross-modal retrieval, and multimodal reasoning.
 
-<!-- All textual annotations in the current release are in **Chinese**. -->
+The dataset is available in both **Chinese** and **English**.
 
 ### Outfit Examples
 
@@ -28,30 +29,37 @@ In V1, each outfit is linked to all of its items through an outfit identifier (`
 ```text
 Dataset
 ├── Child/
-│   ├── look(b1-200).csv
-│   └── label(p1-841).csv
+│   ├── look(b1-200).csv          # Chinese
+│   ├── look_en.csv               # English
+│   ├── label(p1-841).csv         # Chinese
+│   └── label_en.csv              # English
 ├── Female/
-│   ├── look(b1-500).csv
-│   └── label(p1-2406).csv
+│   ├── look(b1-500).csv          # Chinese
+│   ├── look_en.csv               # English
+│   ├── label(p1-2406).csv        # Chinese
+│   └── label_en.csv              # English
 └── Male/
-    ├── look(b1-300).csv
-    └── label(p1-1390).csv
+    ├── look(b1-300).csv          # Chinese
+    ├── look_en.csv               # English
+    ├── label(p1-1390).csv        # Chinese
+    └── label_en.csv              # English
 ```
 
 ### Annotation Schema
 
-**Outfit-level annotations** (`look*.csv`)
+**Outfit-level annotations** (`look*.csv` / `look_en.csv`)
 
 - `outfitID`: outfit identifier
 - `items`: comma-separated item identifiers belonging to the outfit
 - `look`: free-form outfit description
-- `season`: normalized season label, with 6 classes: `春`, `夏`, `秋`, `冬`, `春夏`, `秋冬`
-- `occasion`: normalized occasion label, with 7 base classes (`运动`, `出行`, `日常`, `校园`, `社交`, `商务`, `居家`) and their slash-separated combinations (e.g., `日常/出行`, `运动/出行`)
-- `URL link`: source product or style reference URL
+- `season`: normalized season label, with 6 classes: `春`/`Spring`, `夏`/`Summer`, `秋`/`Autumn`, `冬`/`Winter`, `春夏`/`Spring/Summer`, `秋冬`/`Autumn/Winter`
+- `occasion`: normalized occasion label, with 7 base classes (`运动`/`Sports`, `出行`/`Travel`, `日常`/`Daily`, `校园`/`School`, `社交`/`Social`, `商务`/`Business`, `居家`/`Home`) and their slash-separated combinations (e.g., `日常/出行`, `运动/出行`)
+- `URL link`: source product or style reference URL (Chinese only)
 
-**Item-level annotations** (`label*.csv`)
+**Item-level annotations** (`label*.csv` / `label_en.csv`)
 
 - `itemID`: item identifier
+- `category`: item category (English only): `outerwear`, `mid_layer_top`, `inner_top`, `bottom`, `shoes`, `bag`, `accessory`, `onepiece`
 - `title`: item title
 - `gender`: target gender group
 - `style`: style annotation
@@ -61,19 +69,23 @@ Dataset
 - `pattern`: pattern annotation
 - `detail`: design detail annotation
 - `donning/doffing`: wearing or removal mode
-- `URL link`: source product URL
+- `URL link`: source product URL (Chinese only)
 
-Note: the last field is semantically the same across all subsets, but its raw header name varies slightly in the released CSV files (`donning/doffing`, `donning、doffing`, or `donningdoffing`).
+
 
 ## Supplementary Material
 
 Experimental baseline settings and all prompts used in our experiments are provided in [`Supplementary_material.pdf`](./Supplementary_material.pdf).
 
+## Benchmark
+
+Benchmark baselines and evaluation code for three tasks are available in the [`Benchmark/`](./Benchmark/) directory: [Task 1 — Outfit2item Grounding](./Benchmark/Task1/), [Task 2 — Outfit Completion](./Benchmark/Task2/), [Task 3 — Outfit Evaluation](./Benchmark/Task3/).
+
 ## Todo List
 
 - [x] Release **FashionStylist V1**
-- [ ] Release an **English version** of FashionStylist
-- [ ] Release benchmark and baseline code for the dataset
+- [x] Release an **English version** of FashionStylist
+- [x] Release benchmark and baseline code for the dataset
 - [ ] Release **FashionStylist V2**, a larger-scale version of the dataset
 
 ## Acknowledgement

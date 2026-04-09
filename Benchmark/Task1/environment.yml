@@ -1,0 +1,15 @@
+name: task1-image-edit
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch=2.5.*
+  - torchvision=0.20.*
+  - torchaudio=2.5.*
+  - pytorch-cuda=12.4
+  - pip:
+      - -r requirements/base.txt
+      - -r requirements/train.txt

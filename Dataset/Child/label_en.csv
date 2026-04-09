@@ -1,0 +1,842 @@
+﻿itemID,category,title,gender,style,outline,materials,color,pattern,detail,donning/doffing
+p1,mid_layer_top,crewneck sweatshirt,Unisex,casual athletic sweatshirt,loose H-line,cotton fleece,solid black,Beige NY embroidery on chest,"Ribbed crew neck, ribbed cuffs and hem",pullover
+p2,bottom,jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,solid black,Beige NY embroidery on leg,"Elastic waistband, side slip pockets, ribbed cuffs",slip-on
+p3,shoes,dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,"silver, black, and white colorblock","NY embroidery on upper, NY debossed logo on side",Hook-and-loop and lace-up closure,slip-on
+p4,mid_layer_top,crewneck sweatshirt,Unisex,casual athletic sweatshirt,loose H-line,cotton fleece,solid black,White Yankees oval embroidery on chest,"Silver-grey topstitching on shoulders and sleeves, ribbed cuffs",pullover
+p5,bottom,jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,solid black,White Yankees oval embroidery on leg,"Elastic waistband, side slip pockets, silver-grey topstitching",slip-on
+p6,shoes,dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,"silver, black, and gray colorblock","NY embroidery on upper, MLB debossed logo on sole",Lace-up closure,slip-on
+p7,inner_top,sleeveless tank top,Unisex,streetwear tank top,loose straight-leg,cotton fabric,light khaki,Black Yankees graffiti print on chest,Sleeveless wide-shoulder design,pullover
+p8,inner_top,long-sleeve T-shirt,Unisex,casual basic T-shirt,loose straight-leg,cotton fabric,solid white,Black NY embroidery on chest,"Ribbed crew neck, regular cuffs",pullover
+p9,inner_top,black and white plaid shirt,Unisex,vintage casual shirt,oversized fit,flannel,black and white plaid,All-over plaid pattern,"Collared, single-breasted, chest pocket",button-up
+p10,bottom,jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,light khaki,Black NY embroidery on leg,"Elastic waistband, side slip pockets, ribbed cuffs",slip-on
+p11,shoes,colorblock dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,"gray, white, black, and light green base",NY velcro patch on upper,"Dual heel pull tabs, hook-and-loop closure",slip-on
+p12,mid_layer_top,zip-up hooded sweatshirt,Unisex,casual athletic sweatshirt,loose H-line,cotton fleece,solid black,White NY embroidery on chest,"Full-zip, hooded, side slip pockets, ribbed cuffs",zippered
+p13,inner_top,white long-sleeve T-shirt,Unisex,casual basic T-shirt,loose straight-leg,cotton fabric,solid white,Grey B-logo graffiti print on chest,"Ribbed crew neck, regular cuffs",pullover
+p14,bottom,jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,solid black,White NY embroidery on leg,"Elastic waistband, side slip pockets, ribbed cuffs",slip-on
+p15,shoes,silver-gray dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,"silver, gray, and white colorblock",NY velcro patch on upper,"Dual heel pull tabs, hook-and-loop closure",slip-on
+p16,inner_top,pink and white argyle vest,Women's,vintage casual tank top,loose straight-leg,diamond-quilted fabric,light pink and white,"All-over NY letter jacquard, NY embroidery on chest",V-neck sleeveless design,pullover
+p17,inner_top,pink and white short-sleeve T-shirt,Women's,casual basic T-shirt,loose cropped fit,cotton fabric,light gray and pink,"Pink NY embroidery on chest, small logo on cuff","Ribbed crew neck, short sleeves",pullover
+p18,bottom,pink pleated skirt,Women's,sweet preppy skirt,cropped pleated style,cotton fabric,solid pink,Solid,"Elastic waistband, pleated design",slip-on
+p19,accessory,pink and white mid-calf socks,Unisex,casual socks,mid-calf silhouette,cotton fabric,white and pink,"Pink NY embroidery on sock, pink and white stripes",Ribbed cuffs,slip-on
+p20,shoes,pink and white dad sneakers,Women's,trendy casual sneakers,chunky dad sneaker silhouette,leather,off-white and pink,Pink Yankees embroidery on upper,Hook-and-loop and lace-up closure,slip-on
+p21,inner_top,faux two-piece tank top,Unisex,vintage casual tank top,loose V-neck fit,cotton fabric,light gray and white,"All-over B-logo jacquard, B-logo embroidery on chest",Mock two-piece long-sleeve design,pullover
+p22,bottom,brown solid jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,dark brown,"B-logo embroidery on leg, white side stripes","Elastic waistband, side slip pockets, ribbed cuffs",slip-on
+p23,shoes,light-colored linear dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,light beige and gray,Linear trim on upper,"Drawstring laces, heel pull tab",slip-on
+p24,inner_top,colorblock short-sleeve T-shirt,Unisex,casual trendy T-shirt,loose cropped fit,cotton and nylon paneling,white and khaki,"All-over B-logo jacquard, B-logo embroidery on chest","Color-block paneling, side slip pockets",pullover
+p25,bottom,khaki cargo shorts,Unisex,casual cargo shorts,loose straight-leg,nylon,khaki,"B-logo embroidery on leg, black side stripes","Elastic waistband, cargo pockets",slip-on
+p26,shoes,khaki platform outdoor dad sneakers,Unisex,outdoor trendy sneakers,chunky outdoor style,mesh and leather paneling,khaki and light brown,Linear trim on upper,"Lace-up closure, heel pull tab",slip-on
+p27,inner_top,contrast collar short-sleeve T-shirt,Unisex,casual basic T-shirt,loose straight-leg,cotton fabric,off-white and black,NY embroidery on chest,"Contrast ribbed collar, short sleeves",pullover
+p28,bottom,cargo shorts,Unisex,casual cargo shorts,loose straight-leg,nylon,deep black,"NY embroidery on leg, topstitch detail","Elastic waistband, cargo pockets",slip-on
+p29,shoes,all-white velcro sneakers,Unisex,casual basic skate shoes,low-top skate sneaker silhouette,leather,solid white,Solid,Hook-and-loop and lace-up closure,slip-on
+p30,inner_top,contrast pocket short-sleeve T-shirt,Unisex,casual basic T-shirt,loose straight-leg,cotton fabric,off-white and brown,"B-logo embroidery on chest, contrast pocket","Contrast ribbed collar, short sleeves",pullover
+p31,bottom,brown plaid cargo shorts,Unisex,casual cargo shorts,loose straight-leg,nylon,dark brown,"All-over B-logo plaid, B-logo embroidery on leg","Elastic waistband, cargo pockets",slip-on
+p32,accessory,brown and white mid-calf socks,Unisex,casual socks,mid-calf silhouette,cotton fabric,white and brown,"B-logo embroidery on sock, brown and white stripes",Ribbed cuffs,slip-on
+p33,shoes,outdoor dad sneakers,Unisex,outdoor trendy sneakers,chunky outdoor style,mesh and leather paneling,off-white and navy blue,NY embroidery on upper,"Drawstring laces, heel pull tab",slip-on
+p34,mid_layer_top,faux two-piece sweatshirt,Unisex,casual athletic sweatshirt,loose H-line,cotton fleece,black and white,"NY graffiti print on chest, small logo on cuff","Mock two-piece hem, ribbed cuffs",pullover
+p35,bottom,black jogger pants,Unisex,casual athletic joggers,loose jogger fit,cotton fleece,solid black,Yankees graffiti print on leg,"Elastic waistband, side slip pockets, ribbed cuffs",slip-on
+p36,shoes,silver and black dad sneakers,Unisex,trendy casual sneakers,chunky dad sneaker silhouette,mesh and leather paneling,silver gray and black,MLB letter decoration on upper,"Drawstring laces, heel pull tab",slip-on
+p37,inner_top,contrast collar short-sleeve T-shirt,Unisex,casual basic T-shirt,loose straight-leg,cotton fabric,off-white and navy blue,B-logo embroidery on chest,"Contrast ribbed collar, short sleeves",pullover
+p38,bottom,navy cargo shorts,Unisex,casual cargo shorts,loose straight-leg,cotton fabric,navy blue,"B-logo embroidery on leg, topstitch detail","Elastic waistband, side slip pockets",slip-on
+p39,shoes,off-white outdoor sandals,Unisex,outdoor casual sandals,chunky sandal silhouette,mesh and leather paneling,off-white and light green,NY embroidery on upper,"Hook-and-loop closure, heel pull tab",slip-on
+p40,inner_top,rabbit print T-shirt,Unisex,playful casual T-shirt,loose straight-leg,cotton fabric,off-white and purple,Rabbit and Yankees print on back,"Contrast ribbed collar, short sleeves",pullover
+p41,bottom,light purple shorts,Unisex,casual basic shorts,loose straight-leg,cotton fabric,light purple,NY embroidery on leg,"Elastic waistband, side slip pockets",slip-on
+p42,shoes,light purple mesh sandals,Unisex,casual sandals,open-toe sandal silhouette,mesh and synthetic leather,light purple and white,Solid,Hook-and-loop closure,slip-on
+p43,mid_layer_top,scarf print gray sweatshirt,Unisex,playful casual sweatshirt,loose H-line,cotton fleece,light gray,"Scarf print on chest, smiley face decoration","Ribbed crew neck, ribbed cuffs",pullover
+p44,mid_layer_top,off-white mock neck knit sweater,Unisex,minimalist basic knitwear,slim fit,knit fabric,off-white,Solid,"Mock neck, long sleeves",pullover
+p45,bottom,gray and black faux two-piece skort,Women's,sweet casual skort,faux-layered style,stretch fabric and knit,gray and black,"Side stripes, brand lettering","Elastic waistband, ruffled hem",slip-on
+p46,bag,black and gold leather quilted bag,Unisex,luxury fashion bag,mini square silhouette,cowhide and metal,black and gold,"Diamond quilting, double-C logo",Handheld and crossbody carry options,open-front
+p47,shoes,light gray felt buckle shoes,Unisex,casual loafers,slip-on style,felt,light gray,Solid,Metal buckle closure,slip-on
+p48,outerwear,dark brown leather jacket,Unisex,vintage casual jacket,loose cropped fit,leather,dark brown,Solid,"Collared, button-up, cargo pockets",button-up
+p49,inner_top,light blue plaid shirt,Unisex,minimalist basic shirt,loose straight-leg,cotton fabric,light blue,"Fine check, brand lettering","Collared, single-breasted",button-up
+p50,bottom,dark gray striped wide-leg trousers,Unisex,vintage casual trousers,loose wide-leg,cotton fabric,dark gray,pinstripe,"High-waisted, pleated design",slip-on
+p51,shoes,outdoor sneakers,Unisex,outdoor techwear shoes,chunky outdoor style,mesh and synthetic leather,"gray, black, and white",Salomon logo on shoe body,"Drawstring laces, non-slip sole",slip-on
+p52,outerwear,light blue stand-collar down jacket,Women's,casual insulated down jacket,loose cropped fit,down-filled fabric,light blue,Solid,"Stand collar, zip-up, side slip pockets",zippered
+p53,bottom,dark brown smiley face leggings,Women's,casual basic trousers,slim-fit bodycon,stretch fabric,dark brown,smiley face and letter embellishments on trousers,High-rise elastic waistband,slip-on
+p54,accessory,off-white knitted leg warmers,Women's,casual leg warmers,knee-high silhouette,knit fabric,off-white,Solid,Ribbed knit texture,slip-on
+p55,shoes,khaki suede casual shoes,Women's,vintage casual shoes,low-top flat silhouette,suede,khaki,Solid,"Contrast laces, minimalist silhouette",slip-on
+p56,mid_layer_top,heart jacquard colorblock sweater,Women's,vintage casual sweater,loose straight-leg,knit fabric,dark brown and light khaki,heart jacquard and geometric pattern on collar,"Crew neck, long sleeves",pullover
+p57,bottom,dark blue snowflake embroidered jeans,Women's,sweet casual jeans,loose wide-leg,denim,dark blue,snowflake embroidery on pocket,"Elastic waistband, wide-leg fit",slip-on
+p58,shoes,khaki shearling slippers,Women's,casual house slippers,mule style,shearling,khaki,Solid,full-coverage warm design,slip-on
+p59,mid_layer_top,cat sequin striped sweater,Women's,playful casual sweater,loose cropped fit,knit fabric,"light blue, black",cat sequin embellishment and stripes on chest,"crew neck, ruffled hem",pullover
+p60,bottom,dark blue diamond heart jeans,Women's,vintage casual jeans,loose wide-leg,denim,dark blue,diamond pattern and heart embellishment on pocket,"Elastic waistband, wide-leg fit",slip-on
+p61,bag,silver handbag,Women's,trendy fashion bag,mini Boston bag silhouette,patent leather,silver,NY embossed pattern and bow charm on bag,Handheld and crossbody carry options,zip-up
+p62,shoes,black and white colorblock Mary Jane shoes,Women's,sweet vintage flats,flat low-cut silhouette,leather,"white, black",Solid,"bowknot decoration, hook-and-loop closure",slip-on
+p63,outerwear,dark blue denim jacket with brown collar,Women's,vintage casual jacket,cropped loose fit,denim,"dark blue, brown",Solid,"collared, metal buttons, utility pockets",button-up
+p64,inner_top,off-white mock neck base layer,Women's,minimalist basic top,slim fit,cotton fabric,off-white,letter embellishment on chest,"Mock neck, long sleeves",pullover
+p65,bottom,dark blue denim pleated skirt,Women's,vintage casual skirt,cropped pleated style,denim,dark blue,"striped waistband and ""JY"" logo","Elastic waistband, pleated design",slip-on
+p66,bag,brown leather mini handbag,Women's,luxury fashion bag,mini rectangular silhouette,cowhide,brown,embossed brand logo on bag,"tote, zipper closure",open-front
+p67,shoes,white and blue casual shoes,Women's,casual sneakers,low-top flat silhouette,mesh and suede,"white, blue","""N"" logo on shoe body",Lace-up closure,slip-on
+p68,onepiece,red bow sleeveless dress,Women's,sweet holiday dress,mid-length,glossy knit fabric,red,bow embellishment on skirt,"back zipper, sleeveless design",zippered
+p69,mid_layer_top,off-white knitted base layer sweater,Women's,minimalist basic sweater,slim fit,knit fabric,off-white,small logo embellishment on back,"Mock neck, long sleeves",pullover
+p70,shoes,brown leather platform loafers,Women's,vintage trendy flats,chunky loafer silhouette,patent leather,brown,Solid,"slip-on, platform sole",slip-on
+p71,mid_layer_top,apple print gray knitted short sleeve,Women's,playful casual top,cropped fit,knit fabric,light gray,green apple embroidery and brand logo on chest,"crew neck, lettuce-edge hem",pullover
+p72,bottom,light blue wide-leg jeans,Women's,vintage casual trousers,loose wide-leg,denim,light blue,Solid,"elastic waistband, pleated design",slip-on
+p73,shoes,silver studded Mary Jane shoes,Women's,trendy vintage flats,flat low-cut silhouette,patent leather,silver,Solid,"stud embellishment, hook-and-loop closure",slip-on
+p74,mid_layer_top,navy diamond pattern faux two-piece sweater,Women's,preppy casual sweater,loose fit,knit fabric,"navy, white",diamond jacquard and cherry embroidery,"faux two-piece Peter Pan collar, lettered cuffs",pullover
+p75,bottom,navy lettuce-edge knitted skirt,Women's,sweet casual skirt,cropped fit,knit fabric,navy,Solid,multi-layered lettuce-edge design,slip-on
+p76,accessory,diamond pattern knee-high socks,Women's,preppy socks,knee-high silhouette,cotton fabric,"white, gray, red",diamond jacquard and letter logo,Ribbed cuffs,slip-on
+p77,shoes,black studded Mary Jane shoes,Women's,vintage preppy flats,low-heel low-cut silhouette,patent leather,black,Solid,"stud embellishment, hook-and-loop closure",slip-on
+p78,mid_layer_top,penguin star gray knitted sweater,Women's,playful casual sweater,loose fit,knit fabric,"light gray, black, white","star and penguin embroidery, diamond pattern sleeves","crew neck, small hem label",pullover
+p79,inner_top,white lettuce-edge mock neck top,Women's,sweet basic top,slim fit,cotton fabric,white,small logo on chest,"mock neck, double-layered lettuce-edge hem",pullover
+p80,bottom,dark blue star wide-leg jeans,Women's,vintage casual trousers,loose wide-leg,denim,dark blue,star embroidery on leg opening,"elastic waistband, rolled hem",slip-on
+p81,accessory,black graffiti beret,Women's,trendy casual hat,beret style,knit fabric,solid black,white graffiti logo on side,beanie fit,wearable
+p82,shoes,brown leather fur-lined mules,Women's,vintage warm slippers,mule style,leather and plush,"brown, light brown",Solid,faux fur trim at collar,slip-on
+p83,outerwear,off-white plaid bear hooded jacket,Women's,playful casual jacket,loose cropped fit,cotton fabric,"off-white, red","bear plaid embroidery on chest, plaid lining in hood","zipper closure, side pockets",zippered
+p84,mid_layer_top,off-white mock neck knit sweater,Women's,minimalist basic top,slim fit,knit fabric,off-white,small logo embellishment on back,"Mock neck, long sleeves",pullover
+p85,bottom,off-white wide-leg casual trousers,Women's,casual basic trousers,loose wide-leg,cotton fabric,off-white,small logo embellishment on side,"Elastic waistband, side slip pockets",slip-on
+p86,bag,burgundy glossy handbag,Women's,luxury fashion bag,mini Boston bag silhouette,patent leather,burgundy,Solid,"tote, zipper closure",open-front
+p87,shoes,red and white casual shoes,Women's,athletic casual shoes,low-top flat silhouette,suede and synthetic leather,"red, white",Puma logo on shoe body,Lace-up closure,slip-on
+p88,inner_top,navy hooded long-sleeve top,Women's,athleisure top,slim cropped fit,cotton fabric,navy blue,"letter embellishment on chest, white side stripes on sleeves",hooded design,pullover
+p89,bottom,navy faux two-piece culottes,Women's,sweet casual trousers,faux-layered style,cotton fabric,navy blue,white side stripes and letter embellishments,"elastic waistband, skirted hem",slip-on
+p90,bag,beige bear charm handbag,Women's,playful fashion bag,mini Boston bag silhouette,leather,off-white,embossed pattern and bear charm on bag,"tote, zipper closure",open-front
+p91,shoes,white ribbon-embellished casual sneakers,Women's,sweet casual flats,flat low-cut silhouette,leather,white,Solid,"ribbon laces, lettuce-edge side trim",slip-on
+p92,mid_layer_top,beige bear-embroidered hooded sweater,Women's,playful casual top,loose cropped fit,knit fabric,"off-white, red, navy",bear embroidery on chest,"hooded, ribbed cuffs",pullover
+p93,mid_layer_top,light blue mock-neck knit top,Women's,minimalist basic top,slim fit,knit fabric,light blue,Solid,"mock neck, ribbed texture",pullover
+p94,bottom,khaki wide-leg casual trousers,Women's,casual basic trousers,loose wide-leg,cotton fabric,khaki,Solid,"elastic waistband, side seam trim",slip-on
+p95,shoes,beige colorblock casual sneakers,Women's,vintage casual shoes,low-top flat silhouette,mesh and suede,off-white and brown,Solid,"color-block laces, breathable mesh",slip-on
+p96,outerwear,black cat print red hooded jacket,Women's,trendy casual jacket,loose cropped fit,cotton fabric,"red, gray","black cat print on chest, striped lining in hood","zipper closure, side pockets",zippered
+p97,mid_layer_top,black mock-neck knit top,Women's,minimalist basic top,slim fit,knit fabric,black,Solid,"mock neck, ribbed texture",pullover
+p98,bottom,light blue wide-leg jeans,Women's,vintage casual trousers,loose wide-leg,denim,light blue,Solid,"elastic waistband, decorative leg stitching",slip-on
+p99,shoes,white faux shearling buckle slides,Women's,warm casual slippers,mule style,shearling and leather,"white, brown",Solid,leather buckle decoration,slip-on
+p100,outerwear,beige rose-embroidered hooded knit cardigan,Women's,gentle casual jacket,loose cropped fit,knit fabric,beige,"rose embroidery on cuff, small logo on hem","hooded, zipper closure",zippered
+p101,inner_top,white and grey contrast-trim letter long-sleeve top,Women's,minimalist casual top,slim fit,cotton fabric,"white, gray",letter embellishment on chest,"crew neck, color-block cuffs and collar",pullover
+p102,bottom,dark grey pleated skirt,Women's,preppy casual skirt,cropped fit,wool blend,dark gray,Solid,high-waisted pleated design,slip-on
+p103,mid_layer_top,light grey knit leg warmers,Women's,warm leg warmers,long-length,knit fabric,light gray,Solid,ribbed texture,slip-on
+p104,shoes,silver grey techwear sneakers,Women's,outdoor casual shoes,low-top chunky silhouette,mesh and synthetic leather,silver gray,brand logo on shoe body,"Drawstring laces, non-slip sole",slip-on
+p105,mid_layer_top,beige puppy print hooded sweatshirt,Women's,playful casual top,loose fit,cotton fabric,"beige, brown, red",puppy print on chest,"hooded, color-block binding",pullover
+p106,bottom,brown plaid bow-detail pleated skirt,Women's,sweet vintage skirt,cropped fit,wool blend,brown plaid,bow embellishment on skirt,high-waisted pleated design,slip-on
+p107,accessory,white over-the-knee knit socks,Women's,basic socks,knee-high silhouette,cotton fabric,white,Solid,ribbed texture,slip-on
+p108,shoes,brown leather platform ankle boots,Women's,vintage trendy ankle boots,mid-calf chunky silhouette,leather,brown,Solid,"buckle decoration, platform sole",slip-on
+p109,mid_layer_top,red heart and white dove argyle sweater,Women's,vintage casual sweater,loose fit,knit fabric,"red, black, white",red heart and white dove jacquard,"crew neck, color-block sleeve stripes",pullover
+p110,bottom,navy pony-embroidered wide-leg trousers,Women's,casual basic trousers,loose wide-leg,cotton fabric,navy blue,pony embroidery on trousers,elastic waistband,slip-on
+p111,shoes,beige colorblock casual sneakers,Women's,vintage casual shoes,low-top flat silhouette,mesh and suede,off-white and brown,Solid,"color-block laces, breathable mesh",slip-on
+p112,inner_top,smiley face print contrast-trim short-sleeve top,Women's,playful casual top,loose cropped fit,cotton fabric,"white, black",smiley face and small decorative prints on chest,"crew neck, color-block cuffs and collar",pullover
+p113,bottom,multicolor-embellished black shorts,Women's,sweet casual shorts,cropped fit,cotton fabric,black,colorful small decorative prints on side,"high-waisted, lined design",slip-on
+p114,bag,burgundy heart handbag,Women's,sweet fashion bag,heart-shaped,leather,burgundy,Solid,"tote, zipper closure",open-front
+p115,accessory,white lettuce-edge socks,Women's,sweet socks,mid-calf silhouette,cotton fabric,white,Solid,"lettuce-edge cuffs, small label decoration",slip-on
+p116,shoes,white casual sneakers,Women's,minimalist casual shoes,low-top flat silhouette,leather,white,brand logo on shoe body,Lace-up closure,slip-on
+p117,mid_layer_top,fawn print colorblock sweater,Women's,playful casual sweater,loose fit,knit fabric,"off-white, blue, red",deer and letter prints on chest,"raglan sleeves, polka dot pattern",pullover
+p118,bottom,navy faux two-piece culottes,Women's,sweet casual trousers,faux-layered style,cotton fabric,navy blue,heart and letter embellishments on side,"elastic waistband, skirted hem",slip-on
+p119,accessory,burgundy knit scarf,Women's,warm scarf,long-length,knit fabric,burgundy,Solid,ribbed texture,wearable
+p120,shoes,brown leather buckle warm shoes,Women's,vintage warm shoes,mule style,leather and plush,brown,Solid,"buckle decoration, faux fur lining",slip-on
+p121,outerwear,whimsical print navy knit cardigan,Women's,sweet casual cardigan,loose cropped fit,knit fabric,navy blue,"mushroom, puppy, bow, star prints and letters","crew neck, colorful buttons",button-up
+p122,inner_top,white lettuce-edge mock neck top,Women's,gentle basic top,slim fit,cotton fabric,white,small logo on chest,"mock neck, double-layered lettuce-edge hem",pullover
+p123,accessory,glove-embellished grey wide-leg trousers,Women's,playful casual trousers,loose wide-leg,cotton fabric,gray,glove-shaped embellishment and letter logo on back waist,elastic waistband,slip-on
+p124,accessory,white plush bucket hat,Women's,warm casual hat,bucket hat style,plush fabric,white,Solid,wide-brim fitted design,wearable
+p125,shoes,grey fleece-lined buckle mules,Women's,vintage casual slippers,mule style,suede,gray,Solid,metal buckle detail,slip-on
+p126,mid_layer_top,floral and number print sweatshirt,Women's,trendy casual top,loose cropped fit,cotton fabric,"off-white, red, blue",floral and numeric print on chest,"crew neck, side-stripe sleeves",pullover
+p127,bottom,brown plaid pleated skirt,Women's,vintage preppy skirt,cropped fit,wool blend,brown plaid,Solid,high-waisted pleated design,slip-on
+p128,bag,burgundy glossy handbag,Women's,luxury fashion bag,mini Boston bag silhouette,patent leather,burgundy,Solid,"tote, zipper closure",open-front
+p129,accessory,white over-the-knee knit socks,Women's,basic socks,knee-high silhouette,cotton fabric,white,Solid,ribbed texture,slip-on
+p130,shoes,burgundy patent leather T-strap flats,Women's,vintage sweet flats,low-heel low-cut silhouette,patent leather,burgundy,Solid,"T-strap, double buckle",slip-on
+p131,inner_top,striped lace-paneled tank top,Women's,sweet casual top,cropped fit,cotton fabric,"white, black","striped, lace patchwork","crew neck, letter and heart logo",pullover
+p132,bottom,lace-trimmed denim bermuda shorts,Women's,vintage casual trousers,bermuda shorts silhouette,denim,light blue,lace trim on pockets,"high-waisted, button closure",slip-on
+p133,bag,black glossy handbag,Women's,minimalist fashion bag,mini Boston bag silhouette,patent leather,black,Solid,"tote, zipper closure",open-front
+p134,accessory,white lettuce-edge mid-calf socks,Women's,sweet socks,mid-calf silhouette,cotton fabric,white,Solid,"lettuce-edge cuff, small logo",slip-on
+p135,shoes,black patent leather bow loafers,Women's,vintage sweet flats,low-top flat silhouette,patent leather,black,Solid,bow detail on upper,slip-on
+p136,inner_top,star and pegasus print sleeveless top,Women's,whimsical casual top,cropped fit,cotton fabric,"dark blue, gold","star, moon, pegasus, and scales print",halter neck,pullover
+p137,bottom,star and pegasus print wide-leg trousers,Women's,whimsical casual trousers,wide-leg,cotton fabric,"dark blue, gold","star, moon, pegasus, and scales print",elastic waistband,slip-on
+p138,bag,white lace cutout tote bag,Women's,gentle fashion bag,tote bag silhouette,lace,white,cut-out pattern,long shoulder strap,open-front
+p139,shoes,off-white bow thong sandals,Women's,sweet casual slides,thong sandal silhouette,leather,off-white and brown,Solid,large bow detail on upper,slip-on
+p140,outerwear,floral smiley face print knit cardigan,Women's,playful casual jacket,loose cropped fit,knit fabric,"navy, pink, yellow",floral smiley face and numeric print,"stand collar, zip closure",zippered
+p141,inner_top,striped lace-paneled tank top,Women's,sweet casual top,cropped fit,cotton fabric,"white, black","striped, lace patchwork","crew neck, letter and heart logo",pullover
+p142,bottom,lace-trimmed denim bermuda shorts,Women's,vintage casual trousers,bermuda shorts silhouette,denim,light blue,lace trim on pockets,"high-waisted, button closure",slip-on
+p143,bag,black glossy handbag,Women's,minimalist fashion bag,mini Boston bag silhouette,patent leather,black,Solid,"tote, zipper closure",open-front
+p144,accessory,white lettuce-edge mid-calf socks,Women's,sweet socks,mid-calf silhouette,cotton fabric,white,Solid,"lettuce-edge cuff, small logo",slip-on
+p145,shoes,black patent leather bow loafers,Women's,vintage sweet flats,low-top flat silhouette,patent leather,black,Solid,bow detail on upper,slip-on
+p146,inner_top,star and pegasus print sleeveless top,Women's,whimsical casual top,cropped fit,cotton fabric,"dark blue, gold","star, moon, pegasus, and scales print",halter neck,pullover
+p147,bottom,star and pegasus print wide-leg trousers,Women's,whimsical casual trousers,wide-leg,cotton fabric,"dark blue, gold","star, moon, pegasus, and scales print",elastic waistband,slip-on
+p148,bag,white lace cutout tote bag,Women's,gentle fashion bag,tote bag silhouette,lace,white,cut-out pattern,long shoulder strap,open-front
+p149,shoes,off-white bow thong sandals,Women's,sweet casual slides,thong sandal silhouette,leather,off-white and brown,Solid,large bow detail on upper,slip-on
+p150,outerwear,floral smiley face print knit cardigan,Women's,playful casual jacket,loose cropped fit,knit fabric,"navy, pink, yellow",floral smiley face and numeric print,"stand collar, zip closure",zippered
+p151,shoes,black patent leather T-strap block heel pumps,Women's,vintage preppy flats,low-top block heel silhouette,patent leather,black,Solid,"T-strap, buckle, brogue detailing",slip-on
+p152,outerwear,black loose-fit leather jacket,Women's,cool casual jacket,loose cropped fit,leather,black,Solid,"spread collar, zip closure, side pockets",zippered
+p153,mid_layer_top,red ribbed knit top,Women's,minimalist basic top,slim fit,knit fabric,red,brand logo on chest,"crew neck, ribbed texture",pullover
+p154,inner_top,star-embellished white lace collar top,Women's,sweet casual top,slim fit,cotton fabric,white,star embellishment on chest,"lace collar, lace cuffs",pullover
+p155,bottom,grey textured pleated skirt,Women's,minimalist casual skirt,cropped fit,cotton fabric,gray,brand logo on side,"Elastic waistband, pleated design",slip-on
+p156,accessory,white lettuce-edge knee-high socks,Women's,sweet socks,knee-high silhouette,cotton fabric,white,Solid,"lettuce-edge cuff, ribbed texture",slip-on
+p157,shoes,black and white colorblock bow flats,Women's,sweet casual flats,low-top flat silhouette,leather,"white, black",Solid,"bow detail, T-strap",slip-on
+p158,outerwear,pink and white rose heart knit cardigan,Women's,gentle casual jacket,loose cropped fit,knit fabric,off-white and pink,rose and heart jacquard,"stand collar, zip closure",zippered
+p159,bottom,pink double-layer ruffled skirt,Women's,sweet casual skirt,mid-length,cotton fabric,pink,Solid,"elastic waistband, double-layer ruffle",slip-on
+p160,shoes,beige colorblock casual sneakers,Unisex,vintage casual shoes,low-top flat silhouette,mesh and suede,off-white and brown,Solid,"color-block laces, breathable mesh",slip-on
+p161,onepiece,beige and black plaid faux-two-piece dress,Women's,preppy sweet dress,cropped fit,knit and wool blend,off-white and black,"plaid pattern, heart logo on chest","crew neck cardigan, pleated skirt",button-up
+p162,accessory,white ribbon-embellished knee-high socks,Women's,sweet socks,knee-high silhouette,cotton fabric,white,Solid,ribbon bow at cuff,slip-on
+p163,shoes,black woven-detail loafers,Women's,vintage casual flats,low-top flat silhouette,leather,black,Solid,woven detail on upper,slip-on
+p164,outerwear,star jacquard colorblock knit cardigan,Women's,gentle casual cardigan,cropped fit,knit fabric,off-white and black,"star jacquard, heart logo","crew neck, lace placket",button-up
+p165,bottom,star jacquard colorblock pleated skirt,Women's,gentle casual skirt,cropped fit,knit fabric,off-white and black,star jacquard,"elastic waistband, lace hem",slip-on
+p166,accessory,off-white contrast stripe mid-calf socks,Unisex,minimalist accessory socks,mid-calf silhouette,cotton fabric,"off-white, brown, black",striped cuffs,ribbed texture,slip-on
+p167,shoes,black platform metal-buckle loafers,Women's,cool casual flats,low-top chunky silhouette,leather,black,Solid,"metal buckle detail, platform sole",slip-on
+p168,mid_layer_top,navy argyle bow-tie knit top,Women's,preppy casual top,slim fit,knit fabric,"navy, off-white, red","argyle texture, bow tie","spread collar, contrast cuffs",pullover
+p169,bottom,navy double-stripe pleated skirt,Women's,preppy casual skirt,cropped fit,knit fabric,"navy, white",double-striped hem,"Elastic waistband, pleated design",slip-on
+p170,accessory,black bear-embellished beret,Women's,sweet casual headwear,beret style,suede fabric,black,bear embellishment on side,fitted head design,wearable
+p171,shoes,brown multi-buckle tall boots,Women's,vintage cool boots,knee-high block heel silhouette,leather,brown,Solid,"multi-metal buckle detail on upper, platform sole",slip-on
+p172,mid_layer_top,pink and grey argyle knit vest,Women's,preppy casual vest,cropped fit,knit fabric,"gray, pink, white",argyle texture,"crew neck, brand logo",pullover
+p173,inner_top,white wide-collar long-sleeve top,Women's,sweet basic top,slim fit,cotton fabric,white,small logo on chest,"oversized collar, half-placket",pullover
+p174,bottom,grey and pink trim pleated skirt,Women's,preppy casual skirt,cropped fit,knit fabric,gray,pink and white trim on hem,"Elastic waistband, pleated design",slip-on
+p175,shoes,white platform casual sneakers,Unisex,minimalist casual shoes,low-top chunky silhouette,leather,white,brand logo on shoe body,lace-up fastening,slip-on
+p176,mid_layer_top,red and white patterned collar knit top,Women's,vintage casual top,slim fit,knit fabric,"red, off-white",all-over print,"spread collar, bow tie detail",pullover
+p177,bottom,red-striped trim pleated skirt,Women's,vintage casual skirt,cropped fit,knit fabric,red,patterned hem,"Elastic waistband, pleated design",slip-on
+p178,accessory,black lace-trim mid-calf socks,Women's,sweet socks,mid-calf silhouette,cotton fabric,black,Solid,lace trim at cuff,slip-on
+p179,shoes,black patent leather Chelsea boots,Women's,cool casual boots,ankle boot silhouette,patent leather,black,Solid,"elasticated boot opening, platform sole",slip-on
+p180,outerwear,navy colorblock collar baseball jacket,Women's,preppy casual jacket,cropped fit,cotton fabric,"navy, off-white",text and badge logo on chest,"spread collar, button closure",button-up
+p181,outerwear,red and black argyle emblem knit cardigan,Women's,preppy casual jacket,cropped fit,knit fabric,"black, red, white","argyle, letter, heart, and badge logo","spread collar, button closure",button-up
+p182,bottom,red and black argyle heart skirt,Women's,preppy casual skirt,cropped fit,knit fabric,"black, red, white","argyle, letter, and heart logo","elastic waistband, button detail",slip-on
+p183,accessory,beige and brown stripe mid-calf socks,Unisex,minimalist accessory socks,mid-calf silhouette,cotton fabric,"off-white, brown, red",striped cuffs,ribbed texture,slip-on
+p184,shoes,khaki colorblock platform dad sneakers,Unisex,vintage casual shoes,low-top chunky silhouette,mesh and suede,"khaki, off-white",Solid,"lace-up fastening, platform sole",slip-on
+p185,mid_layer_top,blue and white cat print knit top,Women's,sweet casual top,cropped fit,knit fabric,"light blue, white",cat print on chest,"crew neck, contrast collar",pullover
+p186,bottom,blue and white cat striped skirt,Women's,sweet casual skirt,cropped fit,knit fabric,"light blue, white",cat and red bow logo on side,"elastic waistband, striped detail",slip-on
+p187,accessory,silver gray textured tights,Women's,minimalist basic socks,tights silhouette,knit fabric,silver gray,Solid,textured design,slip-on
+p188,bag,silver pearl heart handbag,Women's,sweet fashion bag,mini Boston bag silhouette,patent leather,silver,"pearl bow, heart charm","top handle, crossbody strap",open-front
+p189,shoes,silver white sequin T-strap flats,Women's,sweet glitter flats,low-top flat silhouette,sequin fabric,silver white,Solid,"T-strap, buckle",slip-on
+p190,outerwear,beige and black colorblock shearling jacket,Women's,gentle casual jacket,cropped fit,shearling,off-white and black,Solid,"spread collar, button closure",button-up
+p191,mid_layer_top,gray and red puppy print knit top,Women's,sweet casual top,cropped fit,knit fabric,"gray, white, red",puppy and brand logo on chest,"crew neck, contrast trim",pullover
+p192,inner_top,white lettuce-edge mock neck top,Women's,gentle basic top,slim fit,cotton fabric,white,brand logo on chest,"mock neck, double-layered lettuce-edge hem",pullover
+p193,bottom,red and black polka dot skirt,Women's,vintage casual skirt,cropped fit,cotton fabric,"red, black",brand logo on side,"elastic waistband, polka dot texture",slip-on
+p194,accessory,black tights,Women's,minimalist basic socks,tights silhouette,knit fabric,black,Solid,solid color texture,slip-on
+p195,shoes,gray plush platform ankle boots,Women's,warm casual boots,ankle boot silhouette,suede and plush fabric,gray,Solid,"faux fur collar, metal buckle detail",slip-on
+p196,mid_layer_top,blue and white plaid short-sleeve knit top,Women's,preppy casual top,cropped fit,knit fabric,"white, blue",brand logo on chest,"crew neck, plaid texture",pullover
+p197,inner_top,light blue fine check long-sleeve shirt,Women's,minimalist basic shirt,slim fit,cotton fabric,"light blue, white",brand logo on chest,"spread collar, button closure",button-up
+p198,bottom,blue and white plaid skirt,Women's,preppy casual skirt,cropped fit,knit fabric,"white, blue",brand logo on waistband,"elastic waistband, plaid texture",slip-on
+p199,accessory,white plush earmuffs,Unisex,warm casual accessories,earmuff silhouette,plush fabric,white,Solid,full ear coverage design,wearable
+p200,bag,black glossy handbag,Women's,minimalist fashion bag,mini Boston bag silhouette,patent leather,"black, silver",Solid,"top handle, crossbody strap",open-front
+p201,shoes,burgundy patent leather double-buckle T-strap flats,Women's,vintage sweet flats,low-top stiletto silhouette,patent leather,burgundy,Solid,"double metal buckle, T-strap",slip-on
+p202,outerwear,light blue and black striped knit cardigan,Women's,preppy casual cardigan,cropped fit,knit fabric,"light blue, black",brand logo on chest,"V-neck, button closure, side pockets",button-up
+p203,inner_top,light blue and black striped cat sequin top,Women's,sweet casual top,cropped fit,knit fabric,"light blue, black, white",cat and sequin embellishment on chest,"crew neck, lettuce-edge cuffs and hem",pullover
+p204,bottom,black multi-layered ruffle skirt,Women's,vintage elegant skirt,mid-length,glossy fabric,black,Solid,"multi-layered ruffles, high-waisted design",slip-on
+p205,shoes,black and white colorblock bow flats,Women's,sweet casual flats,low-top flat silhouette,leather,"white, black",Solid,"bow detail, T-strap",slip-on
+p206,inner_top,gray and white striped black cat faux two-piece top,Women's,casual faux-two-piece top,cropped fit,knit fabric,"gray, white, red, blue",black cat embellishment on chest,"hooded design, striped texture",pullover
+p207,bottom,brown and blue plaid wide-leg trousers,Women's,vintage casual trousers,wide-leg,cotton fabric,"brown, blue, white",plaid texture,"elastic waistband, side pockets",slip-on
+p208,shoes,khaki colorblock casual sneakers,Unisex,vintage casual shoes,low-top flat silhouette,suede and mesh,"khaki, off-white",Solid,"lace-up fastening, color-block",slip-on
+p209,outerwear,gray hooded wool coat,Women's,warm casual jacket,mid-length,wool blend,gray,Solid,"hooded, button closure, side pockets",button-up
+p210,inner_top,"red, white and blue striped cherry top",Women's,sweet casual top,cropped fit,knit fabric,"off-white, red, blue, black","cherry, bow, and brand logo on chest","crew neck, striped texture",pullover
+p211,bottom,navy heart embroidered wide-leg jeans,Women's,casual sweet-cool trousers,wide-leg,denim,navy blue,heart embroidery on pocket,"elastic waistband, straight-leg fit",slip-on
+p212,accessory,burgundy suede beret,Women's,vintage fashion headwear,beret style,suede fabric,burgundy,Solid,minimalist beret design,wearable
+p213,bag,burgundy patent leather handbag,Women's,vintage fashion bag,boston bag silhouette,patent leather,burgundy,Solid,"dual top handles, metal lock",open-front
+p214,shoes,black patent leather T-strap loafers,Women's,vintage casual flats,low-top block heel silhouette,patent leather,black,Solid,"T-strap, metal buckle",slip-on
+p215,outerwear,red and gray colorblock puppy heart knit cardigan,Women's,sweet casual jacket,cropped fit,knit fabric,"red, gray, off-white","puppy, heart, and brand logo","zipper closure, side pockets",zippered
+p216,bottom,gray and red bow knit skirt,Women's,sweet casual skirt,cropped fit,knit fabric,"gray, red, off-white",red bow on side,"elastic waistband, ribbed texture",slip-on
+p217,bag,burgundy bear-embellished handbag,Women's,sweet fashion bag,boston bag silhouette,patent leather,burgundy,bear and bow charm,"single top handle, crossbody strap",open-front
+p218,mid_layer_top,off-white knit leg warmers,Women's,warm accessories,leg warmer silhouette,knit fabric,off-white,Solid,ribbed texture,slip-on
+p219,shoes,dark brown patent leather platform loafers,Women's,cool casual flats,low-top chunky silhouette,patent leather,"dark brown, black",Solid,"platform sole, loafer style",slip-on
+p220,mid_layer_top,red and black colorblock puppy star knit vest,Women's,sweet casual vest,cropped fit,knit fabric,"red, black, white","star, puppy, and brand logo","crew neck, button closure, lettuce-edge hem",button-up
+p221,inner_top,white bow embroidered lettuce-edge shirt,Women's,sweet gentle shirt,cropped fit,cotton fabric,white,bow embroidery on chest,"lettuce-edge crew neck, lettuce-edge cuffs and hem",button-up
+p222,bottom,navy plaid multi-layered ruffle skirt,Women's,vintage elegant skirt,mid-length,cotton fabric,"navy, white",plaid texture,"multi-layered ruffles, elastic waistband",slip-on
+p223,bag,burgundy heart-shaped handbag,Women's,sweet fashion bag,heart-shaped bag silhouette,leather,burgundy,Solid,"single top handle, zipper closure",open-front
+p224,shoes,black patent leather bow loafers,Women's,sweet vintage flats,low-top flat silhouette,patent leather,black,Solid,bow detail on upper,slip-on
+p225,mid_layer_top,light blue bear letter hooded sweatshirt,Women's,sweet casual sweatshirt,cropped fit,cotton fabric,light blue,"bear, heart, and letter logo on chest","lettuce-edge hood, zipper closure",zippered
+p226,inner_top,white bicycle print lettuce-edge top,Women's,fresh casual top,slim fit,cotton fabric,white,all-over bicycle print,"lettuce-edge mock neck, lettuce-edge cuffs",pullover
+p227,bottom,white multi-layered ruffle skirt,Women's,sweet elegant skirt,mid-length,satin,white,Solid,"multi-layered ruffles, elastic waistband",slip-on
+p228,accessory,white lace trim mid-calf socks,Women's,sweet socks,mid-calf silhouette,cotton and lace,white,Solid,"lace-trim cuffs, brand logo",slip-on
+p229,shoes,silver bow velcro flats,Women's,glittery sweet flats,low-top flat silhouette,glossy fabric,silver,Solid,"bow detail on upper, hook-and-loop closure",slip-on
+p230,inner_top,pink plaid bow shirt dress,Women's,sweet gentle dress,cropped fit,cotton fabric,pink,bow embroidery on chest,"lapel collar, side bow, heart-shaped buttons",button-up
+p231,bottom,pink plaid bow wide-leg trousers,Women's,sweet casual trousers,wide-leg,cotton fabric,pink,side bow embroidery,"elastic waistband, loose fit",slip-on
+p232,shoes,silver butterfly rhinestone thong sandals,Women's,glittery sweet sandals,flat thong silhouette,glossy finish and rhinestones,"silver, nude",butterfly rhinestone embellishment,buckle closure,slip-on
+p233,outerwear,grey and white colorblock stand-collar zip jacket,Women's,minimalist casual jacket,cropped fit,cotton fabric,"gray, white",small logo on chest,"stand collar, zipper closure, side pockets",zippered
+p234,bottom,grey and white colorblock wide-leg sweatpants,Women's,minimalist casual trousers,wide-leg,cotton fabric,"gray, white",side logo tab,"elastic waistband, loose fit",slip-on
+p235,accessory,brown letter baseball cap,Women's,casual fashion headwear,baseball cap silhouette,cotton fabric,brown,chest letter logo,adjustable hood,wearable
+p236,shoes,brown colorblock casual sneakers,Unisex,vintage casual shoes,low-top flat silhouette,suede fabric,"brown, white",Solid,"contrast laces, lace-up fastening",slip-on
+p237,outerwear,light blue cat heart knit cardigan,Women's,sweet casual cardigan,cropped fit,knit fabric,"light blue, white, black",chest cat and heart print,"spread collar, button closure",button-up
+p238,bottom,navy ruffled pocket wide-leg trousers,Women's,vintage casual trousers,wide-leg,denim,navy blue,pocket ruffle trim,"elastic waistband, loose fit",slip-on
+p239,shoes,light blue colorblock casual skate shoes,Unisex,minimalist casual shoes,low-top flat silhouette,satin and suede,"light blue, off-white",Solid,"wide laces, lace-up closure",slip-on
+p240,outerwear,brown red plaid faux fur collar jacket,Women's,vintage warm jacket,cropped fit,plaid fabric,"brown, red, white",chest floral embellishment,"plush lapel, zip closure",zippered
+p241,inner_top,off-white red trim heart letter top,Women's,sweet casual top,cropped fit,knit fabric,"off-white, red",back heart and letter logo,"stand collar, side red trim",pullover
+p242,bottom,brown heart pleated skirt,Women's,sweet preppy skirt,cropped fit,cotton fabric,brown,side pink heart logo,"elastic waistband, pleated texture",slip-on
+p243,bag,plaid puppy puffer handbag,Women's,cute fashion bag,mini bucket bag silhouette,"plaid fabric, plush","brown, red, white",puppy and bread embellishment,"top handle, crossbody strap",open-front
+p244,accessory,brown diamond pattern mid-calf socks,Women's,vintage warm socks,mid-calf silhouette,knit fabric,brown,diamond texture,lettuce-edge cuff,slip-on
+p245,shoes,brown and white colorblock faux fur high-top shoes,Women's,warm casual shoes,high-top silhouette,suede and plush fabric,"brown, white",Solid,"thick drawstring, plush collar",slip-on
+p246,outerwear,off-white red trim rabbit knit cardigan,Women's,sweet vintage cardigan,cropped fit,knit fabric,"off-white, red, black","chest rabbit, heart, and floral print","oversized lapel, button closure",button-up
+p247,mid_layer_top,burgundy bow pearl sweater,Women's,sweet glittery sweater,cropped fit,knit fabric,burgundy,bow and pearl embellishment,"crew neck, loose fit",pullover
+p248,bottom,black heart pleated skirt,Women's,sweet-cool preppy skirt,cropped fit,cotton fabric,black,side pink heart logo,"elastic waistband, pleated texture",slip-on
+p249,accessory,burgundy suede beret,Women's,vintage fashion headwear,beret style,suede fabric,burgundy,Solid,minimalist beret design,wearable
+p250,bag,burgundy plush phone bag,Women's,cute fashion bag,phone bag silhouette,plush fabric,burgundy,brand logo and pom-pom embellishment,"long shoulder strap, crossbody design",open-front
+p251,mid_layer_top,red slouchy knit leg warmers,Women's,warm fashion leg warmers,leg warmer silhouette,knit fabric,red,vertical ribbed texture,slouchy design,slip-on
+p252,shoes,white faux fur ankle boots,Women's,warm cute ankle boots,ankle boot silhouette,plush fabric,"white, black",Solid,"drawstring detail, platform sole",slip-on
+p253,outerwear,black and pink star hooded jacket,Women's,sweet-cool casual jacket,cropped fit,knit fabric,"black, pink, yellow",all-over star print,"hooded, zip closure, contrast piping",zippered
+p254,inner_top,pink striped collar letter top,Women's,sweet-cool casual top,slim fit,plush fabric,"pink, black, white",chest letter logo,mock neck with striped trim,pullover
+p255,bottom,distressed ripped denim shorts,Women's,cool casual shorts,cropped fit,denim,distressed gray-white,brand logo,"distressed raw hem, high-waisted",slip-on
+p256,bag,pink crochet chain mini backpack,Women's,sweet cute bag,mini backpack silhouette,crochet fabric,pink,Solid,"metal buckle, chain trim",open-front
+p257,accessory,pink vertical striped knee-high socks,Women's,minimalist sweet socks,knee-high silhouette,knit fabric,pink,vertical ribbed texture,solid color design,slip-on
+p258,shoes,black high-top rain boots,Women's,fashionable commuter rain boots,knee-high silhouette,rubber,black and white,brand logo,waterproof design,slip-on
+p259,mid_layer_top,off-white heart star knit top,Women's,sweet casual top,cropped fit,knit fabric,"off-white, black, pink","chest heart, star, and letter logo","hooded, color-block binding",pullover
+p260,bottom,navy heart letter wide-leg jeans,Women's,sweet-cool casual trousers,wide-leg,denim,navy blue,pocket heart and letter logo,"elastic waistband, loose fit",slip-on
+p261,bag,black and white striped star-shaped bag,Women's,cute personalized bag,star-shaped silhouette,"fabric, webbing","black, white, pink",striped and brand logo,pink shoulder strap,open-front
+p262,shoes,pink and black colorblock casual sneakers,Women's,sweet-cool casual shoes,low-top flat silhouette,suede fabric,"pink, black, white",brand logo,lace-up fastening,slip-on
+p263,inner_top,light blue heart striped ruffled top,Women's,sweet fresh top,cropped fit,cotton fabric,"light blue, white, black",heart and stripe,"oversized lapel, multi-layered ruffles",button-up
+p264,bottom,light blue heart striped wide-leg shorts,Women's,sweet fresh shorts,cropped fit,cotton fabric,"light blue, white, black",heart and stripe,"elastic waistband, loose fit",slip-on
+p265,accessory,white vertical striped knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,white,vertical ribbed texture,solid color design,slip-on
+p266,shoes,off-white letter embellished Mary Jane shoes,Women's,minimalist fashion flats,low-top flat silhouette,glossy fabric,"off-white, brown, black",brand letter logo,"velcro, bowknot",slip-on
+p267,inner_top,off-white striped sleeve rabbit print top,Women's,sweet casual top,loose fit,cotton fabric,off-white and black,"rabbit, heart, and letter","striped sleeves, crew neck",pullover
+p268,bottom,black ruffled flare trousers,Women's,vintage elegant trousers,flared silhouette,drapey fabric,black,Solid,"side ruffles, flared leg",slip-on
+p269,bag,black and pink plaid bow plush bag,Women's,sweet-cool fashion bag,cylindrical silhouette,plush fabric,"black, pink, white",plaid and brand logo,"pink bowknot, dual handles",open-front
+p270,shoes,black and white colorblock canvas sneakers,Unisex,casual basic shoes,low-top flat silhouette,canvas,black and white,Solid,lace-up fastening,slip-on
+p271,outerwear,navy floral knit cardigan,Women's,sweet minimalist cardigan,cropped fit,knit fabric,"navy, white",chest floral embellishment,"crew neck, button closure",button-up
+p272,inner_top,light blue plaid cartoon print shirt,Women's,fresh casual shirt,cropped fit,cotton fabric,"light blue, white, black",cartoon and letter print,"spread collar, button closure",button-up
+p273,bottom,navy floral wide-leg trousers,Women's,minimalist casual trousers,wide-leg,drapey fabric,"navy, white",side floral embellishment,"elastic waistband, loose fit",slip-on
+p274,bag,light blue knit cylindrical handbag,Women's,fresh cute bag,cylindrical silhouette,knit fabric,"light blue, pink",brand logo embellishment,single shoulder strap,open-front
+p275,shoes,light blue contrast lace-up casual sneakers,Unisex,fresh casual shoes,low-top flat silhouette,"suede, canvas","light blue, white, brown",brand letter logo,two-tone lace-up closure,slip-on
+p276,inner_top,pink plaid letter print shirt,Women's,sweet-cool casual shirt,loose fit,cotton fabric,"pink, white, black",letter slogan print,"spread collar, button closure",button-up
+p277,inner_top,white heart letter long-sleeve T-shirt,Women's,minimalist sweet T-shirt,slim fit,cotton fabric,white and pink,chest heart and letter print,crew neck design,pullover
+p278,bottom,black with white stripe flared trousers,Women's,vintage casual trousers,flared silhouette,drapey fabric,black and white,side stripe trim,"high-waisted, flared leg",slip-on
+p279,shoes,light pink suede casual sneakers,Women's,sweet casual shoes,low-top flat silhouette,suede fabric,"light pink, brown",Solid,lace-up fastening,slip-on
+p280,inner_top,pink and black raglan sleeve rabbit letter top,Women's,sweet-cool casual top,loose fit,cotton fabric,"pink, black",rabbit and letter print,"raglan sleeves, crew neck",pullover
+p281,bottom,gray heart-embellished pleated skirt,Women's,sweet preppy skirt,cropped fit,knit fabric,"gray, pink",side pink heart logo,"elastic waistband, pleated texture",slip-on
+p282,mid_layer_top,black slouchy knit leg warmers,Women's,cool and warm leg warmers,leg warmer silhouette,knit fabric,black,vertical ribbed texture,slouchy design,slip-on
+p283,shoes,black and white platform canvas sneakers,Unisex,casual sweet-cool shoes,low-top chunky silhouette,canvas,black and white,Solid,"lace-up fastening, platform sole",slip-on
+p284,outerwear,beige cartoon-embellished cropped jacket,Women's,minimalist cute jacket,cropped fit,woolen fabric,"beige, black",chest cartoon logo,"crew neck, button closure",button-up
+p285,inner_top,black basic short-sleeve T-shirt,Women's,minimalist basic style,slim fit,cotton fabric,black,Solid,crew neck design,pullover
+p286,bottom,black striped waistband paperbag skirt,Women's,cool casual skirt,cropped fit,lightweight fabric,"black, white",waistband white stripe,"elastic waistband, paperbag fit",slip-on
+p287,bag,black plush knit cylindrical bag,Women's,sweet-cool fashion bag,cylindrical silhouette,plush fabric,black,Solid,multi-handle design,open-front
+p288,accessory,black basic knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,black,Solid,solid color design,slip-on
+p289,shoes,black rhinestone-embellished Mary Jane shoes,Women's,sweet-cool fashion flats,low-top flat silhouette,patent leather,"black, silver",rhinestone embellishment,dual velcro closure,slip-on
+p290,outerwear,navy pearl-embellished denim jacket,Women's,sweet-cool vintage jacket,cropped fit,denim,"navy, white",all-over pearl embellishment,"spread collar, button closure",button-up
+p291,inner_top,white mock-neck short-sleeve T-shirt,Unisex,minimalist basic style,loose fit,cotton fabric,white,Solid,mock neck design,pullover
+p292,bottom,navy faux two-piece culottes,Women's,sweet casual trousers,fitted silhouette,stretch fabric,navy blue,Solid,side skirt panel detail,slip-on
+p293,accessory,white lace slouchy beanie,Women's,elegant fashion headwear,slouchy beanie silhouette,lace,white,lace pattern,elastic hood,wearable
+p294,mid_layer_top,white button-embellished knit leg warmers,Women's,sweet warm leg warmers,leg warmer silhouette,knit fabric,"white, black",button embellishment,cable knit texture,slip-on
+p295,shoes,navy heart-embellished casual sneakers,Unisex,fresh casual shoes,low-top flat silhouette,suede and mesh,"navy, white, gray",heart print,lace-up fastening,slip-on
+p296,outerwear,black and white question mark pattern knit cardigan,Women's,playful casual cardigan,loose fit,knit fabric,black and white,question mark print,"crew neck, button closure",button-up
+p297,mid_layer_top,black heart letter patchwork sweater,Women's,sweet-cool casual sweater,cropped fit,"knit, plush fabric",black,heart letter logo,mock neck design,pullover
+p298,bottom,black leather paperbag skirt,Women's,cool fashion skirt,cropped fit,leather,black,Solid,"drawstring waist, multi-layered skirt",slip-on
+p299,bag,black and pink plaid logo plush bag,Women's,sweet-cool fashion bag,cylindrical silhouette,plush fabric,"black, pink, white",plaid logo detail,multi-handle design,open-front
+p300,accessory,off-white label-embellished knee-high socks,Women's,minimalist fashion socks,knee-high silhouette,knit fabric,off-white and pink,label detail,vertical ribbed texture,slip-on
+p301,shoes,black and white casual sneakers,Unisex,minimalist casual shoes,low-top flat silhouette,nylon,black and white,brand logo,lace-up fastening,slip-on
+p302,outerwear,light yellow butterfly-embellished cropped jacket,Women's,sweet elegant jacket,cropped fit,wool blend,light yellow,butterfly decorative buckle,"crew neck, button closure",button-up
+p303,inner_top,white lettuce-edge puff-sleeve shirt,Women's,gentle sweet shirt,loose fit,cotton fabric,white,Solid,"lettuce-edge collar, puff sleeves",button-up
+p304,bottom,light yellow butterfly-embellished mini skirt,Women's,sweet elegant skirt,cropped fit,wool blend,light yellow,butterfly decorative buckle,elastic waistband,slip-on
+p305,bag,light yellow knit cylindrical bag,Women's,fresh cute bag,cylindrical silhouette,knit fabric,"light yellow, pink",brand logo embellishment,dual strap design,open-front
+p306,accessory,white vertical striped knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,white,vertical ribbed texture,solid color design,slip-on
+p307,shoes,black and white colorblock Mary Jane shoes,Women's,vintage elegant flats,low-top flat silhouette,leather,"white, black",metal buckle detail,dual velcro closure,slip-on
+p308,outerwear,gray cherry-embellished knit cardigan,Women's,sweet-cool casual cardigan,cropped fit,knit fabric,"gray, red","cherry print, red buttons","crew neck, button closure",button-up
+p309,mid_layer_top,burgundy jacquard mock-neck sweater,Women's,vintage gentle sweater,loose fit,knit fabric,burgundy,jacquard texture,mock neck design,pullover
+p310,bottom,gray red button-embellished mini skirt,Women's,sweet-cool casual skirt,cropped fit,knit fabric,"gray, red",red button detail,elastic waistband,slip-on
+p311,shoes,white plush mid-calf boots,Women's,warm cute boots,mid-calf silhouette,plush fabric,"white, gray",Solid,fully plush lined,slip-on
+p312,mid_layer_top,navy letter print polo sweatshirt,Women's,casual trendy sweatshirt,loose fit,cotton fabric,"navy, white","English slogan, star","polo collar, side stripes",pullover
+p313,bottom,navy pleated wide-leg trousers,Women's,casual designer trousers,wide-leg,drapey fabric,navy blue,Solid,pleated leg detail,slip-on
+p314,accessory,gray knit beret,Women's,vintage artistic headwear,beret style,knit fabric,gray,knit texture,elastic hood,wearable
+p315,shoes,silver-gray outdoor sneakers,Unisex,techwear casual shoes,low-top chunky silhouette,"mesh, leather",silver gray and black,brand letter logo,drawstring tie,slip-on
+p316,mid_layer_top,light blue cat print plush sweater,Women's,sweet cute sweater,loose fit,plush knit fabric,"light blue, white","cat, letter print",crew neck design,pullover
+p317,inner_top,white lace collar puff sleeve shirt,Women's,gentle elegant shirt,loose fit,cotton fabric,white,lace collar detail,"puff sleeves, lettuce-edge cuffs",button-up
+p318,bottom,navy drawstring ruffled hem trousers,Women's,sweet casual trousers,wide-leg,drapey fabric,navy blue,Solid,"drawstring waist, ruffled hem",slip-on
+p319,accessory,white plush earflap hat,Women's,warm cute headwear,trapper hat silhouette,plush fabric,white,Solid,earflap design,wearable
+p320,shoes,khaki plush casual sneakers,Women's,warm casual shoes,low-top flat silhouette,plush fabric,"khaki, brown",Solid,lace-up fastening,slip-on
+p321,mid_layer_top,pink plaid tweed vest,Women's,elegant sweet womenswear,cropped vest silhouette,tweed,"pink, black, white",plaid texture,metal buckle closure,slip-on
+p322,mid_layer_top,white diamond cable knit sweater,Women's,gentle vintage sweater,slim fit,knit fabric,white,"diamond, cable knit texture",mock neck design,pullover
+p323,bottom,pink plaid tweed pleated skirt,Women's,elegant sweet skirt,cropped fit,tweed,"pink, black, white","plaid, pleated texture",elastic waistband,slip-on
+p324,accessory,off-white vertical striped knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,off-white,vertical ribbed texture,solid color design,slip-on
+p325,shoes,light pink metal buckle mules,Women's,gentle casual flats,low-top mule silhouette,suede fabric,"light pink, gold, brown",metal buckle detail,slip-on,slip-on
+p326,mid_layer_top,navy bow patchwork sweater,Women's,sweet-cool casual sweater,loose fit,"knit, plush fabric","navy, white, light blue","bow detail, ruffled hem",crew neck design,pullover
+p327,inner_top,off-white heart letter base layer shirt,Women's,minimalist sweet innerwear,slim fit,cotton fabric,off-white,heart letter print,lettuce-edge collar and cuffs,pullover
+p328,bottom,black bow-embellished flared trousers,Women's,sweet-cool casual trousers,flared silhouette,stretch fabric,"black, light blue",cuff bow detail,"high-waisted, flared leg",slip-on
+p329,bag,light blue plaid knit bag,Women's,fresh cute bag,cylindrical silhouette,knit fabric,"light blue, pink, white",plaid logo detail,single shoulder strap,open-front
+p330,shoes,white and black polka dot casual shoes,Women's,vintage casual shoes,low-top flat silhouette,leather,"white, black",polka dot texture,lace-up fastening,slip-on
+p331,mid_layer_top,gray and white floral collar sweatshirt,Women's,sweet casual sweatshirt,cropped fit,cotton fabric,"gray, white, green",3D floral detail,lapel design,pullover
+p332,bottom,gray lace-trim pleated skirt,Women's,gentle sweet skirt,cropped fit,knit fabric,"gray, white",lace hem,elastic waistband,slip-on
+p333,accessory,white vertical striped knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,white,vertical ribbed texture,solid color design,slip-on
+p334,shoes,black pearl-embellished Mary Jane shoes,Women's,elegant sweet footwear,low-top chunky silhouette,patent leather,black and white,pearl decorative button,Hook-and-loop closure,slip-on
+p335,outerwear,black colorful star knit cardigan,Women's,trendy casual cardigan,loose fit,knit fabric,"black, yellow, green, pink, silver",3D star detail,"crew neck, colorful button closure",button-up
+p336,bottom,light yellow butterfly-embellished mini skirt,Women's,sweet elegant skirt,cropped fit,wool blend,light yellow,butterfly decorative buckle,elastic waistband,slip-on
+p337,bag,light yellow plaid logo knit bag,Women's,fresh cute bag,cylindrical silhouette,knit fabric,"light yellow, pink, white",plaid logo detail,dual strap design,open-front
+p338,accessory,black basic knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,black,Solid,solid color design,slip-on
+p339,shoes,light yellow and black striped casual shoes,Unisex,minimalist casual shoes,low-top flat silhouette,suede fabric,"light yellow, black, brown",striped detail,lace-up fastening,slip-on
+p340,outerwear,black with pink trim colorful button cardigan,Women's,sweet-cool elegant cardigan,cropped fit,tweed,"black, pink, blue, purple, yellow, red",colorful button detail,"crew neck, pink trim",button-up
+p341,mid_layer_top,black white floral cropped sweater,Women's,sweet-cool casual sweater,cropped fit,knit fabric,black and white,floral print,crew neck design,pullover
+p342,bottom,black diamond pattern tutu skirt,Women's,elegant vintage skirt,mid-length,quilted fabric,black,diamond texture,elastic waistband,slip-on
+p343,shoes,black platform lace-up leather shoes,Women's,cool vintage flats,low-top chunky silhouette,patent leather,black,Solid,lace-up fastening,slip-on
+p344,inner_top,light pink puff sleeve collared shirt,Women's,gentle sweet shirt,cropped fit,cotton fabric,light pink,Solid,"oversized lapel, puff sleeves",button-up
+p345,bottom,white lace-trim tiered skirt,Women's,elegant sweet skirt,cropped fit,cotton fabric,white,lace trim detail,"tiered skirt, elastic waistband",slip-on
+p346,shoes,light pink bow Mary Jane shoes,Women's,gentle elegant flats,low-top flat silhouette,satin,"light pink, brown",bow detail,Hook-and-loop closure,slip-on
+p347,mid_layer_top,gray and pink letter POLO sweatshirt,Women's,sweet-cool casual sweatshirt,loose fit,plush fabric,"gray, pink",letter print,"polo collar, pink buttons",pullover
+p348,bottom,gray and pink letter plush shorts,Women's,sweet-cool casual trousers,cropped fit,plush fabric,"gray, pink",letter print,elastic waistband,slip-on
+p349,accessory,pink GG pattern knee-high socks,Women's,vintage fashion socks,knee-high silhouette,knit fabric,"pink, red",Double G pattern,color-block design,slip-on
+p350,shoes,white platform sneakers,Unisex,minimalist casual shoes,low-top chunky silhouette,canvas,white,brand letter logo,lace-up fastening,slip-on
+p351,outerwear,black and red toggle down jacket,Women's,vintage warm coat,cropped fit,down-filled fabric,"black, red",toggle button detail,hooded design,button-up
+p352,mid_layer_top,beige and brown puppy pattern sweater,Women's,cute casual sweater,loose fit,knit fabric,"off-white, brown, red","puppy, bow print",crew neck design,pullover
+p353,bottom,brown plaid wide-leg trousers,Women's,vintage casual trousers,wide-leg,woven fabric,"brown, beige",plaid texture,elastic waistband,slip-on
+p354,accessory,brown and white plush earflap hat,Women's,cute warm headwear,trapper hat silhouette,plush fabric,"brown, white, red",color-block,drawstring detail,wearable
+p355,shoes,brown and white wool platform snow boots,Women's,warm casual boots,mid-calf silhouette,"suede, wool","brown, white",polka dot laces,lace-up fastening,slip-on
+p356,outerwear,brown and pink striped colorblock down jacket,Women's,sweet-cool warm coat,cropped fit,down-filled fabric,"brown, pink, beige","striped sleeves, cherry detail",hooded design,zippered
+p357,bottom,dark blue wide-leg jeans,Women's,minimalist casual trousers,wide-leg,denim,dark blue,topstitch detail,button waist,slip-on
+p358,bag,light pink plush handbag,Women's,sweet fashion bag,handheld silhouette,"plush, leather",light pink,brand logo embellishment,"top handle, charm accessory",open-front
+p359,shoes,brownish-yellow plush mules,Women's,warm casual shoes,mule silhouette,plush fabric,tan,metal buckle detail,slip-on,slip-on
+p360,inner_top,brown and beige striped polo shirt,Women's,vintage casual top,cropped fit,knit fabric,"brown, beige","striped texture, small logo",polo collar,pullover
+p361,bottom,brown double-layer wide-leg trousers,Women's,minimalist casual trousers,wide-leg,drapey fabric,brown,small logo detail,elastic waistband,slip-on
+p362,accessory,light pink plush earmuffs,Women's,cute warm earrings,earmuff silhouette,plush fabric,light pink,small logo detail,elastic headband,wearable
+p363,bag,light pink plush colorblock handbag,Women's,sweet fashion bag,handheld silhouette,"plush, leather","light pink, off-white",metal logo detail,"tote, zipper closure",open-front
+p364,shoes,brown and white wool platform snow boots,Women's,warm casual boots,mid-calf silhouette,"suede, wool","brown, white",polka dot laces,lace-up fastening,slip-on
+p365,outerwear,beige down jacket with heart patch,Women's,cute warm coat,cropped fit,down-filled fabric,"cream, black",heart logo detail,"hooded, button closure",button-up
+p366,bottom,brown and green plaid pleated skirt,Women's,vintage sweet skirt,cropped fit,woven fabric,"brown, green","plaid, pleated texture",elastic waistband,slip-on
+p367,bag,brown and pink heart knit bag,Women's,cute casual bag,shoulder bag silhouette,knit fabric,"brown, pink",heart embellishment,knit shoulder straps,open-front
+p368,mid_layer_top,brown knit leg warmers,Women's,warm casual accessories,leg warmer silhouette,knit fabric,brown,small logo detail,elastic cuffs,slip-on
+p369,shoes,brown suede platform ankle boots,Women's,warm casual boots,short-shaft silhouette,suede fabric,brown,Solid,slip-on,slip-on
+p370,mid_layer_top,black sweater with bear and rabbit pattern,Women's,sweet-cool casual sweater,loose fit,knit fabric,"black, brown, red","bear and rabbit, heart print",crew neck design,pullover
+p371,bottom,brown pleated skirt with heart embellishment,Women's,sweet casual skirt,cropped fit,woven fabric,"brown, off-white",heart embellishment,elastic waistband,slip-on
+p372,accessory,off-white knit earflap hat with red floral pattern,Women's,cute warm headwear,trapper hat silhouette,knit fabric,"off-white, red","floral pattern, pom-pom",drawstring fastening,wearable
+p373,bag,brown and white wool colorblock handbag,Women's,warm fashion bag,handheld silhouette,"suede, wool","brown, off-white",brand logo embellishment,"tote, zipper closure",open-front
+p374,accessory,off-white vertical striped knee-high socks,Women's,minimalist basic socks,knee-high silhouette,knit fabric,off-white,vertical ribbed texture,solid color design,slip-on
+p375,shoes,brownish-yellow plush double-buckle ankle boots,Women's,cute warm boots,short-shaft silhouette,plush fabric,"tan, brown",metal buckle detail,slip-on,slip-on
+p376,mid_layer_top,blue and brown striped heart sweater,Women's,sweet-cool casual sweater,loose fit,knit fabric,"light blue, brown, yellow","heart embellishment, striped texture",crew neck design,pullover
+p377,bottom,brown pleated skirt with heart embellishment,Women's,sweet casual skirt,cropped fit,woven fabric,"brown, off-white",heart embellishment,elastic waistband,slip-on
+p378,accessory,off-white plush earmuffs,Women's,warm cute earrings,earmuff silhouette,plush fabric,off-white and black,Solid,elastic headband,wearable
+p379,accessory,yellow knit hat with bear and heart pattern,Women's,cute warm headwear,knit beanie silhouette,knit fabric,"yellow, gray, red",bear and heart pattern,elastic hood,wearable
+p380,bag,plaid handbag with pom-pom embellishment,Women's,vintage cute bag,handheld silhouette,plaid fabric,"red, green, yellow, blue",pom-pom charm,"top handle, crossbody strap",open-front
+p381,accessory,brown diamond-pattern knee-high socks,Women's,vintage warm socks,knee-high silhouette,knit fabric,brown,diamond texture,lettuce-edge cuffs,slip-on
+p382,shoes,off-white plush knee-high boots,Women's,warm elegant boots,knee-high silhouette,plush fabric,off-white,3D embellishment,slip-on,slip-on
+p383,outerwear,brown and white embroidered sherpa jacket,Women's,vintage cute coat,cropped fit,"suede, shearling","brown, white",star and mushroom embroidery,"stand collar, button closure",button-up
+p384,bottom,off-white sweatpants with heart pattern,Women's,sweet-cool casual trousers,jogger silhouette,fleece-lined fabric,off-white,heart and star print,elastic waistband,slip-on
+p385,accessory,off-white plush earmuffs,Women's,cute warm earrings,earmuff silhouette,plush fabric,off-white and black,Solid,elastic headband,wearable
+p386,accessory,off-white plush beret,Women's,gentle fashion headwear,beret style,plush fabric,off-white,Solid,elastic hood,wearable
+p387,shoes,brown and white colorblock platform snow boots,Women's,vintage warm boots,short-shaft silhouette,"suede, leather","brown, white",knot tie,lace-up fastening,slip-on
+p388,outerwear,off-white sherpa jacket with star buttons,Women's,sweet-cool warm coat,cropped fit,shearling,off-white and black,star button embellishment,"hooded, toggle closure",button-up
+p389,mid_layer_top,brown sweater with rabbit pattern,Women's,cute casual sweater,loose fit,knit fabric,"brown, yellow, pink",rabbit print,crew neck design,pullover
+p390,bottom,brown contrast-trim wide-leg trousers,Women's,minimalist elegant trousers,wide-leg,drapey fabric,"brown, white",contrast-trim pocket,elastic waistband,slip-on
+p391,shoes,brown plush mules,Women's,warm casual shoes,mule silhouette,plush fabric,brown,Solid,slip-on,slip-on
+p392,outerwear,beige and brown contrast-trim tweed jacket,Women's,elegant vintage coat,cropped fit,tweed,off-white and brown,contrast-trim embellishment,"crew neck, button closure",button-up
+p393,inner_top,brown mock-neck base layer top,Women's,minimalist basic top,slim fit,cotton fabric,brown,small logo detail,mock neck design,pullover
+p394,bottom,beige and brown contrast-trim pocket mini skirt,Women's,sweet casual skirt,cropped fit,tweed,off-white and brown,contrast-trim pocket,elastic waistband,slip-on
+p395,bag,brown plush-embellished crossbody bag,Women's,cute fashion bag,crossbody silhouette,plush fabric,brown,"bear, rhinestone embellishment",leather shoulder strap,open-front
+p396,accessory,brown vertical-ribbed knit tights,Women's,warm slim-fit tights,tights silhouette,knit fabric,brown,vertical ribbed texture,high-waisted design,slip-on
+p397,shoes,brown loafers with metal logo,Women's,vintage elegant flats,low-top flat silhouette,leather,brown,metal logo detail,slip-on,slip-on
+p398,mid_layer_top,pink heart letter sweatshirt,Women's,sweet-cool casual sweatshirt,loose fit,cotton fabric,pink,heart and letter print,crew neck design,pullover
+p399,bottom,pink heart letter sweatpants,Women's,sweet-cool casual trousers,jogger silhouette,cotton fabric,pink,heart and letter print,elastic waistband,slip-on
+p400,shoes,beige and pink contrast platform sneakers,Women's,sweet casual shoes,low-top chunky silhouette,canvas,off-white and pink,contrast-trim embellishment,lace-up fastening,slip-on
+p401,mid_layer_top,"white, pink, and brown striped sweater",Women's,sweet-cool casual sweater,loose fit,knit fabric,"white, brown, pink","striped, pink trim",crew neck design,pullover
+p402,bottom,brown corduroy flared trousers,Women's,vintage casual trousers,flared silhouette,corduroy,brown,vertical ribbed texture,button waist,slip-on
+p403,accessory,brown corduroy triangular scarf,Unisex,vintage fashion accessories,bandana silhouette,corduroy,brown,small logo detail,tie-front,wearable
+p404,shoes,beige platform canvas sneakers,Women's,minimalist casual shoes,low-top chunky silhouette,canvas,beige,Solid,lace-up fastening,slip-on
+p405,mid_layer_top,light blue heart lace sweatshirt,Women's,gentle sweet sweatshirt,loose fit,cotton fabric,light blue,heart lace print,hooded design,pullover
+p406,bottom,grey lace flared sweatpants,Women's,gentle casual trousers,flared silhouette,cotton fabric,gray,lace hem,elastic waistband,slip-on
+p407,shoes,light blue colorblock casual sneakers,Women's,fresh casual shoes,low-top flat silhouette,"canvas, suede","light blue, white, brown",letter embellishment,lace-up fastening,slip-on
+p408,inner_top,navy contrast-trim polo shirt,Women's,preppy style top,cropped fit,cotton fabric,"navy, light blue",contrast-trim,polo collar,pullover
+p409,bottom,blue plaid asymmetrical skirt,Women's,vintage sweet-cool skirt,cropped fit,plaid fabric,"blue, white",plaid texture,elastic waistband,slip-on
+p410,accessory,white lace knee-high socks,Women's,sweet elegant socks,knee-high silhouette,lace,white,lace embellishment,bow-knot cuffs,slip-on
+p411,shoes,silver and white colorblock casual sneakers,Unisex,trendy casual shoes,low-top flat silhouette,metallic fabric,"silver, off-white",logo embellishment,lace-up fastening,slip-on
+p412,inner_top,pink and white plaid sleeveless polo shirt,Women's,sweet preppy style top,cropped fit,plaid fabric,"pink, white",plaid texture,polo collar,pullover
+p413,bottom,pink and white plaid pleated mini skirt,Women's,sweet preppy skirt,cropped fit,plaid fabric,"pink, white","plaid, pleated texture",elastic waistband,slip-on
+p414,shoes,light pink satin Mary Jane shoes,Women's,gentle elegant flats,flat silhouette,satin,light pink,small logo detail,buckle closure,slip-on
+p415,inner_top,beige and black polka dot sleeveless top,Women's,vintage sweet-cool top,cropped fit,chiffon,"beige, black",polka dot texture,ruffle trim,pullover
+p416,bottom,black mesh shorts,Women's,sweet-cool casual trousers,shorts silhouette,mesh fabric,black,bow detail,elastic waistband,slip-on
+p417,bag,black and white plaid pleated handbag,Women's,vintage fashion bag,handheld silhouette,plaid fabric,black and white,pleated texture,top handle strap,open-front
+p418,accessory,black ribbon knee-high socks,Women's,sweet-cool elegant socks,knee-high silhouette,knit fabric,black,ribbon embellishment,scalloped cuffs,slip-on
+p419,shoes,black double-buckle Mary Jane shoes,Women's,sweet-cool elegant flats,flat silhouette,leather,black,metal buckle detail,lace-up fastening,slip-on
+p420,outerwear,light blue contrast-stitch hooded jacket,Women's,minimalist trendy coat,cropped fit,cotton fabric,light blue,topstitch detail,zipper closure,zippered
+p421,inner_top,white puppy print long-sleeve top,Women's,cute casual top,slim fit,cotton fabric,"white, black",puppy print,mock neck design,pullover
+p422,bottom,light blue loose wide-leg trousers,Women's,minimalist casual trousers,wide-leg,cotton fabric,light blue,topstitch detail,elastic waistband,slip-on
+p423,shoes,silver-gray outdoor sneakers,Unisex,trendy outdoor shoes,high-top silhouette,"mesh, leather",silver gray and black,logo embellishment,lace-up fastening,slip-on
+p424,mid_layer_top,black floral print sweatshirt,Women's,sweet-cool casual sweatshirt,loose fit,distressed fabric,"black, white, blue",floral print,crew neck design,pullover
+p425,bottom,lake blue flared sweatpants,Women's,gentle casual trousers,flared silhouette,cotton fabric,lake blue,Solid,elastic waistband,slip-on
+p426,bag,green pleated decorative bag,Women's,cute decorative bag,mini silhouette,leather,green,pleated texture,hook-and-loop closure,open-front
+p427,shoes,grey and white colorblock casual sneakers,Women's,minimalist casual shoes,low-top silhouette,"mesh, suede",off-white,Solid,lace-up fastening,slip-on
+p428,mid_layer_top,off-white sailor collar heart sweatshirt,Women's,sweet preppy sweatshirt,loose fit,cotton fabric,off-white and black,heart and star print,sailor collar design,pullover
+p429,bottom,black mesh tiered skirt,Women's,sweet-cool elegant skirt,cropped fit,mesh fabric,black,bow detail,elastic waistband,slip-on
+p430,bag,black pink plaid plush bag,Women's,sweet-cool fashion bag,handheld silhouette,plush fabric,"black, pink and white",plaid logo detail,dual top handles,open-front
+p431,accessory,black pink bow mid-calf socks,Women's,sweet-cool elegant socks,mid-calf silhouette,knit fabric,"black, white, pink",bow embroidery,lettuce-edge cuffs,slip-on
+p432,shoes,black and white colorblock casual sneakers,Unisex,trendy casual shoes,low-top silhouette,"leather, suede",black and white,logo embellishment,lace-up fastening,slip-on
+p433,mid_layer_top,black rabbit cake print sweatshirt,Women's,cute casual sweatshirt,loose fit,plush fabric,"black, white, pink",rabbit and cake print,"hooded, contrast pockets",pullover
+p434,inner_top,off-white puppy embroidery long-sleeve top,Women's,gentle sweet top,slim fit,knit fabric,"off-white, black, pink",puppy embroidery,scalloped trim,pullover
+p435,bottom,black raw-edge flared trousers,Women's,sweet-cool casual trousers,flared silhouette,cotton fabric,black and white,raw-edge hem,elastic waistband,slip-on
+p436,bag,off-white plush rhinestone handbag,Women's,cute fashion bag,handheld silhouette,plush fabric,"beige, multicolor",rhinestone embellishment,woven shoulder strap,open-front
+p437,shoes,black plush NY mule shoes,Women's,trendy casual shoes,mule silhouette,plush fabric,black and white,NY logo embellishment,slip-on,slip-on
+p438,inner_top,black and pink colorblock cake print short-sleeve top,Women's,sweet-cool casual top,cropped fit,cotton fabric,"black, pink",cake print,raglan sleeves,pullover
+p439,bottom,black pink star-embellished shorts,Women's,sweet-cool casual trousers,shorts silhouette,cotton fabric,"black, pink",star embellishment,contrast topstitching,slip-on
+p440,shoes,pink and brown heart-embellished casual sneakers,Women's,sweet casual shoes,low-top silhouette,suede fabric,"pink, brown",heart embellishment,lace-up fastening,slip-on
+p441,inner_top,black short-sleeve top with bow detail,Women's,sweet-cool elegant top,cropped fit,cotton fabric,"black, beige",bow detail,asymmetric pleated design,pullover
+p442,bottom,white tiered cake skirt,Women's,sweet princess-style skirt,cropped fit,cotton fabric,white,multi-layered pleated texture,elastic waistband,slip-on
+p443,shoes,off-white satin Mary Jane shoes,Women's,gentle elegant flats,flat silhouette,satin,off-white,bow detail,buckle closure,slip-on
+p444,inner_top,light blue long-sleeve lace top,Women's,gentle sweet top,loose fit,cotton fabric,"light blue, black",heart print,lace hem,pullover
+p445,bottom,black raw-edge flared trousers,Women's,sweet-cool casual trousers,flared silhouette,plush fabric,black and white,raw-edge hem,elastic waistband,slip-on
+p446,shoes,silver and white colorblock casual sneakers,Unisex,trendy casual shoes,low-top silhouette,metallic fabric,"silver, off-white",logo embellishment,lace-up fastening,slip-on
+p447,inner_top,black short-sleeve top with rhinestone bow,Women's,sweet-cool glittery top,cropped fit,cotton fabric,black and white,bow rhinestone embellishment,crew neck design,pullover
+p448,bottom,white textured cake skirt,Women's,sweet textured skirt,cropped fit,textured fabric,white,multi-layered pleated texture,elastic waistband,slip-on
+p449,shoes,black floral embellished flats,Women's,sweet-cool elegant flats,flat silhouette,leather,"black, pink and white",floral embellishment,buckle closure,slip-on
+p450,mid_layer_top,brown and white contrast trim knit top,Men's,minimalist vintage sweater,loose fit,knit fabric,"brown, white",brand logo embellishment,mock two-piece collar,pullover
+p451,bottom,gray loose-fit wide-leg sweatpants,Men's,minimalist casual trousers,wide-leg,cotton fabric,gray,small logo detail,elastic waistband,slip-on
+p452,bag,brown canvas crescent bag,Men's,vintage casual bag,crossbody silhouette,canvas,brown,Solid,adjustable shoulder straps,open-front
+p453,shoes,leopard print colorblock casual shoes,Unisex,trendy casual shoes,low-top silhouette,plush fabric,"leopard print, white, brown",striped detail,lace-up fastening,slip-on
+p454,mid_layer_top,black graphic sweatshirt,Men's,trendy casual sweatshirt,loose fit,cotton fabric,"black, yellow, white",letter print,crew neck design,pullover
+p455,inner_top,yellow plaid long-sleeve shirt,Men's,vintage casual top,loose fit,plaid fabric,"yellow, black, white",plaid texture,button closure,slip-on
+p456,bottom,gray jogger sweatpants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,gray,star motif,drawstring waistband,slip-on
+p457,accessory,brown baseball cap,Men's,trendy casual accessories,baseball cap silhouette,cotton fabric,brown,brand logo embellishment,adjustable buckle,wearable
+p458,shoes,black and gray high-top sneakers,Men's,trendy casual shoes,high-top silhouette,leather,"black, gray, white",brand logo embellishment,"velcro, lace-up",slip-on
+p459,inner_top,off-white graphic long-sleeve top,Men's,minimalist trendy top,loose fit,cotton fabric,off-white and black,letter and star print,crew neck design,pullover
+p460,bottom,navy blue jogger sweatpants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,"navy, white",letter motif,elastic waistband,slip-on
+p461,shoes,white low-top canvas shoes,Unisex,classic casual shoes,low-top silhouette,canvas,"white, red, blue",striped detail,lace-up fastening,slip-on
+p462,inner_top,navy and gray colorblock long-sleeve top,Men's,trendy casual top,loose fit,cotton fabric,"navy, gray",star motif,crew neck design,pullover
+p463,bottom,brown jogger pants,Men's,trendy casual trousers,jogger silhouette,lightweight fabric,brown,star motif,drawstring waistband,slip-on
+p464,shoes,white high-top canvas shoes,Unisex,classic casual shoes,high-top silhouette,canvas,"white, red, blue",striped detail,lace-up fastening,slip-on
+p465,mid_layer_top,black skateboard puppy sweatshirt,Men's,trendy cute sweatshirt,loose fit,cotton fabric,"black, red, white",puppy print,crew neck design,pullover
+p466,inner_top,red plaid casual shirt,Men's,vintage casual top,loose fit,plaid fabric,"red, black, white",plaid texture,button closure,slip-on
+p467,bottom,gray jogger sweatpants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,gray,star motif,drawstring waistband,slip-on
+p468,accessory,red baseball cap,Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,"red, white, blue",brand logo embellishment,adjustable buckle,wearable
+p469,shoes,white velcro high-top canvas shoes,Men's,classic casual shoes,high-top silhouette,canvas,"white, red, blue",brand logo embellishment,"velcro, lace-up",slip-on
+p470,outerwear,navy colorblock hooded jacket,Men's,trendy casual jacket,zippered silhouette,cotton fabric,"navy, red, white",numeric print,hooded design,zippered
+p471,inner_top,white and black short-sleeve top,Men's,trendy casual top,loose fit,cotton fabric,"white, black",letter embellishment,crew neck design,pullover
+p472,bottom,gray cargo jogger pants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,gray,star motif,"cargo pockets, drawstring waistband",slip-on
+p473,accessory,"white, red, and blue baseball cap",Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,"white, red, blue",letter embroidery,adjustable buckle,wearable
+p474,shoes,white high-top canvas shoes,Unisex,classic casual shoes,high-top silhouette,canvas,"white, red, blue",striped detail,lace-up fastening,slip-on
+p475,mid_layer_top,off-white embroidered sweatshirt,Men's,trendy casual sweatshirt,loose fit,cotton fabric,"beige, gold",eagle logo embroidery,crew neck design,pullover
+p476,bottom,black letter-print jogger pants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,black and gold,letter embroidery,drawstring waistband,slip-on
+p477,shoes,white platform casual shoes,Unisex,trendy dad shoes,low-top silhouette,"mesh, leather",white,letter embellishment,lace-up fastening,slip-on
+p478,inner_top,black bear graphic short-sleeve top,Men's,trendy cute top,loose fit,cotton fabric,black and gold,bear print,crew neck design,pullover
+p479,bottom,black eagle logo jogger pants,Men's,trendy casual trousers,jogger silhouette,cotton fabric,black and gold,eagle logo embroidery,drawstring waistband,slip-on
+p480,shoes,white platform dad shoes,Unisex,trendy casual shoes,low-top silhouette,"mesh, leather",white,striped trim,lace-up fastening,slip-on
+p481,inner_top,black eagle logo short-sleeve top,Men's,trendy casual top,slim fit,cotton fabric,black and gold,eagle logo embroidery,crew neck design,pullover
+p482,bottom,black letter-print shorts,Men's,trendy casual trousers,shorts silhouette,cotton fabric,black and gold,letter embroidery,elastic waistband,slip-on
+p483,accessory,white and black letter-print visor,Unisex,trendy casual accessories,visor silhouette,cotton fabric,"white, black",letter embellishment,elastic band fastening,wearable
+p484,shoes,black high-top children's shoes,Men's,classic casual shoes,high-top silhouette,leather,black and white,brand logo embellishment,"velcro, lace-up",slip-on
+p485,outerwear,black and gray all-over print jacket,Men's,trendy athletic jacket,zippered silhouette,cotton fabric,"black, gray",all-over print,half-zip design,zippered
+p486,bottom,black joggers with side buttons,Men's,trendy athletic trousers,jogger silhouette,cotton fabric,black and white,side button detail,elastic waistband,slip-on
+p487,shoes,white velcro skate shoes,Men's,minimalist casual shoes,low-top silhouette,leather,white,brand logo embellishment,Hook-and-loop closure,slip-on
+p488,outerwear,gray and black color-block sleeve jacket,Men's,minimalist athletic jacket,zippered silhouette,cotton fabric,gray and black,brand logo embellishment,zipper closure,zippered
+p489,inner_top,white and black color-block short-sleeve shirt,Men's,minimalist athletic top,loose fit,cotton fabric,"white, black, yellow",letter print,crew neck design,pullover
+p490,bottom,gray and black side-stripe trousers,Men's,minimalist athletic trousers,straight-leg,cotton fabric,gray and black,side stripe detail,elastic waistband,slip-on
+p491,accessory,black baseball cap with letter print,Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,black and white,letter embellishment,adjustable buckle,wearable
+p492,shoes,black and gray dad shoes,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","black, gray",striped trim,drawstring tie,slip-on
+p493,mid_layer_top,red base printed sweatshirt,Men's,trendy casual sweatshirt,loose fit,cotton fabric,"red, black","letter print, patchwork",kangaroo pocket,pullover
+p494,bottom,black and red joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,"black, red",patchwork,elastic waistband,slip-on
+p495,accessory,black cat-ear knit beanie,Men's,cute trendy accessories,knit beanie silhouette,knit fabric,black and gold,"letter embroidery, cat ear detail",elastic fit,wearable
+p496,shoes,"black, red, and white dad shoes",Men's,trendy casual shoes,low-top silhouette,"mesh, leather","black, red, white",striped trim,"velcro, lace-up",slip-on
+p497,mid_layer_top,blue and white half-zip sweatshirt,Men's,minimalist athletic top,loose fit,cotton fabric,"blue, white",letter embellishment,half-zip design,zippered
+p498,bottom,blue joggers,Men's,minimalist athletic trousers,jogger silhouette,cotton fabric,"blue, white",striped trim,elastic waistband,slip-on
+p499,shoes,"blue, white, and gray gradient skate shoes",Men's,trendy casual shoes,low-top silhouette,"leather, mesh","blue, white, gray, yellow",gradient detail,lace-up fastening,slip-on
+p500,outerwear,black and white color-block jacket,Men's,trendy athletic jacket,zippered silhouette,cotton fabric,black and white,letter slogan,zipper closure,zippered
+p501,bottom,black joggers with white trim,Men's,trendy athletic trousers,jogger silhouette,cotton fabric,black and white,striped trim,elastic waistband,slip-on
+p502,accessory,light beige minimalist baseball cap,Unisex,casual basic accessories,baseball cap silhouette,cotton fabric,light beige,Solid,adjustable buckle,wearable
+p503,shoes,black and white color-block velcro skate shoes,Men's,minimalist casual shoes,low-top silhouette,"leather, mesh",black and white,brand logo embellishment,Hook-and-loop closure,slip-on
+p504,mid_layer_top,black and blue color-block half-zip sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"black, blue",letter print,half-zip design,zippered
+p505,bottom,black cargo joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,black,"cargo pockets, brand logo",elastic waistband,slip-on
+p506,accessory,orange knit headband,Men's,athleisure accessories,headband,knit fabric,"orange, brown",small logo detail,elastic fit,wearable
+p507,accessory,gray and blue color-block basketball,Men's,sports equipment,basketball,rubber,"gray, blue, orange",brand logo embellishment,inflatable,functional
+p508,shoes,white and blue color-block basketball shoes,Men's,professional athletic shoes,high-top silhouette,"mesh, leather","white, blue, brown",brand logo embellishment,lace-up fastening,slip-on
+p509,mid_layer_top,green and black color-block crewneck sweatshirt,Men's,minimalist athletic top,loose fit,cotton fabric,"green, black",letter print,crew neck design,pullover
+p510,bottom,black and green color-block joggers,Men's,minimalist athletic trousers,jogger silhouette,cotton fabric,"black, green",side stripe detail,elastic waistband,slip-on
+p511,accessory,light beige over-ear headphones,Unisex,minimalist digital accessories,headset,"leather, plastic",light beige,Solid,button adjustment,wearable
+p512,shoes,green and white color-block retro sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","green, white, brown",striped detail,lace-up fastening,slip-on
+p513,mid_layer_top,beige and black color-block polo sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"beige, black",letter print,polo collar,pullover
+p514,bottom,black joggers with beige trim,Men's,trendy casual trousers,jogger silhouette,cotton fabric,"black, beige",striped trim,elastic waistband,slip-on
+p515,accessory,beige baseball cap with red logo,Men's,trendy casual accessories,baseball cap silhouette,cotton fabric,"beige, red",letter embroidery,adjustable buckle,wearable
+p516,shoes,white and blue color-block skate shoes,Men's,minimalist casual shoes,low-top silhouette,leather,"white, blue, brown",brand logo embellishment,lace-up fastening,slip-on
+p517,outerwear,"khaki, white, and black color-block jacket",Men's,trendy casual jacket,zippered silhouette,lightweight fabric,"khaki, white, black",brand logo embellishment,zipper closure,zippered
+p518,mid_layer_top,beige crewneck sweatshirt with green logo,Men's,minimalist casual top,loose fit,cotton fabric,"beige, green",brand logo embellishment,crew neck design,pullover
+p519,bottom,black joggers with beige trim,Men's,trendy casual trousers,jogger silhouette,cotton fabric,"black, beige",letter embellishment,elastic waistband,slip-on
+p520,accessory,khaki and gray color-block baseball cap,Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,"khaki, gray",letter embroidery,adjustable buckle,wearable
+p521,shoes,black and white color-block skate shoes,Men's,trendy casual shoes,low-top silhouette,leather,black and white,brand logo embellishment,lace-up fastening,slip-on
+p522,mid_layer_top,beige sweatshirt with Chinese-style print,Men's,Guochao casual top,loose fit,cotton fabric,"beige, blue, brown","Chinese-style pattern, letter print",crew neck design,pullover
+p523,mid_layer_top,burgundy turtleneck knit sweater,Men's,minimalist casual top,slim fit,knit fabric,burgundy,Solid,high neck,pullover
+p524,bottom,navy blue joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"navy, brown","brand logo, small logo patch",elastic waistband,slip-on
+p525,accessory,beige baseball cap with red logo,Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,"beige, red",letter embroidery,adjustable buckle,wearable
+p526,shoes,white and green color-block dad shoes,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","white, green, gray",brand logo embellishment,drawstring tie,slip-on
+p527,mid_layer_top,black base white colorblock half-zip sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,black and white,letter slogan,half-zip design,zippered
+p528,inner_top,light blue striped bear embroidery shirt,Men's,cute casual top,loose fit,cotton fabric,"light blue, white","bear embroidery, stripes",button closure,slip-on
+p529,bottom,solid black joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,black,brand logo embellishment,elastic waistband,slip-on
+p530,accessory,white base navy colorblock baseball cap,Unisex,trendy casual accessories,baseball cap silhouette,cotton fabric,"white, navy, red",letter embroidery,adjustable buckle,wearable
+p531,shoes,red and white colorblock dad sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","white, red",striped trim,"velcro, lace-up",slip-on
+p532,mid_layer_top,"black, red and white colorblock sweatshirt",Men's,trendy casual top,loose fit,cotton fabric,"black, red, white",letter print,crew neck design,pullover
+p533,bottom,black and red colorblock joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,"black, red","color-blocked side, brand logo",elastic waistband,slip-on
+p534,accessory,black base baseball cap,Men's,athleisure accessories,baseball cap silhouette,cotton fabric,"black, red, yellow",letter embroidery,adjustable buckle,wearable
+p535,shoes,silver and black colorblock dad sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","silver, black, white",striped trim,drawstring tie,slip-on
+p536,mid_layer_top,black and grey colorblock sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"black, gray, white",letter print,crew neck design,pullover
+p537,bottom,black and grey colorblock joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"black, gray","color-blocked side, brand logo",elastic waistband,slip-on
+p538,accessory,Red Bull Racing baseball cap,Men's,event merchandise accessories,baseball cap silhouette,cotton fabric,"dark blue, blue, red","brand logo, stripes",adjustable buckle,wearable
+p539,shoes,"silver, red and blue colorblock basketball sneakers",Men's,professional athletic shoes,high-top silhouette,"mesh, leather","silver, red, blue","brand logo, tech logo",lace-up fastening,slip-on
+p540,mid_layer_top,green and white colorblock sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"green, white",letter print,crew neck design,pullover
+p541,bottom,black base joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,black and white,"letter print, brand logo",elastic waistband,slip-on
+p542,accessory,dark green and brown baseball cap,Men's,vintage casual accessories,baseball cap silhouette,cotton fabric,"dark green, brown, gold",numeric embroidery,adjustable buckle,wearable
+p543,shoes,black and white color-block skate shoes,Men's,minimalist casual shoes,low-top silhouette,leather,black and white,brand logo embellishment,"velcro, lace-up",slip-on
+p544,mid_layer_top,black base half-zip sweatshirt,Men's,Guochao casual top,loose fit,cotton fabric,"black, red","letter print, brand logo",half-zip design,zippered
+p545,bottom,black base red logo joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"black, red",brand logo embellishment,elastic waistband,slip-on
+p546,shoes,"white, black and red colorblock sneakers",Men's,trendy casual shoes,low-top silhouette,"leather, mesh","white, black, red",striped trim,lace-up fastening,slip-on
+p547,mid_layer_top,grey base half-zip sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"gray, white","letter print, brand logo","half-zip design, kangaroo pocket",zippered
+p548,bottom,grey base white trim joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"gray, white",brand logo embellishment,elastic waistband,slip-on
+p549,accessory,silver and black over-ear headphones,Unisex,minimalist digital accessories,headset,"plastic, sponge","silver, black",Solid,wired connection,wearable
+p550,shoes,black and white color-block skate shoes,Men's,minimalist casual shoes,low-top silhouette,leather,black and white,brand logo embellishment,"velcro, lace-up",slip-on
+p551,mid_layer_top,black base half-zip sweatshirt,Men's,Guochao casual top,loose fit,cotton fabric,black and white,"letter print, brand logo",half-zip design,zippered
+p552,bottom,black base joggers,Men's,Guochao casual trousers,jogger silhouette,cotton fabric,black and white,"letter print, brand logo",elastic waistband,slip-on
+p553,accessory,red and white sports headband,Men's,athleisure accessories,headset,knit fabric,"red, white",brand logo embellishment,elastic fit,wearable
+p554,shoes,"black, red and white colorblock high-top sneakers",Men's,trendy casual shoes,high-top silhouette,"leather, mesh","black, white, red",brand logo embellishment,"velcro, lace-up",slip-on
+p555,mid_layer_top,light purple half-zip sweatshirt,Unisex,Guochao casual top,loose fit,cotton fabric,"light purple, pink","letter print, brand logo",half-zip design,zippered
+p556,bottom,light purple joggers,Unisex,minimalist casual trousers,jogger silhouette,cotton fabric,"light purple, pink",brand logo embellishment,elastic waistband,slip-on
+p557,accessory,pink and purple letter sports headband,Unisex,fashion casual accessories,headband,webbing,pinkish purple,letter print,Hook-and-loop closure,wearable
+p558,bag,pink drawstring backpack,Unisex,fashion casual bag,backpack,nylon,"pink, black",Solid,"drawstring, zip closure",backpack
+p559,shoes,black and purple colorblock sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","black, white, purple",brand logo embellishment,dial lacing system,slip-on
+p560,mid_layer_top,grey base plaid sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"gray, multicolor",plaid and letter print,"half-zip design, kangaroo pocket",zippered
+p561,mid_layer_top,burgundy turtleneck knit sweater,Men's,minimalist casual top,loose fit,knit fabric,burgundy,Solid,high neck,pullover
+p562,bottom,grey base gold logo joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"gray, gold",brand logo embellishment,elastic waistband,slip-on
+p563,accessory,yellow base bird logo knit beanie,Men's,fashion casual accessories,beanie,knit fabric,yellow,bird logo motif,elastic fit,wearable
+p564,shoes,"black, red and white cartoon print high-top sneakers",Men's,trendy casual shoes,high-top silhouette,"leather, mesh","black, white, red",cartoon print,"velcro, lace-up",slip-on
+p565,outerwear,blue and orange colorblock hooded jacket,Men's,trendy casual jacket,zippered silhouette,lightweight fabric,"blue, orange, black","letter slogan, brand logo","zip closure, hooded",zippered
+p566,inner_top,white base colorful letter long-sleeve T-shirt,Men's,minimalist casual top,slim fit,cotton fabric,"white, blue, orange, gray",letter print,crew neck design,slip-on
+p567,bottom,black base white logo joggers,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,black and white,brand logo embellishment,elastic waistband,slip-on
+p568,accessory,colorblock outdoor baseball cap,Men's,outdoor casual accessories,baseball cap,nylon,"gray, beige, blue, green",badge detail,adjustable buckle,wearable
+p569,shoes,black base iridescent sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","black, white, iridescent","brand logo, letter detail",dial lacing system,slip-on
+p570,inner_top,white base blue logo letter short-sleeve T-shirt,Men's,minimalist casual top,slim fit,cotton fabric,"white, blue",letter print,crew neck design,slip-on
+p571,bottom,black shorts with white logo,Men's,athletic casual trousers,shorts silhouette,lightweight fabric,black and white,brand logo embellishment,elastic waistband,slip-on
+p572,accessory,light green visor,Unisex,outdoor casual accessories,visor silhouette,cotton fabric,light green,Solid,elastic fit,wearable
+p573,shoes,blue and white colorblock sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","blue, white, black",brand logo embellishment,dial lacing system,slip-on
+p574,inner_top,navy short-sleeve T-shirt,Unisex,Guochao casual top,slim fit,cotton fabric,"navy, white","letter print, brand logo",crew neck design,slip-on
+p575,bottom,navy shorts with white logo,Unisex,athletic casual trousers,shorts silhouette,lightweight fabric,"navy, white",brand logo embellishment,elastic waistband,slip-on
+p576,accessory,white visor,Unisex,outdoor casual accessories,visor silhouette,cotton fabric,white,Solid,elastic fit,wearable
+p577,accessory,white sports wristband,Unisex,athleisure accessories,wristband,stretch fabric,white,striped texture,elastic fit,wearable
+p578,shoes,"navy, white and blue colorblock sneakers",Men's,minimalist casual shoes,low-top silhouette,"mesh, leather","navy, white, blue","brand logo, ""WIDE"" logo","velcro, lace-up",slip-on
+p579,mid_layer_top,navy sweatshirt with white logo,Men's,trendy casual top,loose fit,cotton fabric,"blue, white","letter print, brand logo",crew neck design,slip-on
+p580,bottom,black cargo joggers with white logo,Men's,trendy casual trousers,jogger silhouette,cotton fabric,black and white,"letter print, cargo pockets",elastic waistband,slip-on
+p581,accessory,colorblock outdoor baseball cap,Men's,outdoor casual accessories,baseball cap,nylon,"gray, beige, blue, green",badge detail,adjustable buckle,wearable
+p582,shoes,"black, blue and silver colorblock sneakers",Men's,trendy casual shoes,low-top silhouette,"mesh, leather","black, blue, silver, white",letter embellishment,dial lacing system,slip-on
+p583,mid_layer_top,beige and black color-block polo sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"beige, black",brand logo embellishment,"button-down collar, ribbed trim",slip-on
+p584,bottom,navy corduroy wide-leg trousers,Men's,vintage casual trousers,wide-leg,corduroy,navy,stitched seams,elastic waistband,slip-on
+p585,shoes,khaki suede casual shoes,Unisex,vintage casual shoes,low-top silhouette,suede,"khaki, white",Solid,lace-up fastening,slip-on
+p586,mid_layer_top,light blue puppy embroidery sweatshirt,Women's,cute casual top,loose fit,cotton fabric,light blue,"dog embroidery, letters",mock two-piece design,slip-on
+p587,bottom,navy cuffed jeans,Women's,vintage casual trousers,wide-leg,denim,"navy, gray",stitched seams,"elastic waistband, rolled hem",slip-on
+p588,bag,blue canvas tote bag,Women's,minimalist casual bags,tote bag silhouette,canvas,blue,Solid,handle closure,handheld
+p589,shoes,burgundy suede casual shoes,Unisex,vintage casual shoes,low-top silhouette,suede,"burgundy, white, brown",Solid,lace-up fastening,slip-on
+p590,mid_layer_top,pink cat embroidery sweatshirt,Women's,cute casual top,loose fit,cotton fabric,pink,"cat embroidery, letters",mock two-piece design,slip-on
+p591,bottom,white casual wide-leg trousers,Women's,minimalist casual trousers,wide-leg,cotton fabric,white,stitching detail,"elastic waistband, button",slip-on
+p592,bag,leopard print tassel cosmetic bag,Women's,fashion accessory bags,clutch,faux leather,leopard print,fringe detail,zipper closure,handheld
+p593,shoes,pink and white colorblock casual shoes,Women's,minimalist casual shoes,low-top silhouette,suede,"pink, white, black",brand logo embellishment,lace-up fastening,slip-on
+p594,inner_top,navy and light blue colorblock long-sleeve T-shirt,Men's,outdoor casual tops,slim fit,cotton fabric,"navy, light blue",letter and mountain print,crew neck design,slip-on
+p595,bottom,light gray cargo joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,"cargo pockets, letter embellishment",elastic waistband,slip-on
+p596,accessory,navy letter baseball cap,Unisex,fashion casual accessories,baseball cap silhouette,cotton fabric,"navy, off-white",letter embroidery,adjustable buckle,wearable
+p597,shoes,"gray, green and purple colorblock outdoor sneakers",Men's,outdoor casual shoes,low-top silhouette,suede,"gray, green, purple, black",brand logo embellishment,lace-up fastening,slip-on
+p598,mid_layer_top,off-white heart embroidery sweater,Men's,soft casual tops,slim fit,knit fabric,"off-white, red",heart embroidery,mock neck design,slip-on
+p599,bottom,dark blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,dark blue,distressed stitching,elastic waistband,slip-on
+p600,shoes,"black, white and gray colorblock casual shoes",Men's,minimalist casual shoes,low-top silhouette,suede,"black, white, gray",stitching detail,lace-up fastening,slip-on
+p601,mid_layer_top,gray and black colorblock hooded sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,gray and black,letter print,"hooded, topstitch detail",slip-on
+p602,bottom,light gray topstitched joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,"topstitching, small logo patch",elastic waistband,slip-on
+p603,accessory,black and brown colorblock letter baseball cap,Men's,vintage casual accessories,baseball cap silhouette,"cotton, suede","black, brown, gold",letter embroidery,adjustable buckle,wearable
+p604,shoes,black and white striped casual shoes,Unisex,minimalist casual shoes,low-top silhouette,suede,black and white,striped detail,lace-up fastening,slip-on
+p605,inner_top,black and pink colorblock cat long-sleeve T-shirt,Women's,cute casual top,loose fit,cotton fabric,"black, pink","pixelated cat print, letters",contrast sleeves,slip-on
+p606,bottom,light purple cargo wide-leg trousers,Women's,trendy casual trousers,wide-leg,cotton fabric,light purple,cargo pockets,elastic waistband,slip-on
+p607,shoes,gray and white colorblock casual sneakers,Unisex,trendy casual shoes,low-top silhouette,"mesh, suede","gray, white",color-block design,lace-up fastening,slip-on
+p608,mid_layer_top,navy striped sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"navy, white","striped trim, letter embroidery",crew neck design,slip-on
+p609,bottom,light gray cargo joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,"cargo pockets, small logo patch",elastic waistband,slip-on
+p610,bag,yellow nylon backpack,Men's,outdoor casual bags,backpack,nylon,yellow,Solid,dual zip closure,backpack
+p611,shoes,"gray, white and blue colorblock casual shoes",Unisex,vintage casual shoes,low-top silhouette,"suede, mesh","gray, white, light blue",brand logo embellishment,lace-up fastening,slip-on
+p612,outerwear,yellow and gray colorblock cat embroidery cardigan,Women's,cute casual top,loose fit,knit fabric,"yellow, gray",cat embroidery,"button closure, contrast trim",slip-on
+p613,inner_top,white accordion pleated shirt,Women's,minimalist commuter tops,slim fit,cotton fabric,white,accordion pleats,"collared, button closure",slip-on
+p614,accessory,dark gray bow pleated skirt,Women's,sweet casual bottoms,mini skirt,cotton fabric,dark gray,"pleated, bow embellishment",elastic waistband,slip-on
+p615,shoes,silver and black colorblock platform Mary Janes,Women's,trendy casual shoes,low-top silhouette,glossy leather,"silver, black","bow, buckle embellishment",platform sole,slip-on
+p616,outerwear,navy striped collar denim jacket,Men's,vintage casual outerwear,loose fit,denim,"navy, striped","contrast collar, cargo pockets",button closure,slip-on
+p617,inner_top,white long-sleeve T-shirt with letter print,Men's,minimalist casual top,loose fit,cotton fabric,"white, black",letter print,crew neck design,slip-on
+p618,bottom,navy corduroy wide-leg trousers,Men's,vintage casual trousers,wide-leg,corduroy,navy,stitched seams,elastic waistband,slip-on
+p619,shoes,khaki brown colorblock utility boots,Men's,outdoor casual shoes,high-top silhouette,suede,"khaki, brown",letter embellishment,lace-up fastening,slip-on
+p620,outerwear,black and silver colorblock striped jacket,Men's,trendy casual jacket,loose fit,cotton fabric,"black, silver","striped trim, letter logo",zipper closure,slip-on
+p621,bottom,black wide-leg trousers with silver thread,Men's,trendy casual trousers,wide-leg,cotton fabric,"black, silver",side metallic thread trim,elastic waistband,slip-on
+p622,shoes,"gray, white, and black colorblock tech sneakers",Men's,trendy outdoor footwear,low-top silhouette,"mesh, leather","gray, white, black","crisscross lace-up, platform",lace-up fastening,slip-on
+p623,mid_layer_top,black sweatshirt with puppy starry sky print,Men's,cute casual top,loose fit,cotton fabric,"black, blue, yellow",puppy and starry sky print,crew neck design,slip-on
+p624,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p625,shoes,"white, gray, and blue colorblock sneakers",Unisex,vintage casual shoes,low-top silhouette,"mesh, leather","white, gray, blue",brand logo embellishment,lace-up fastening,slip-on
+p626,mid_layer_top,light gray sweatshirt with black cat print,Men's,cute casual top,loose fit,cotton fabric,"light gray, black, blue","black cat print, letters",crew neck design,slip-on
+p627,bottom,dark blue distressed wide-leg jeans,Men's,vintage casual trousers,wide-leg,denim,dark blue,distressed stitching,elastic waistband,slip-on
+p628,accessory,navy letter baseball cap,Men's,minimalist casual accessories,baseball cap silhouette,cotton fabric,"navy, white",letter embroidery,adjustable buckle,wearable
+p629,bag,navy denim shoulder bag,Men's,vintage casual bag,shoulder bag,denim,navy,brand logo embellishment,drawstring closure,shoulder-carry
+p630,shoes,"white, gray, and black colorblock casual shoes",Unisex,minimalist casual shoes,low-top silhouette,"leather, suede","white, gray, black",striped trim,lace-up fastening,slip-on
+p631,mid_layer_top,light blue to black gradient letter sweater,Men's,trendy casual top,loose fit,knit fabric,"light blue, black",gradient letter print,mock neck design,slip-on
+p632,bottom,dark blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,dark blue,distressed stitching,elastic waistband,slip-on
+p633,accessory,black beanie with white logo patch,Men's,minimalist casual accessories,slouchy beanie silhouette,knit fabric,black and white,label detail,elastic fit,wearable
+p634,accessory,gray and black colorblock knit scarf,Men's,warm casual accessories,long scarf,knit fabric,gray and black,"contrast trim, label",wrap style,wearable
+p635,shoes,"gray, white, and gold colorblock casual shoes",Men's,vintage casual shoes,low-top silhouette,suede,"gray, white, gold","striped trim, brand logo",lace-up fastening,slip-on
+p636,mid_layer_top,navy colorblock collar pixel letter polo sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"navy, multicolor","pixelated letters, contrast collar",button-down collar,slip-on
+p637,bottom,light gray deconstructed joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,deconstructed stitching,elastic waistband,slip-on
+p638,bag,bread-shaped decorative bag,Unisex,playful decorative accessories,pouch,fabric,"brown, black","bread pattern, text",button closure,handheld
+p639,shoes,gray and brown colorblock casual shoes,Men's,vintage casual shoes,low-top silhouette,suede,"gray, brown, white",small logo detail,lace-up fastening,slip-on
+p640,mid_layer_top,navy faux two-piece plaid sweatshirt,Men's,cute casual top,loose fit,cotton fabric,"navy, blue and white plaid",letter print,mock two-piece design,slip-on
+p641,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p642,accessory,burgundy and navy colorblock baseball cap,Men's,minimalist casual accessories,baseball cap silhouette,cotton fabric,"burgundy, navy",letter embroidery,adjustable buckle,wearable
+p643,bag,black drawstring backpack,Men's,techwear casual bags,backpack,nylon,black,Solid,"drawstring, dual shoulder straps",backpack
+p644,shoes,"gray, white, and brown colorblock casual shoes",Men's,vintage casual shoes,low-top silhouette,"suede, mesh","gray, white, brown, black",brand logo embellishment,lace-up fastening,slip-on
+p645,mid_layer_top,navy and yellow colorblock striped polo sweatshirt,Men's,vintage casual top,loose fit,cotton fabric,"navy, yellow, white","striped trim, letters",button-down collar,slip-on
+p646,bottom,light gray deconstructed joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,deconstructed stitching,elastic waistband,slip-on
+p647,shoes,"navy, gray, and white colorblock casual shoes",Men's,vintage casual shoes,low-top silhouette,"mesh, suede","navy, gray, white",striped detail,lace-up fastening,slip-on
+p648,mid_layer_top,light green and black colorblock hooded sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"light green, black",small logo detail,hooded design,slip-on
+p649,bottom,dark gray utility joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,dark gray,"cargo pockets, metal buckle",elastic waistband,slip-on
+p650,shoes,beige and green colorblock outdoor shoes,Men's,outdoor casual shoes,low-top silhouette,"mesh, leather","beige, green",brand logo embellishment,lace-up fastening,slip-on
+p651,mid_layer_top,light blue tie-dye letter sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,light blue,"tie-dye, letter print",crew neck design,slip-on
+p652,bottom,light blue utility jeans,Men's,trendy casual trousers,wide-leg,denim,light blue,"cargo pockets, metal buckle",elastic waistband,slip-on
+p653,shoes,"yellow, brown, and white colorblock casual shoes",Men's,vintage casual shoes,low-top silhouette,suede,"yellow, brown, white",color-block design,lace-up fastening,slip-on
+p654,inner_top,navy and yellow striped letter long-sleeve T-shirt,Men's,vintage casual top,loose fit,cotton fabric,"navy, yellow","striped, letter print",crew neck design,slip-on
+p655,bottom,light blue utility jeans,Men's,trendy casual trousers,wide-leg,denim,light blue,"cargo pockets, metal buckle",elastic waistband,slip-on
+p656,accessory,beige and navy letter baseball cap,Men's,casual accessories,baseball cap silhouette,cotton fabric,"beige, navy",text print,adjustable buckle,wearable
+p657,bag,burgundy tote bag,Unisex,casual bags,tote bag silhouette,cotton fabric,burgundy,text print,top handle,handheld
+p658,shoes,"yellow, gray, and black outdoor tech shoes",Men's,outdoor casual shoes,low-top silhouette,"mesh, leather","yellow, gray, black",brand logo embellishment,buckle closure,slip-on
+p659,mid_layer_top,light purple letter sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,light purple,letter print,crew neck design,slip-on
+p660,bottom,light blue gradient jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,gradient distressed,elastic waistband,slip-on
+p661,shoes,"white, gray and black casual sneakers",Men's,vintage casual shoes,low-top silhouette,"mesh, leather","white, gray, black",brand logo embellishment,lace-up fastening,slip-on
+p662,inner_top,light blue gradient logo long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,light blue,"gradient, small logo patch",crew neck design,slip-on
+p663,bottom,light blue three-stripe jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,three-stripe trim,elastic waistband,slip-on
+p664,accessory,black LA logo baseball cap,Men's,vintage casual accessories,baseball cap silhouette,cotton fabric,"black, beige",letter print,adjustable buckle,wearable
+p665,accessory,brown and silver over-ear headphones,Unisex,fashion electronic accessories,headset,"leather, metal","brown, silver",brand logo embellishment,adjustable headband,wearable
+p666,shoes,"white, gray and black casual sneakers",Men's,vintage casual shoes,low-top silhouette,"mesh, leather","white, gray, black",brand logo embellishment,lace-up fastening,slip-on
+p667,inner_top,navy blue logo print long-sleeve T-shirt,Men's,vintage casual top,loose fit,cotton fabric,"navy, white, green",letter print,crew neck design,slip-on
+p668,bottom,light blue utility jeans,Men's,trendy casual trousers,wide-leg,denim,light blue,"cargo pockets, metal buckle",elastic waistband,slip-on
+p669,bag,light khaki tech backpack,Men's,outdoor casual bags,backpack,nylon,"light khaki, black",Solid,drawstring pocket,backpack
+p670,shoes,silver gray tech casual sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","silver, gray",brand logo embellishment,lace-up fastening,slip-on
+p671,outerwear,beige and black colorblock hooded jacket,Men's,minimalist casual jacket,loose fit,cotton fabric,"beige, black",small logo detail,"hooded, zipper closure",slip-on
+p672,inner_top,off-white text print long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,off-white,text print,crew neck design,slip-on
+p673,bottom,navy blue cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,navy,"cargo pockets, metal buckle",elastic waistband,slip-on
+p674,accessory,khaki minimalist baseball cap,Men's,casual accessories,baseball cap silhouette,cotton fabric,khaki,small logo detail,adjustable buckle,wearable
+p675,shoes,off-white colorblock casual sneakers,Men's,vintage casual shoes,low-top silhouette,"leather, suede",off-white,color-block design,lace-up fastening,slip-on
+p676,outerwear,navy blue plaid pocket denim jacket,Men's,vintage casual outerwear,loose fit,denim,"navy, plaid","plaid pocket, letter logo",button closure,slip-on
+p677,inner_top,white logo long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,white,small logo detail,crew neck design,slip-on
+p678,bottom,navy corduroy wide-leg trousers,Men's,vintage casual trousers,wide-leg,corduroy,navy,stitched seams,elastic waistband,slip-on
+p679,shoes,khaki brown colorblock utility boots,Men's,outdoor casual shoes,high-top silhouette,suede,"khaki, brown",letter embellishment,lace-up fastening,slip-on
+p680,mid_layer_top,navy blue and light blue colorblock logo sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"navy, light blue",letter print,mock two-piece design,slip-on
+p681,bottom,light blue distressed cargo jeans,Men's,vintage trendy trousers,wide-leg,denim,light blue,"cargo pockets, metal buckle",elastic waistband,slip-on
+p682,accessory,light blue denim logo baseball cap,Men's,vintage casual accessories,baseball cap silhouette,denim,light blue,letter print,adjustable buckle,wearable
+p683,accessory,brown and silver colorblock over-ear headphones,Men's,fashion electronic accessories,headset,"leather, metal","brown, silver",brand logo embellishment,adjustable headband,wearable
+p684,shoes,yellow and black colorblock casual sneakers,Men's,trendy casual shoes,low-top silhouette,suede,"yellow, black",brand logo embellishment,lace-up fastening,slip-on
+p685,inner_top,bright yellow logo print long-sleeve T-shirt,Men's,trendy casual top,loose fit,cotton fabric,bright yellow,letter print,crew neck design,slip-on
+p686,bottom,navy blue cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,navy,"cargo pockets, metal buckle",elastic waistband,slip-on
+p687,shoes,"gray, white and black colorblock casual sneakers",Men's,minimalist casual shoes,low-top silhouette,"mesh, leather","gray, white, black",brand logo embellishment,lace-up fastening,slip-on
+p688,inner_top,off-white logo print long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,off-white,letter print,crew neck design,slip-on
+p689,bottom,light gray deconstructed joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,deconstructed stitching,elastic waistband,slip-on
+p690,accessory,black base light green logo baseball cap,Men's,trendy casual accessories,baseball cap silhouette,cotton fabric,"black, light green",letter print,adjustable buckle,wearable
+p691,shoes,"dark green, gold and white colorblock casual sneakers",Men's,vintage casual shoes,low-top silhouette,suede,"dark green, white, gold","striped trim, brand logo",lace-up fastening,slip-on
+p692,mid_layer_top,purple line-accented sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,purple,"linear trim, small logo patch",crew neck design,slip-on
+p693,bottom,navy blue cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,navy,"cargo pockets, metal buckle",elastic waistband,slip-on
+p694,shoes,"gray, white and black colorblock casual sneakers",Men's,minimalist casual shoes,low-top silhouette,"mesh, leather","gray, white, black",brand logo embellishment,lace-up fastening,slip-on
+p695,outerwear,black and purple colorblock tech hooded jacket,Men's,techwear trendy outerwear,loose fit,windproof fabric,"black, purple",purple zipper trim,"hooded, zipper closure",slip-on
+p696,bottom,purple cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,purple,cargo pockets,elastic waistband,slip-on
+p697,accessory,purple logo baseball cap,Men's,minimalist casual accessories,baseball cap silhouette,cotton fabric,purple,small logo detail,adjustable buckle,wearable
+p698,accessory,"beige, yellow and black colorblock sunglasses",Men's,fashion accessories,sunglasses,"plastic, metal","beige, black, gold",Solid,flexible temples,wearable
+p699,shoes,multicolor patchwork outdoor casual sneakers,Men's,outdoor casual shoes,low-top silhouette,suede,"brown, yellow, blue, black",color-block design,lace-up fastening,slip-on
+p700,inner_top,light blue logo long-sleeve T-shirt,Women's,minimalist casual top,loose fit,cotton fabric,light blue,small logo detail,crew neck design,slip-on
+p701,bottom,white tiered ruffle skirt,Women's,sweet casual bottoms,midi skirt,cotton fabric,white,tiered ruffles,elastic waistband,slip-on
+p702,accessory,white pleated leg warmers,Women's,sweet accessories,leg warmers,fabric,white,pleated detail,elastic fit,wearable
+p703,shoes,lake blue satin bow Mary Jane shoes,Women's,soft casual footwear,low-top silhouette,satin,lake blue,bow detail,buckle closure,slip-on
+p704,mid_layer_top,yellow and blue colorblock logo sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"yellow, blue",small logo detail,crew neck design,slip-on
+p705,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p706,shoes,"beige, white and brown colorblock casual sneakers",Men's,vintage casual shoes,low-top silhouette,leather,off-white and brown,small logo detail,lace-up fastening,slip-on
+p707,mid_layer_top,light blue and white colorblock sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"light blue, white",small logo detail,color-block,slip-on
+p708,bottom,navy blue cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,navy,"cargo pockets, metal buckle",elastic waistband,slip-on
+p709,accessory,brick red logo baseball cap,Men's,casual accessories,baseball cap silhouette,cotton fabric,brick red,letter embroidery,adjustable buckle,wearable
+p710,shoes,"blue, white and brown colorblock sneakers",Men's,vintage casual shoes,low-top silhouette,suede,"blue, white, brown",color-block design,lace-up fastening,slip-on
+p711,outerwear,burgundy puppy pattern knit cardigan,Women's,cute casual top,loose fit,knit fabric,"burgundy, multicolor",puppy pattern,button closure,slip-on
+p712,inner_top,off-white small logo high-neck long-sleeve T-shirt,Women's,minimalist casual top,slim fit,cotton fabric,off-white,small logo detail,high neck,slip-on
+p713,bottom,dark blue cuffed jeans,Women's,vintage casual trousers,wide-leg,denim,dark blue,rolled hem,elastic waistband,slip-on
+p714,bag,brown leather backpack,Unisex,vintage casual bag,backpack,leather,brown,Solid,"flap closure, dual shoulder straps",backpack
+p715,shoes,brown and white colorblock sneakers,Women's,vintage casual shoes,low-top silhouette,suede,"brown, white",color-block design,lace-up fastening,slip-on
+p716,mid_layer_top,light blue graphic print sweatshirt,Women's,minimalist casual top,loose fit,cotton fabric,light blue,text print,crew neck design,slip-on
+p717,inner_top,white lace-trim graphic T-shirt,Women's,soft casual tops,loose fit,cotton fabric,white,"graphic print, lace trim",crew neck design,slip-on
+p718,bottom,white wide-leg casual trousers,Women's,minimalist casual trousers,wide-leg,cotton fabric,white,rolled hem,elastic waistband,slip-on
+p719,shoes,light blue and white colorblock sneakers,Women's,soft casual footwear,low-top silhouette,suede,"light blue, white",color-block design,lace-up fastening,slip-on
+p720,inner_top,purple and white striped short-sleeve T-shirt,Women's,sweet casual top,slim fit,knit fabric,"purple, white",striped detail,crew neck design,slip-on
+p721,bottom,white tiered ruffle mini skirt,Women's,sweet casual bottoms,mini skirt,cotton fabric,white,tiered ruffles,elastic waistband,slip-on
+p722,bag,rattan round shoulder bag,Women's,vacation casual bags,shoulder bag,rattan,light brown,Solid,woven shoulder strap,shoulder-carry
+p723,shoes,off-white bow Mary Jane shoes,Women's,soft casual footwear,low-top silhouette,fabric,off-white,bow detail,buckle closure,slip-on
+p724,inner_top,"pink, blue and white colorblock letter T-shirt",Women's,cute casual top,loose fit,cotton fabric,"pink, blue, white",letter print,color-block raglan sleeves,slip-on
+p725,bottom,white pleated tiered mini skirt,Women's,sweet casual bottoms,mini skirt,cotton fabric,white,tiered ruffles,elastic waistband,slip-on
+p726,bag,silver metallic decorative bag,Women's,trendy decorative bags,charm,glossy fabric,silver,label detail,lanyard design,hanging
+p727,shoes,silver and black colorblock platform Mary Janes,Women's,trendy casual shoes,low-top silhouette,glossy fabric,"silver, black","bow, buckle",platform sole,slip-on
+p728,mid_layer_top,beige and black colorblock striped sweater,Men's,minimalist casual top,loose fit,knit fabric,"beige, black",striped detail,patch pocket,slip-on
+p729,bottom,dark blue and grey colorblock cargo jeans,Men's,trendy casual trousers,wide-leg,denim,"dark blue, gray",contrast pockets,elastic waistband,slip-on
+p730,shoes,brown and white colorblock platform sneakers,Men's,vintage casual shoes,low-top silhouette,suede,"brown, white",striped detail,lace-up fastening,slip-on
+p731,mid_layer_top,navy and yellow colorblock striped polo sweatshirt,Men's,vintage casual top,loose fit,cotton fabric,"navy, yellow, white","striped trim, letter logo",button-down collar,slip-on
+p732,bottom,light gray deconstructed joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,light gray,deconstructed stitching,elastic waistband,slip-on
+p733,shoes,navy and grey colorblock striped sneakers,Men's,vintage casual shoes,low-top silhouette,"mesh, suede","navy, gray, white",striped detail,lace-up fastening,slip-on
+p734,mid_layer_top,navy hooded zip-up sweatshirt,Men's,minimalist casual jacket,loose fit,cotton fabric,navy,small logo detail,"hooded, zipper closure",slip-on
+p735,inner_top,off-white logo print long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,off-white and black,letter print,crew neck design,slip-on
+p736,bottom,light blue utility jeans,Men's,trendy casual trousers,wide-leg,denim,light blue,"cargo pockets, metal buckle",elastic waistband,slip-on
+p737,accessory,navy letter embroidered baseball cap,Men's,minimalist casual accessories,baseball cap silhouette,cotton fabric,"navy, white",letter embroidery,adjustable buckle,wearable
+p738,shoes,burgundy suede casual shoes,Men's,vintage casual shoes,low-top silhouette,suede,"burgundy, white",small logo detail,lace-up fastening,slip-on
+p739,mid_layer_top,navy cable-knit polo sweater,Men's,vintage casual top,loose fit,knit fabric,"navy, white","cable knit, logo",polo collar,slip-on
+p740,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p741,shoes,navy and white colorblock bear embroidered sneakers,Men's,cute casual footwear,low-top silhouette,suede,"navy, white, brown","bear embroidery, brand logo",lace-up fastening,slip-on
+p742,accessory,light purple colorblock hooded windbreaker,Women's,outdoor casual outerwear,loose fit,windproof fabric,"light purple, dark purple",Solid,"hooded, zip pockets",slip-on
+p743,outerwear,dark purple fleece zip-up jacket,Women's,warm casual jacket,loose fit,fleece,"dark purple, white",small logo detail,"zip closure, patch pocket",slip-on
+p744,bottom,light blue distressed jeans,Women's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p745,accessory,grey base letter baseball cap,Unisex,vintage casual accessories,baseball cap silhouette,cotton fabric,"gray, white",letter embroidery,adjustable buckle,wearable
+p746,bag,grey and orange colorblock tech backpack,Unisex,techwear casual bags,backpack,nylon,"gray, orange",Solid,multi-zip pockets,backpack
+p747,shoes,grey and black colorblock sneakers,Women's,trendy casual shoes,low-top silhouette,suede,gray and black,brand logo embellishment,lace-up fastening,slip-on
+p748,mid_layer_top,light blue mecha print sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"light blue, purple","mecha print, lettering",crew neck design,slip-on
+p749,bottom,light grey wide-leg sweatpants,Men's,minimalist casual trousers,wide-leg,cotton fabric,light gray,small logo detail,elastic waistband,slip-on
+p750,shoes,light grey and white colorblock sneakers,Men's,minimalist casual shoes,low-top silhouette,leather,"light gray, white, blue",brand logo embellishment,lace-up fastening,slip-on
+p751,mid_layer_top,beige and black striped mock-neck sweater,Men's,vintage casual top,loose fit,knit fabric,"beige, black",striped detail,"mock neck, button detail",slip-on
+p752,bottom,dark grey distressed jeans,Men's,vintage casual trousers,wide-leg,denim,dark gray,distressed stitching,elastic waistband,slip-on
+p753,shoes,off-white colorblock casual sneakers,Men's,minimalist casual shoes,low-top silhouette,"suede, leather",off-white and brown,Solid,lace-up fastening,slip-on
+p754,mid_layer_top,beige and navy colorblock polo sweatshirt,Men's,vintage casual top,loose fit,cotton fabric,"beige, navy","logo, striped trim",polo collar,slip-on
+p755,bottom,black and grey distressed cargo jeans,Men's,trendy casual trousers,wide-leg,denim,black/grey,"distressed stitching, metal buckle",elastic waistband,slip-on
+p756,shoes,light brown fleece-lined sneakers,Men's,warm casual shoes,low-top silhouette,suede,light brown,fleece lining,lace-up fastening,slip-on
+p757,mid_layer_top,multicolor striped knit sweater,Men's,vintage casual top,loose fit,knit fabric,"blue, green, brown, beige",multi-color stripes,crew neck design,slip-on
+p758,bottom,brown corduroy cargo trousers,Men's,vintage casual trousers,wide-leg,corduroy,brown,"cargo pockets, metal buckle",elastic waistband,slip-on
+p759,bag,black tote bag with text print,Unisex,minimalist casual bags,tote bag silhouette,cotton fabric,black and white,text print,top handle,handheld
+p760,shoes,light gray colorblock casual sneakers,Men's,minimalist casual shoes,low-top silhouette,suede,"light grey, brown",brand logo embellishment,lace-up fastening,slip-on
+p761,mid_layer_top,light gray plaid letter hooded sweatshirt,Men's,vintage casual top,loose fit,cotton fabric,"light grey, blue",plaid and letter print,"hooded, patch pocket",slip-on
+p762,inner_top,beige and black striped turtleneck long-sleeve T-shirt,Men's,minimalist casual top,slim fit,cotton fabric,"beige, black","striped trim, small logo",high neck,slip-on
+p763,bottom,dark blue plaid patchwork jeans,Men's,trendy casual trousers,wide-leg,denim,"dark blue, blue plaid",plaid patchwork,elastic waistband,slip-on
+p764,shoes,black casual sneakers with puppy motif,Men's,cute trendy footwear,low-top silhouette,canvas,"black, multicolor","puppy charm, chain",lace-up fastening,slip-on
+p765,accessory,fluorescent yellow hooded windbreaker,Men's,outdoor techwear outerwear,loose fit,windproof fabric,"neon yellow, black",small logo detail,"hooded, zip pockets",slip-on
+p766,outerwear,fluorescent yellow-green fleece jacket,Men's,warm casual jacket,loose fit,fleece,"neon yellow-green, black",small logo detail,"zip closure, patch pocket",slip-on
+p767,bottom,black cargo wide-leg trousers,Men's,trendy casual trousers,wide-leg,cotton fabric,black,"cargo pockets, metal buckle",elastic waistband,slip-on
+p768,accessory,khaki distressed letter baseball cap,Men's,vintage trendy accessories,baseball cap silhouette,cotton fabric,"khaki, black","distressed, letter print",adjustable buckle,wearable
+p769,bag,khaki and gray colorblock tech backpack,Men's,outdoor casual bags,backpack,canvas,"khaki, gray",Solid,drawstring pocket,backpack
+p770,shoes,brown and white colorblock sneakers,Men's,vintage casual shoes,low-top silhouette,suede,"brown, white",brand logo embellishment,lace-up fastening,slip-on
+p771,mid_layer_top,light blue striped letter hooded sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"light blue, dark grey","letter print, striped trim",hooded design,slip-on
+p772,bottom,dark gray deconstructed joggers,Men's,trendy casual trousers,jogger silhouette,cotton fabric,dark gray,"small logo, deconstructed stitching",elastic waistband,slip-on
+p773,accessory,navy letter baseball cap,Men's,vintage casual accessories,baseball cap silhouette,cotton fabric,"navy, beige",letter embroidery,adjustable buckle,wearable
+p774,bag,black and orange Li-Ning backpack,Unisex,athletic casual bags,backpack,nylon,"black, orange",brand logo embellishment,zipper closure,backpack
+p775,shoes,gray and black colorblock chunky sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather",gray and black,striped trim,lace-up fastening,slip-on
+p776,inner_top,off-white and blue plaid faux two-piece top,Women's,soft casual tops,loose fit,cotton fabric,"off-white, blue","plaid trim, logo",button detail,slip-on
+p777,bottom,light blue flared jeans,Women's,vintage casual trousers,flared silhouette,denim,light blue,distressed stitching,elastic waistband,slip-on
+p778,shoes,white Mary Jane shoes,Women's,soft casual footwear,low-top silhouette,leather,white,brand logo embellishment,buckle closure,slip-on
+p779,mid_layer_top,beige and black color-block polo sweatshirt,Men's,vintage casual top,loose fit,cotton fabric,"beige, black",brand logo embellishment,polo collar,slip-on
+p780,bottom,navy blue jogger sweatpants,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,navy,small logo detail,elastic waistband,slip-on
+p781,shoes,"gray, white, and black colorblock chunky sneakers",Men's,trendy casual shoes,low-top silhouette,"mesh, leather","gray, white, black",striped detail,lace-up fastening,slip-on
+p782,mid_layer_top,navy blue red-label hooded sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"navy, red",letter print,"half-zip, patch pocket",slip-on
+p783,bottom,dark blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,dark blue,distressed stitching,elastic waistband,slip-on
+p784,accessory,burgundy letter baseball cap,Men's,vintage casual accessories,baseball cap silhouette,cotton fabric,"burgundy, white",letter embroidery,adjustable buckle,wearable
+p785,shoes,burgundy and white colorblock casual sneakers,Men's,vintage casual shoes,low-top silhouette,suede,"burgundy, white",striped detail,lace-up fastening,slip-on
+p786,mid_layer_top,dark gray and light blue colorblock pocket sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"dark grey, light blue",graphic decoration,patch pocket,slip-on
+p787,bottom,khaki cargo joggers,Men's,outdoor casual trousers,jogger silhouette,cotton fabric,khaki,"cargo pockets, buttons",elastic waistband,slip-on
+p788,accessory,black and gray fluorescent logo baseball cap,Men's,techwear casual accessories,baseball cap silhouette,quick-dry fabric,"black, grey, neon green",triangle logo,ventilation eyelets,wearable
+p789,shoes,beige and black outdoor sandals,Men's,outdoor casual shoes,low-top silhouette,"leather, mesh","beige, black, yellow",brand logo embellishment,buckle closure,slip-on
+p790,mid_layer_top,brown and blue striped half-zip sweater,Women's,vintage casual top,loose fit,knit fabric,"brown, blue",striped detail,half-zip design,slip-on
+p791,bottom,dark blue contrast-stitch jeans,Women's,vintage casual trousers,wide-leg,denim,dark blue,topstitch detail,elastic waistband,slip-on
+p792,bag,brown and white letter-embellished handbag,Women's,cute casual bag,handbag,"suede, leather","brown, white","letter print, charm","top handle, shoulder carry",handheld
+p793,shoes,brown suede mule sneakers,Women's,relaxed casual footwear,mule,suede,brown,Solid,slip-on,slip-on
+p794,inner_top,light blue deconstructed shirt,Men's,trendy casual top,loose fit,cotton fabric,light blue,small logo detail,deconstructed stitching,slip-on
+p795,inner_top,off-white logo print long-sleeve T-shirt,Men's,minimalist casual top,loose fit,cotton fabric,off-white and black,letter print,crew neck design,slip-on
+p796,bottom,light blue paint-splatter distressed jeans,Men's,trendy casual trousers,wide-leg,denim,light blue,"paint splatter, distressed",elastic waistband,slip-on
+p797,shoes,light blue colorblock casual sneakers,Men's,minimalist casual shoes,low-top silhouette,suede,"light blue, brown",color-block design,lace-up fastening,slip-on
+p798,inner_top,"blue, white, and green colorblock polo shirt",Men's,vintage casual top,loose fit,cotton fabric,"blue, white, green",small logo detail,polo collar,slip-on
+p799,bottom,dark blue denim shorts,Men's,vintage casual bottoms,shorts silhouette,denim,dark blue,topstitch detail,elastic waistband,slip-on
+p800,accessory,black logo-patch visor,Unisex,athleisure accessories,visor silhouette,quick-dry fabric,black,small logo detail,elastic fit,wearable
+p801,bag,light gray backpack,Unisex,outdoor techwear bags,backpack,"nylon, mesh","light grey, black",brand logo embellishment,"multi-pocket, buckle",backpack
+p802,shoes,"gray, black, and white colorblock athletic sneakers",Men's,athletic casual shoes,low-top silhouette,"mesh, leather","gray, white, black",brand logo embellishment,lace-up fastening,slip-on
+p803,mid_layer_top,light gray letter hooded sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"light grey, green",letter print,"hooded, patch pocket",slip-on
+p804,bottom,dark gray striped wide-leg sweatpants,Men's,trendy casual trousers,wide-leg,cotton fabric,"dark grey, white",striped detail,elastic waistband,slip-on
+p805,accessory,"burgundy, orange, and yellow colorblock text baseball cap",Men's,trendy casual accessories,baseball cap silhouette,quick-dry fabric,"burgundy, orange-yellow",text print,breathable design,wearable
+p806,bag,khaki and neon yellow backpack,Unisex,outdoor techwear bags,backpack,nylon,"khaki, neon yellow",brand logo embellishment,zipper closure,backpack
+p807,shoes,olive green suede casual shoes,Men's,vintage casual shoes,low-top silhouette,suede,"olive green, white",small logo detail,lace-up fastening,slip-on
+p808,mid_layer_top,black and grey patterned sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"black, gray",graphic print,crew neck design,slip-on
+p809,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p810,shoes,"gray, white, and black colorblock chunky sneakers",Men's,trendy casual shoes,low-top silhouette,"mesh, leather","gray, white, black",striped trim,lace-up fastening,slip-on
+p811,mid_layer_top,light grey zip-up hooded sweatshirt with black trim,Men's,minimalist casual top,loose fit,cotton fabric,"light grey, black",small logo detail,"zip closure, hooded",slip-on
+p812,bottom,light grey joggers with black trim,Men's,minimalist casual trousers,jogger silhouette,cotton fabric,"light grey, black",small logo detail,elastic waistband,slip-on
+p813,accessory,red base baseball cap,Unisex,outdoor casual accessories,baseball cap silhouette,cotton fabric,"red, multicolor",brand logo embellishment,adjustable buckle,wearable
+p814,accessory,white and grey over-ear headphones,Unisex,fashion electronic accessories,headset,"leather, metal","white, gray",brand logo embellishment,adjustable headband,wearable
+p815,shoes,red base white star casual shoes,Men's,trendy casual shoes,low-top silhouette,suede,"red, white",star embellishment,lace-up fastening,slip-on
+p816,outerwear,black and white textured knit jacket,Women's,vintage casual outerwear,loose fit,knit fabric,black and white,geometric pattern,button closure,slip-on
+p817,mid_layer_top,off-white ribbed turtleneck sweater,Women's,soft casual tops,slim fit,knit fabric,off-white,ribbed texture,high neck,slip-on
+p818,bottom,off-white pearl-embellished flared trousers,Women's,sweet casual trousers,flared silhouette,plush fabric,off-white,pearl embellishment,elastic waistband,slip-on
+p819,bag,grey and white striped tote bag,Unisex,outdoor casual bags,tote bag silhouette,cotton fabric,"off-white, black",brand logo embellishment,top handle,handheld
+p820,shoes,grey suede mule sneakers,Women's,relaxed casual footwear,mule,suede,gray,Solid,slip-on,slip-on
+p821,mid_layer_top,light gray letter hooded sweatshirt,Men's,trendy casual top,loose fit,cotton fabric,"light grey, black",letter print,"half-zip, decorative stitching",slip-on
+p822,bottom,black and grey patterned cargo pants,Men's,trendy casual trousers,wide-leg,cotton fabric,"black, gray","textured, logo",elastic waistband,slip-on
+p823,accessory,black base knit beanie,Men's,trendy casual accessories,knit beanie silhouette,knit fabric,black and white,brand logo embellishment,elastic fit,wearable
+p824,bag,grey and black colorblock technical backpack,Men's,techwear casual bags,backpack,nylon,gray and black,brand logo embellishment,drawstring,backpack
+p825,shoes,silver and black colorblock technical dad sneakers,Men's,trendy casual shoes,low-top silhouette,"mesh, leather","silver, black",striped trim,lace-up fastening,slip-on
+p826,mid_layer_top,light grey letter print sweatshirt,Women's,minimalist casual top,loose fit,cotton fabric,"light grey, black, red",letter print,crew neck design,slip-on
+p827,bottom,dark blue colorblock wide-leg jeans,Women's,vintage casual trousers,wide-leg,denim,"dark blue, gray",color-block rolled hem,elastic waistband,slip-on
+p828,accessory,black base letter knit beanie,Women's,trendy casual accessories,knit beanie silhouette,knit fabric,"black, red, grey",text print,elastic fit,wearable
+p829,accessory,bright yellow over-ear headphones,Unisex,fashion electronic accessories,headset,"plastic, fabric","bright yellow, black",brand logo embellishment,adjustable headband,wearable
+p830,shoes,burgundy and brown sole casual shoes,Women's,vintage casual shoes,low-top silhouette,suede,"burgundy, brown",stitching detail,lace-up fastening,slip-on
+p831,mid_layer_top,navy and white colorblock zip-up hooded sweatshirt,Men's,minimalist casual top,loose fit,cotton fabric,"navy, white, red",small logo detail,"zip closure, hooded",slip-on
+p832,inner_top,off-white logo print long-sleeve T-shirt,Men's,vintage casual top,loose fit,cotton fabric,"off-white, black, red",letter print,crew neck design,slip-on
+p833,bottom,light blue distressed jeans,Men's,vintage casual trousers,wide-leg,denim,light blue,distressed stitching,elastic waistband,slip-on
+p834,shoes,yellow and black colorblock casual sneakers,Men's,vintage casual shoes,low-top silhouette,fabric,"yellow, black",brand logo embellishment,lace-up fastening,slip-on
+p835,outerwear,brown leather biker jacket,Men's,vintage trendy outerwear,loose fit,leather,brown,topstitch detail,button closure,slip-on
+p836,inner_top,white minimalist shirt,Men's,minimalist casual top,loose fit,cotton fabric,white,small logo detail,lapel design,slip-on
+p837,bottom,dark blue jogger jeans,Men's,vintage casual trousers,jogger silhouette,denim,dark blue,topstitch detail,elastic waistband,slip-on
+p838,accessory,silver-frame black-lens sunglasses,Unisex,trendy accessories,sunglasses,"metal, plastic","silver, black",Solid,flexible temples,wearable
+p839,accessory,navy and grey plaid tie,Men's,formal casual accessories,necktie,fabric,"navy, gray",plaid trim,standard tie-width tie,tie-on
+p840,bag,grey mesh technical handbag,Unisex,techwear casual bags,handbag,"mesh, nylon",gray,brand logo embellishment,drawstring,handheld
+p841,shoes,"silver, blue, and black colorblock athletic sneakers",Men's,athletic trendy footwear,low-top silhouette,"mesh, leather","silver, blue, black","linear trim, brand logo",lace-up fastening,slip-on

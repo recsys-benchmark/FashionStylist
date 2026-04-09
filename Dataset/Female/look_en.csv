@@ -1,0 +1,501 @@
+﻿outfitID,items,look,season,occasion
+b1,"p1,p2,p3,p4,p5,p6,p7,p8","Sophisticated urban style: light beige long loose coat with cropped slim-fit top, soft color palette, clean silhouette, suitable for daily commute",Winter,School
+b2,"p9,p10,p11,p12,p13,p14,p15,p16","Vintage collegiate style: dark gray long coat with red turtleneck, paired with plaid mini skirt, plaid elements, vintage collegiate vibe",Winter,Home
+b3,"p17,p18,p19,p20,p21,p22,p23,p24","Premium commute style: black long wool coat with minimalist solid-color top, paired with straight-leg trousers, cool-toned minimalist tailoring",Autumn/Winter,Social
+b4,"p25,p26,p27,p28,p29","Sophisticated urban style: light khaki trench coat with cropped midriff-baring top, paired with leather mini skirt and knee-high boots, soft color palette, slim-fit silhouette, flattering and elegant",Winter,Travel
+b5,"p30,p31,p32,p34","Sweet-cool girl style: light brown long faux fur coat with matching wide-leg trousers, plush texture adds sweetness, wide-leg trousers enhance the cool factor",Winter,School
+b6,"p35,p36,p37,p38,p39,p40","Minimalist neutral style: black cropped jacket with black wide-leg trousers, carried with brown shoulder bag, all-black basic style",Winter,Business
+b7,"p41,p42,p43,p44,p45","Sophisticated urban style: light khaki cropped jacket with slim-fit knit top, paired with black wide-leg trousers and handbag, minimalist clean low-saturation color scheme, versatile for daily wear",Autumn/Winter,Travel
+b8,"p46,p47,p48,p49,p50,p51","Premium commute style: dark brown long wool coat with solid-color top, paired with straight-leg jeans and work handbag, long silhouette suitable for office and casual wear",Winter,Social
+b9,"p52,p53,p54,p55,p56,p57","Vintage collegiate style: dark brown long coat with plaid knit top, paired with plaid pleated skirt, slouchy socks, and ankle boots, vintage collegiate vibe",Autumn,Home
+b10,"p58,p59,p60,p61,p62,p63,p64","Premium commute style: black long coat with black top, paired with black straight-leg trousers and shoulder bag, all-black minimalist outfit, understated and premium",Winter,Social
+b11,"p65,p66,p67,p68,p69,p70,p71","Sophisticated urban style: black oversized down jacket with light gray dress, balancing casual and refined",Autumn/Winter,School
+b12,"p72,p73,p74,p75,p76,p77,p78","Sweet-cool girl style: off-white long down jacket with pleated skirt, paired with knee-high socks and platform boots, fluffy down jacket adds sweetness, knee-high socks enhance the girlish look",Winter,Travel
+b13,"p79,p80,p81,p82,p83","Sophisticated urban style: off-white cropped jacket with beige maxi skirt, monochromatic styling with soft textures, full of gentle elegance",Winter,Home
+b14,"p84,p85,p86,p87,p88","Sweet-cool girl style: white cropped jacket with black maxi skirt, paired with black handbag, contrast color styling with cropped silhouette, sweet yet cool",Autumn/Winter,Social
+b15,"p89,p90,p91,p92,p93,p94","Sweet-cool girl style: light gray cropped jacket with black wide-leg trousers, paired with work handbag, short top with long bottoms, flattering and cool",Winter,Travel
+b16,"p95,p96,p97,p98,p99,p100","Sophisticated urban style: beige-yellow cropped jacket with brown wide-leg trousers, paired with shoulder bag, warm-toned minimalist tailoring, highly suitable for daily commute",Autumn,School
+b17,"p101,p102,p103,p104,p105,p106","Minimalist neutral style: off-white long down jacket with straight-leg trousers, paired with brown handbag, basic style with low-saturation colors",Winter,Home
+b18,"p107,p108,p109,p110","Premium commute style: dark brown cropped jacket with black dress, paired with handbag, full of professional refinement",Autumn/Winter,Social
+b19,"p111,p112,p113,p114,p115,p116,p117","Premium commute style: light khaki long trench coat with straight-leg trousers, paired with minimalist top and handbag, classic trench coat silhouette with basic styling, for commute",Winter,Business
+b20,"p118,p119,p120,p121,p122,p123,p124","Minimalist neutral style: black long coat with black top, paired with black wide-leg trousers and handbag, all-black neutral style, minimalist and premium",Autumn,School
+b21,"p125,p126,p127,p128,p129,p130","Sophisticated urban style: tan long coat with matching wide-leg trousers, paired with minimalist top, monochromatic loose silhouette, effortless and premium",Autumn/Winter,Social
+b22,"p131,p132,p133,p134,p135,p136","Sophisticated urban style: off-white long coat with black wide-leg trousers, paired with handbag, light-dark contrast with clean silhouette, suitable for daily commute",Winter,Travel
+b23,"p137,p138,p139,p140,p141","Denim casual style: black cropped jacket with denim wide-leg trousers, paired with brown shoulder bag, full of casual vibes",Winter,School
+b24,"p142,p143,p144,p145","Sweet-cool girl style: white cropped jacket with black maxi skirt, paired with platform boots, short top with long bottoms, sweet-cool balance",Autumn/Winter,Home
+b25,"p146,p147,p148,p149,p150,p151","Sweet-cool girl style: black cropped jacket with black mini skirt, paired with slouchy socks and ankle boots, all-black outfit with girlish accessories, cool with a touch of sweetness",Autumn,Travel
+b26,"p152,p153,p154,p155,p156","Minimalist neutral style: dark gray cropped jacket with black wide-leg trousers, paired with minimalist top, basic cool-toned style, versatile for daily neutral wear",Winter,Business
+b27,"p157,p158,p159,p160,p161","Sophisticated urban style: off-white long down jacket with matching straight-leg trousers, paired with handbag, monochromatic fluffy silhouette, warm and refined",Winter,Social
+b28,"p162,p163,p164,p165,p166,p167","Premium commute style: dark brown long coat with black top, paired with black maxi skirt and handbag, full of professional elegance",Autumn/Winter,Home
+b29,"p168,p169,p170,p171,p172","Minimalist neutral style: black cropped jacket with black straight-leg trousers, paired with black handbag, all-black basic outfit with minimalist accessories, neutral style for multiple occasions",Autumn,School
+b30,"p173,p174,p175,p176","Minimalist neutral style: light gray cropped jacket with black wide-leg trousers, paired with handbag, cool-toned loose silhouette, full of neutral casual vibes",Winter,Social
+b31,"p177,p178,p179,p180,p181","Trendy street avant-garde style: dark gray cropped jacket with black wide-leg trousers, paired with handbag, cool-toned oversized silhouette, full of street style",Winter,Social
+b32,"p182,p183,p184,p185,p186","Denim casual style: black cropped jacket with denim wide-leg trousers, paired with minimalist top, suitable for casual daily wear",Autumn/Winter,Travel
+b33,"p187,p188,p189,p190,p191","Minimalist neutral style: white cropped jacket with black wide-leg trousers, paired with minimalist top, light-dark contrast basic style, minimalist and premium neutral look",Winter,Home
+b34,"p192,p193,p194,p195,p196","Vintage collegiate style: dark gray cropped jacket with plaid skirt, paired with slouchy socks and ankle boots, plaid elements with vintage accessories, collegiate vibe",Autumn,School
+b35,"p197,p198,p199,p200,p201,p202","Vintage collegiate style: dark brown cropped jacket with plaid skirt, paired with slouchy socks and ankle boots, vintage plaid color scheme",Autumn/Winter,Social
+b36,"p203,p204,p205,p206,p207,p208","Vintage collegiate style: dark knitwear with plaid skirt, paired with slouchy socks and knee-high boots, knit piece with plaid elements, full of vintage collegiate vibe",Winter,Business
+b37,"p209,p210,p211,p212,p213","Sophisticated urban style: tan long coat with matching maxi skirt, paired with minimalist top, monochromatic styling with soft textures, full of gentle elegance",Winter,Travel
+b38,"p214,p215,p216,p217,p218,p219","Sophisticated urban style: beige-yellow long coat with black wide-leg trousers, paired with brown handbag, warm-toned loose silhouette, suitable for daily commute",Autumn/Winter,Home
+b39,"p220,p221,p222,p223,p224,p225,p226,p227","Sweet-cool girl style: dark gray cropped down jacket with black mini skirt, paired with knee-high socks and platform boots, fluffy jacket with girlish accessories, sweet-cool balance",Autumn,Social
+b40,"p228,p229,p230,p231,p232","Sweet-cool girl style: white cropped jacket with brown wide-leg trousers, paired with minimalist top, light-brown contrast with cropped silhouette, sweet yet cool",Winter,Social
+b41,"p233,p234,p235,p236,p237","Sweet-cool style: pink cropped jacket with grey wide-leg trousers, simple inner layer, bright top, loose bottoms, full sweet-cool aesthetic",Winter,Travel
+b42,"p238,p239,p240,p241,p242","Minimalist neutral style: light grey cropped jacket with black wide-leg trousers, handbag, cool-toned basics, versatile daily neutral look",Autumn,School
+b43,"p243,p244,p245,p246,p247,p248","Minimalist neutral style: dark grey cropped jacket with black wide-leg trousers, brown handbag, all-black basics, minimalist accessories, versatile neutral look",Winter,Business
+b44,"p249,p250,p251,p252,p253","Minimalist neutral style: off-white long jacket with black wide-leg trousers, white handbag, light-dark contrast basics, minimalist sophisticated neutral look",Autumn/Winter,Social
+b45,"p254,p255,p256,p257,p258,p259","Vintage preppy style: light blue cropped jacket with black maxi skirt, slouchy socks and ankle boots, light-toned clothing, vintage accessories, full preppy aesthetic",Winter,Business
+b46,"p260,p261,p262,p263,p264,p265","Smart urban style: beige cropped jacket with brown straight-leg trousers, brown handbag, warm-toned minimalist tailoring, suitable for daily commute",Autumn/Winter,School
+b47,"p266,p267,p268,p269,p270,p271","Sweet-cool style: dark blue cropped jacket with black mini skirt, knee-high boots, dark top with mini skirt, balanced sweet-cool look",Winter,Social
+b48,"p272,p273,p274,p275,p276,p277","Sweet-cool style: red cropped jacket with brown mini skirt, platform boots, bright top with mini skirt, sweet with a cool edge",Autumn,Home
+b49,"p278,p279,p280,p281,p282,p283","Smart urban style: tan cropped jacket with beige maxi skirt, simple inner layer, warm-toned soft fabric, full gentle temperament",Winter,Social
+b50,"p284,p285,p286,p287,p288,p289","Vintage preppy style: dark knit jacket with black wide-leg trousers, simple inner layer, vintage preppy aesthetic",Autumn/Winter,Social
+b51,"p290,p291,p292,p293,p294,p295","Vintage preppy style: plaid knit jacket with black wide-leg trousers, simple inner layer, preppy aesthetic",Winter,Travel
+b52,"p296,p297,p298,p299,p300,p301","Smart urban style: off-white long trench coat with beige mini skirt, simple inner layer and handbag, monochromatic classic fit, commute essential",Winter,Home
+b53,"p302,p303,p304,p305,p306,p307","Minimalist neutral style: white cropped jacket with black wide-leg trousers, paired with minimalist top, light-dark contrast basic style, minimalist and premium neutral look",Autumn,School
+b54,"p308,p309,p310,p311,p312,p313","Sweet-cool style: tan cropped jacket with black mini skirt, knee-high boots, cropped top with mini skirt, balanced sweet-cool look",Winter,Social
+b55,"p314,p315,p316,p317,p318,p319","Sweet-cool style: black cropped jacket with black mini skirt, knee-high boots, all-black outfit, cool with a sweet edge",Autumn/Winter,Travel
+b56,"p320,p321,p322,p323,p324","Denim casual style: light blue denim jacket with black wide-leg trousers, simple inner layer, suitable for daily casual wear",Winter,Business
+b57,"p325,p326,p327,p328,p329","Minimalist neutral style: black cropped jacket with black wide-leg trousers, brown handbag, minimalist accessories, versatile neutral look",Winter,Business
+b58,"p330,p331,p332,p333,p334,p335","Edgy street style: dark grey cropped jacket with grey mini skirt, knee-high boots, cool-toned oversized fit, full street aesthetic",Autumn/Winter,Social
+b59,"p336,p337,p338,p339,p340,p341","Edgy street style: red cropped jacket with grey mini skirt, knee-high boots, street aesthetic",Winter,Home
+b60,"p342,p343,p344,p345,p346","Smart urban style: light grey cropped jacket with beige wide-leg trousers, simple inner layer, cool-toned loose fit, suitable for daily commute",Autumn,Social
+b61,"p347,p348,p349,p350,p351,p352,p353","Sweet-cool style: white cropped jacket with black maxi skirt, simple inner layer, light-dark contrast cropped fit, sweet with a cool edge",Winter,Business
+b62,"p354,p355,p356,p357","Sweet-cool style: pink cropped jacket with grey maxi skirt, simple inner layer, bright top with maxi skirt, balanced sweet-cool look",Autumn/Winter,Travel
+b63,"p358,p359,p360,p361,p362","Vintage preppy style: tan cropped jacket with plaid maxi skirt, simple inner layer, plaid elements with vintage color palette, full preppy aesthetic",Winter,Social
+b64,"p363,p364,p365,p366,p367,p368","Vintage preppy style: white cropped jacket with plaid maxi skirt, slouchy socks and ankle boots, plaid elements with vintage accessories, full preppy aesthetic",Winter,School
+b65,"p369,p370,p371,p372,p373,p374","Smart urban style: tan cropped jacket with dark blue maxi skirt, simple inner layer, warm-toned soft fabric, full gentle temperament",Autumn,Travel
+b66,"p375,p376,p377,p378","Edgy street style: black cropped jacket with black wide-leg trousers, simple inner layer, all-black oversized fit, full street aesthetic",Winter,Business
+b67,"p379,p380,p381,p382,p383","Denim casual style: beige long jacket with denim wide-leg trousers, simple inner layer, full casual aesthetic",Autumn/Winter,Social
+b68,"p384,p385,p386,p387,p388,p389","Denim casual style: tan cropped jacket with denim wide-leg trousers, simple inner layer, suitable for daily casual wear",Winter,Home
+b69,"p390,p391,p392,p393,p394,p395","Denim casual style: light green cropped jacket with denim wide-leg trousers, simple inner layer, full casual aesthetic",Winter,School
+b70,"p396,p397,p398,p399,p400,p401,p402","Premium commute style: dark brown long coat with black top, paired with black maxi skirt and handbag, full of professional elegance",Winter,Business
+b71,"p403,p404,p405,p406,p407","Smart urban style: tan cropped jacket with brown mini skirt, simple inner layer, warm-toned cropped fit, suitable for daily commute",Autumn/Winter,Social
+b72,"p408,p409,p410,p411","Smart urban style: beige long jacket with brown mini skirt, simple inner layer, monochromatic soft fabric, full gentle temperament",Autumn,Travel
+b73,"p412,p413,p414,p415","Smart urban style: black cropped jacket with beige maxi skirt, simple inner layer, light-dark contrast cropped fit, versatile daily look",Winter,Business
+b74,"p416,p417,p418,p419,p420,p421","Vintage preppy style: white cropped jacket with red inner layer, black mini skirt, slouchy socks and knee-high boots, bright inner layer with vintage accessories, full preppy aesthetic",Autumn/Winter,School
+b75,"p422,p423,p424,p425,p426","Sweet-cool style: red cropped jacket with white mini skirt, platform boots, bright top with mini skirt, sweet with a cool edge",Winter,Social
+b76,"p427,p428,p429,p430,p431,p432","Vintage preppy style: dark blue knit jacket with black mini skirt, slouchy socks and knee-high boots, knit piece with vintage accessories, full preppy aesthetic",Winter,Home
+b77,"p433,p434,p435,p436,p437,p438,p439","Sweet-cool style: tan cropped jacket with pink inner layer, black mini skirt, slouchy socks and knee-high boots, bright inner layer with mini skirt, balanced sweet-cool look",Autumn,School
+b78,"p440,p441,p442,p443,p444,p445","Sweet-cool style: white knit jacket with white mini skirt, slouchy socks and platform boots, monochromatic with plush accessories, full sweet aesthetic",Autumn/Winter,Social
+b79,"p446,p447,p448,p449,p450,p451","Edgy street style: red cropped jacket with green wide-leg trousers, simple inner layer, color-blocked oversized fit, full street aesthetic",Winter,Travel
+b80,"p452,p453,p454,p455,p456,p457","Sweet-cool style: pink cropped jacket with black wide-leg trousers, simple inner layer, bright top with loose bottoms, balanced sweet-cool look",Winter,Business
+b81,"p458,p459,p460,p461,p462","Sweet-cool style: white cropped jacket with white mini skirt, platform boots, monochromatic cropped fit, full sweet aesthetic",Winter,School
+b82,"p463,p464,p465,p466,p467,p468","Edgy street style: red cropped jacket with black mini skirt, knee-high boots, bright top with oversized fit, full street aesthetic",Autumn/Winter,Social
+b83,"p469,p470,p471,p472,p473,p474","Edgy Streetwear: blue cropped jacket with black wide-leg trousers, minimalist top, color-blocked loose fit, street style",Autumn,Home
+b84,"p475,p476,p477,p478,p479,p480,p481","Urban Chic: beige cropped jacket with black mini skirt, minimalist top, high-contrast cropped silhouette, office-ready",Winter,Social
+b85,"p482,p483,p484,p485,p486,p487,p488","Vintage Preppy: tan cropped jacket with plaid skirt, slouchy socks and ankle boots, plaid elements with vintage palette, preppy aesthetic",Winter,Business
+b86,"p489,p490,p491,p492,p493,p494,p495,p496","Edgy Streetwear: beige cropped jacket with purple wide-leg trousers, minimalist top, color-blocked loose fit, street style",Autumn/Winter,Social
+b87,"p497,p498,p499,p500,p501,p502","Vintage Preppy: light gray cropped jacket with black mini skirt, slouchy socks and knee-high boots, basic pieces with vintage accessories, preppy aesthetic",Winter,Business
+b88,"p503,p504,p505,p506,p507,p508","Edgy Streetwear: green cropped jacket with white mini skirt, knee-high boots, bright oversized top, street style",Autumn,Home
+b89,"p509,p510,p511,p512,p513","Sophisticated Commuter: black long coat with black maxi skirt, minimalist top, monochromatic long silhouette, professional power look",Winter,Travel
+b90,"p514,p515,p516,p517","Vintage Preppy: light blue cropped jacket with black mini skirt, slouchy socks and knee-high boots, light tones with vintage accessories, preppy aesthetic",Winter,Business
+b91,"p518,p519,p520,p521,p522","Sweet & Edgy: red cropped jacket with white top, black mini skirt and knee-high boots, bright top with mini skirt, balanced style",Winter,Social
+b92,"p523,p524,p525,p526,p527,p528,p529","Vintage Preppy: light gray knit jacket with gray maxi skirt, slouchy socks and knee-high boots, knitwear with basic pieces, preppy aesthetic",Autumn,School
+b93,"p530,p531,p532,p533,p534,p535","Vintage Preppy: light blue cropped jacket with black mini skirt, slouchy socks and knee-high boots, light tones with vintage accessories, preppy aesthetic",Autumn/Winter,Social
+b94,"p536,p537,p538,p539,p540","Sophisticated Commuter: dark gray long coat with white top, beige wide-leg trousers and handbag, cool-toned loose fit, smart casual",Winter,Business
+b95,"p541,p542,p543,p544,p545","Urban Chic: tan cropped jacket with black maxi skirt, minimalist top, warm-toned cropped silhouette, versatile daily wear",Winter,School
+b96,"p546,p547,p548,p549,p550","Minimalist Neutral: black cropped jacket with gray trousers, minimalist top, basic cool-toned pieces, versatile neutral style",Autumn/Winter,Travel
+b97,"p551,p552,p553,p554,p555","Sophisticated Commuter: dark brown long coat with black top, black maxi skirt and handbag, long silhouette with slim skirt, professional elegance",Winter,Business
+b98,"p556,p557,p558,p559,p560","Sophisticated Commuter: tan long coat with black top, black wide-leg trousers and handbag, long silhouette with loose bottoms, smart casual",Autumn,Social
+b99,"p561,p562,p563,p564,p565","Sophisticated Commuter: black long coat with white top, black maxi skirt and handbag, high-contrast long silhouette, professional power look",Winter,Home
+b100,"p566,p567,p568,p569,p570,p571","Sophisticated Commuter: beige long coat with matching wide-leg trousers, minimalist top, monochromatic loose fit, essential workwear",Winter,Business
+b101,"p572,p573,p574,p575,p576,p577","Vintage Preppy: tan cropped jacket with plaid skirt, slouchy socks and knee-high boots, plaid elements with vintage palette, preppy aesthetic",Autumn,School
+b102,"p578,p579,p580,p581,p582,p583,p584","Vintage Preppy: black cropped jacket with black mini skirt, slouchy socks and ankle boots, basic pieces with vintage accessories, preppy aesthetic",Autumn/Winter,Social
+b103,"p585,p586,p587,p588,p589","Vintage Preppy: brown knit jacket with brown mini skirt, slouchy socks and knee-high boots, monochromatic knitwear, preppy aesthetic",Winter,Travel
+b104,"p590,p591,p592,p593,p594,p595","Urban Chic: beige long trench coat with straight-leg trousers, minimalist top and handbag, classic basic pieces, office-ready",Autumn/Winter,School
+b105,"p596,p597,p598,p599,p600,p601,p602","Sweet & Edgy: black cropped jacket with black mini skirt, colorful accessories, all-black look with bright accents, balanced style",Winter,Home
+b106,"p603,p604,p605,p606,p607","Urban Chic: tan cropped jacket with beige mini skirt, minimalist top, warm-toned cropped silhouette, office-ready",Autumn/Winter,Social
+b107,"p608,p609,p610,p611,p612,p613,p614","Vintage Preppy: light blue cropped jacket with black mini skirt, slouchy socks and knee-high boots, light tones with vintage accessories, preppy aesthetic",Autumn,School
+b108,"p615,p616,p617,p618,p619,p620,p621","Sophisticated Commuter: black long coat with red top, black maxi skirt and handbag, bright top with long silhouette, professional elegance",Winter,Business
+b109,"p622,p623,p624,p625,p626","Urban Chic: tan cropped jacket with white wide-leg trousers, minimalist top, warm-toned loose bottoms, versatile daily wear",Autumn/Winter,Social
+b110,"p627,p628,p629,p630,p631,p632,p633","Sophisticated Commuter: tan long trench coat with black top, black maxi skirt and handbag, classic basic pieces, essential workwear",Winter,School
+b111,"p634,p635,p636,p637,p638","Minimalist Neutral: white cropped jacket with blue wide-leg trousers, minimalist top, high-contrast basic pieces, minimalist neutral style",Autumn/Winter,Business
+b112,"p639,p640,p641,p642","Urban Chic: beige cropped jacket with green mini skirt, minimalist top, bright bottoms with cropped silhouette, versatile daily wear",Winter,School
+b113,"p643,p644,p645,p646,p647,p648,p649","Vintage Preppy: beige cropped jacket with plaid skirt, slouchy socks and knee-high boots, light-toned plaid elements, preppy aesthetic",Autumn,Travel
+b114,"p650,p651,p652,p653","Vintage Preppy: red plaid jacket with black mini skirt, slouchy socks and knee-high boots, plaid elements with bright top, preppy aesthetic",Winter,Social
+b115,"p654,p655,p656,p657,p658,p659","Vintage Preppy: light blue long jacket with black top, black trousers and minimalist accessories, light-toned basic pieces, preppy aesthetic",Autumn/Winter,School
+b116,"p660,p661,p662,p663","Urban Chic: tan cropped jacket with white wide-leg trousers, minimalist top, warm-toned loose bottoms, office-ready",Autumn/Winter,Social
+b117,"p664,p665,p666,p667","Urban Chic: black cropped jacket with beige wide-leg trousers, minimalist top, high-contrast cropped silhouette, versatile daily wear",Winter,Home
+b118,"p668,p669,p670,p671,p672","Denim Casual: dark wash cropped jacket with blue jeans, minimalist top, basic denim jacket, casual style",Autumn/Winter,Business
+b119,"p673,p674,p675,p676,p677","Sweet & Edgy: black cropped jacket with pink mini skirt, minimalist top, bright bottoms with cropped silhouette, balanced style",Autumn/Winter,School
+b120,"p678,p679,p680,p681,p682","Vintage Preppy: tan cropped jacket with white mini skirt, slouchy socks and ankle boots, basic pieces with vintage accessories, preppy aesthetic",Autumn/Winter,Social
+b121,"p683,p684,p685,p686,p687,p688,p689","Vintage Preppy: black cropped jacket with plaid skirt, slouchy socks and ankle boots, plaid elements with basic pieces, preppy aesthetic",Autumn,Travel
+b122,"p690,p691,p692,p693,p694","Denim Casual: light blue denim jacket with matching jeans, minimalist top, all-denim basic look, casual style",Autumn,School
+b123,"p695,p696,p697,p698","Sweet & Edgy: beige cropped jacket with blue jeans, minimalist top, light-toned loose bottoms, balanced style",Winter,Home
+b124,"p699,p700,p701,p702,p703","Sophisticated Commuter: dark gray long coat with black mini skirt, slouchy socks and ankle boots, long silhouette with vintage accessories, smart casual",Autumn/Winter,Business
+b125,"p704,p705,p706,p707,p708,p709","Smart casual urban: tan cropped jacket with black mini skirt, simple base layer, warm-toned cropped silhouette, suitable for daily commute",Autumn/Winter,Social
+b126,"p710,p711,p712,p713","Denim casual: light blue denim jacket with matching jeans, simple base layer, all-denim basic styling, suitable for daily casual wear",Autumn,School
+b127,"p714,p715,p716,p717,p718","Smart casual urban: beige cropped jacket with black maxi skirt, simple base layer, light-dark contrast cropped silhouette, versatile for daily wear",Autumn/Winter,Home
+b128,"p719,p720,p721,p722","Sweet-cool girl style: white cropped jacket with blue jeans, simple base layer, light-colored loose bottoms, sweet-cool balance",Autumn,Social
+b129,"p723,p724,p725,p726,p727","Trendy street avant-garde: red cropped jacket with black jeans, simple base layer, bright-colored oversized top, high street aesthetic",Autumn/Winter,Home
+b130,"p728,p729,p730,p731,p732","Sweet-cool style: white cropped jacket with white mini skirt, platform boots, monochromatic cropped fit, full sweet aesthetic",Autumn/Winter,Business
+b131,"p733,p734,p735,p736,p737,p738","Denim casual: light blue denim jacket with matching mini skirt, simple base layer, denim piece with mini skirt, high casual aesthetic",Autumn,School
+b132,"p739,p740,p741,p742,p743","Denim casual: tan cropped jacket with blue jeans, simple base layer, denim piece with warm-toned jacket, suitable for daily casual wear",Autumn/Winter,Social
+b133,"p744,p745,p746,p747,p748","Denim casual: light blue denim jacket with black mini skirt, simple base layer, denim piece with mini skirt, high casual aesthetic",Autumn,Business
+b134,"p749,p750,p751,p752,p753","Minimalist neutral: black cropped jacket with black wide-leg trousers, white handbag, all-black basic styling with simple accessories, neutral style for multiple occasions",Winter,Business
+b135,"p754,p755,p756,p757,p758","Trendy street avant-garde: light blue denim jacket with black mini skirt, knee-high boots, oversized denim piece, high street aesthetic",Winter,Social
+b136,"p759,p760,p761,p762","Sweet-cool girl style: white cropped jacket with black mini skirt, platform boots, light-dark contrast cropped silhouette, sweet-cool balance",Autumn/Winter,School
+b137,"p763,p764,p765,p766,p767","Minimalist neutral: black cropped jacket with black trousers, simple base layer, all-black basic styling with simple accessories, neutral style for multiple occasions",Autumn/Winter,Business
+b138,"p768,p769,p770,p771","Denim casual: light blue denim jacket with black mini skirt, knee-high boots, denim piece with mini skirt, high casual aesthetic",Autumn/Winter,Social
+b139,"p772,p773,p774,p775,p776,p777","Denim casual: tan cropped jacket with blue jeans, simple base layer, denim piece with warm-toned jacket, suitable for daily casual wear",Winter,Home
+b140,"p778,p779,p780,p781","Minimalist neutral: white longline jacket with matching wide-leg trousers, simple base layer, monochromatic loose silhouette, minimalist high-end neutral style",Winter,Business
+b141,"p782,p783,p784,p785","Minimalist neutral: light gray cropped jacket with matching wide-leg trousers, simple base layer, monochromatic basic styling, neutral style for multiple occasions",Autumn/Winter,Social
+b142,"p786,p787,p788,p789,p790,p791","Smart casual urban: tan longline jacket with blue jeans, simple base layer, warm-toned loose bottoms, suitable for daily commute",Autumn/Winter,Business
+b143,"p792,p793,p794,p795,p796","Trendy street avant-garde: black cropped jacket with black trousers, red accessories, all-black styling with bright accents, high street aesthetic",Autumn/Winter,Home
+b144,"p797,p798,p799,p800","Sweet-cool girl style: white cropped jacket with black mini skirt, platform boots, light-dark contrast cropped silhouette, sweet-cool balance",Winter,Home
+b145,"p801,p802,p803,p804,p805","Smart casual urban: beige longline jacket with black trousers, simple base layer, light-dark contrast longline silhouette, suitable for daily commute",Autumn,School
+b146,"p806,p807,p808,p809","Smart casual urban: beige cropped jacket with brown wide-leg trousers, simple base layer, warm-toned loose bottoms, versatile for daily wear",Autumn/Winter,School
+b147,"p810,p811,p812,p813","Trendy street avant-garde: black cropped jacket with black trousers, red base layer, bright-colored oversized base layer, high street aesthetic",Autumn/Winter,Business
+b148,"p814,p815,p816,p817,p818","Denim casual: light blue denim jacket with matching jeans, simple base layer, all-denim styling, high casual aesthetic",Autumn,Social
+b149,"p819,p820,p821,p822","Denim casual: black longline jacket with blue jeans, simple base layer, suitable for daily casual wear",Autumn/Winter,Home
+b150,"p823,p824,p825,p826,p827","Sweet-cool girl style: white cropped jacket with plaid skirt, platform boots, plaid element cropped silhouette, sweet-cool balance",Winter,Business
+b151,"p828,p829,p830,p831,p832","Sophisticated commute: beige patterned-trim knit top with matching wide-leg trousers, brown shoes and patterned scarf, gentle and relaxed with texture",Winter,Social
+b152,"p833,p834,p835,p836,p837","Minimalist neutral: white base layer layered with navy plush vest, dark gray wide-leg trousers and brown tote bag, simple, comfortable and sophisticated",Winter,Business
+b153,"p838,p839,p840,p841","Sophisticated commute: black base layer with gray knit cardigan, matching long skirt and brown slides, lazy and casual with style",Winter,Home
+b154,"p842,p843,p844,p845","Minimalist neutral: black and white striped shirt with black longline trench coat, light blue wide-leg jeans and black shoes, sharp and sophisticated",Autumn/Winter,Home
+b155,"p846,p847,p848,p849,p850","Sweet-cool girl style: white short-sleeve base layer with gray red-button vest, off-white wide-leg trousers and red-trimmed white sneakers, beret, fresh, elegant and playful",Autumn/Winter,School
+b156,"p851,p852,p853,p854","Denim casual: red base layer with dark blue denim jacket, matching denim skirt and polka-dot socks, vintage, casual and youthful",Autumn/Winter,School
+b157,"p855,p856,p857,p858","Minimalist neutral: white turtleneck base layer with khaki fur-collar trench coat, tan wide-leg trousers and off-white shoes, warm, high-end and relaxed",Autumn/Winter,Business
+b158,"p859,p860,p861,p862,p863","Smart casual urban: burgundy knit sweater (with light blue shirt cuffs) with black irregular skirt, black shoes and black bag, smart, sophisticated and layered",Winter,Social
+b159,"p864,p865,p866,p867,p868,p869","Sophisticated commute: black base layer with black quilted cropped jacket, black wide-leg jeans and black boots, brown bag, cool, sharp and powerful",Winter,Home
+b160,"p870,p871,p872,p873,p874","Minimalist neutral: white base layer with khaki drawstring trench coat, matching wide-leg trousers and off-white sandals, wide-brim hat, fresh, casual and comfortable",Autumn/Winter,Business
+b161,"p875,p876,p877,p878","Smart casual urban: dark brown turtleneck mid-sleeve knit top with matching wide-leg trousers, reddish-brown mini bag and black shoes, high-end, sharp and textured",Winter,Social
+b162,"p879,p880,p881,p882,p883","Minimalist neutral: gray-white plush cardigan layered with black and white trim base layer, black wide-leg trousers and black shoes, soft, simple and relaxed",Winter,Business
+b163,"p884,p885,p886,p887","Sophisticated commute: dark gray long wool coat with black turtleneck, black skirt and black high-heeled boots, sophisticated, sharp and powerful",Winter,Home
+b164,"p888,p889,p890,p891,p892","Minimalist neutral: dark brown wide-lapel knit top with matching wide-leg trousers (with belt), patterned silk scarf and platform shoes, vintage, sophisticated and stylish",Winter,Home
+b165,"p893,p894,p895,p896","Sophisticated commute: light brown wide-lapel coat with off-white knit set, light beige shoes, gentle, relaxed and high-end",Autumn,School
+b166,"p897,p898,p899,p900","Sophisticated commute: khaki scarf-collar short down jacket with matching long skirt, brown socks and slides, warm, lazy and casual",Winter,School
+b167,"p901,p902,p903,p904","Sophisticated commute: camel double-breasted coat with matching shirt, tan skirt and black shoes, elegant, appropriate for commuting",Winter,Business
+b168,"p905,p906,p907,p908,p909","Vintage Preppy: Khaki lapel jacket layered over pink knit and pink shirt, paired with brown satin maxi skirt and black boots, color-blocked, soft, and dynamic.",Winter,Social
+b169,"p910,p911,p912,p913","Smart Urban: Olive green long trench coat with ruffled shirt, matching skirt, and brown boots, intellectual, sharp, and sophisticated.",Winter,Home
+b170,"p914,p915,p916,p917,p918","Smart Urban: Olive green sleeveless set layered over plaid-sleeve top, with black bag and platform shoes, minimalist, chic, and design-focused.",Winter,Business
+b171,"p919,p920,p921,p922,p923","Vintage Preppy: Dark brown plush cardigan layered over light khaki shirt, with matching pleated maxi skirt, ankle boots, and brown bag, gentle, relaxed, and textured.",Winter,Social
+b172,"p924,p925,p926,p927","Smart Urban: Dark gray knit set with burgundy plush shawl, black skirt, and black shoes, color-blocked, elegant, and sophisticated.",Winter,Business
+b173,"p928,p929,p930,p931","Smart Urban: Black faux-shearling collar leather jacket with turtleneck, mixed-material skirt, and black boots, cool, warm, and stylish.",Winter,Home
+b174,"p932,p933,p934,p935,p936,p937","Smart Urban: Khaki faux-shearling jacket layered over brown hoodie and black skirt, with black boots, warm, casual, and laid-back.",Winter,Home
+b175,"p938,p939,p940,p941","Elevated Commuter: Dark brown long plush coat with off-white knit, light blue jeans, and brown boots, elevated, loungy, and stylish.",Autumn,School
+b176,"p942,p943,p944,p945,p946,p947","Smart Urban: Burgundy hooded plush cardigan with black leather skirt, black knee-high boots, and black bag, vintage, casual, and commanding.",Winter,School
+b177,"p948,p949,p950,p951","Minimalist Neutral: White cropped puffer jacket with black turtleneck, black leather wide-leg trousers, and off-white boots, minimalist, individualistic, and trendy.",Winter,Business
+b178,"p952,p953,p954,p955,p956","Elevated Commuter: Dark brown cropped jacket layered over white striped shirt, with black pleated skirt, black shoes, and black bag, sharp, casual, and layered.",Winter,Social
+b179,"p957,p958,p959","Smart Urban: Light khaki long trench coat with white maxi skirt and brown sandals, fresh, minimalist, and relaxed.",Autumn/Winter,Home
+b180,"p960,p961,p962,p963,p964,p965","Minimalist Neutral: Light gray plush coat layered over striped top, with matching maxi skirt, black boots, and brown bag, gentle, elevated, and textured.",Winter,Business
+b181,"p966,p967,p968,p969,p970,p971","Vintage Preppy: Black cropped puffer jacket layered over olive green top, with black wide-leg culottes, buckled shoes, and matching scarf, cool, minimalist, and layered.",Winter,Social
+b182,"p972,p973,p974,p975,p976,p977","Minimalist Neutral: Light blue utility jacket with black irregular skirt, black cropped trousers, and white shoes, relaxed, casual, and laid-back.",Autumn,Business
+b183,"p978,p979,p980,p981,p982,p983","Elevated Commuter: Black utility jacket layered over plaid skirt, with black cropped trousers, black slides, and black bag, cool, casual, and street-style.",Autumn/Winter,Home
+b184,"p984,p985,p986,p987,p988,p989","Elevated Commuter: Khaki utility jacket layered over denim shirt and white T-shirt, with off-white wide-leg trousers and black bag, minimalist, elevated, and professional.",Autumn/Winter,Home
+b185,"p990,p991,p992,p993,p994","Smart Urban: Off-white cropped jacket layered over plaid shirt and brown sweater, with matching maxi skirt and black boots, gentle, vintage, and textured.",Autumn/Winter,School
+b186,"p995,p996,p997,p998,p999","Elevated Commuter: Black cable-knit cardigan with black turtleneck, black wide-leg culottes, black boots, and knit hat, cool, loungy, and relaxed.",Winter,School
+b187,"p1000,p1001,p1002,p1003","Smart Urban: Black plush cropped jacket with black turtleneck, brown leather skirt, and black knee-high boots, elegant with a cool edge.",Winter,Business
+b188,"p1004,p1005,p1006,p1007","Elevated Commuter: Dark brown plush vest layered over off-white cable-knit sweater, with light blue jeans, brown knee-high boots, and brown bag, warm, vintage, and stylish.",Winter,Social
+b189,"p1008,p1009,p1010,p1011,p1012","Elevated Commuter: Light brown long plush coat with matching knit, light khaki wide-leg trousers, and matching shoes, elevated, gentle, and relaxed.",Winter,Home
+b190,"p1013,p1014,p1015,p1016","Elevated Commuter: Dark brown long coat with denim shirt, light blue jeans, and light gray shoes, vintage, minimalist, and sophisticated.",Winter,Business
+b191,"p1017,p1018,p1019,p1020","Minimalist Neutral: Light brown blazer layered over dark brown shirt, with light khaki wide-leg trousers and light gray shoes, minimalist, elevated, and commute-ready.",Autumn/Winter,Social
+b192,"p1021,p1022,p1023,p1024","Elevated Commuter: Off-white blazer and vest set, with light blue wide-leg jeans and white boots, sharp, relaxed, and textured.",Autumn/Winter,Business
+b193,"p1025,p1026,p1027,p1028,p1029","Smart Urban: Olive green plush baseball jacket with black turtleneck, black wide-leg culottes, black boots, and black bag, warm, cool, and street-style.",Winter,Home
+b194,"p1030,p1031,p1032,p1033","Sweet & Cool: Black puppy-pattern cardigan layered over white top, with black pleated skirt and black sock boots, playful, cute, and sweet-cool.",Autumn/Winter,Home
+b195,"p1034,p1035,p1036,p1037","Minimalist Neutral: Khaki long trench coat with off-white turtleneck, black wide-leg trousers, and brown shoes, elegant, professional, and daily commute-ready.",Autumn/Winter,School
+b196,"p1038,p1039,p1040,p1041","Elevated Commuter: Burgundy cropped puffer jacket with plaid-trimmed top, dark gray wide-leg trousers, and black shoes, lightweight, warm, minimalist, and relaxed.",Winter,Home
+b197,"p1042,p1043,p1044,p1045","Trendy Street Avant-Garde: White and red color-blocked cropped jacket with white tank top, black wide-leg trousers, and black shoes, color-blocked, sharp, and smart urban.",Winter,Business
+b198,"p1046,p1047,p1048,p1049,p1050","Minimalist Neutral: Light brown double-breasted knit cardigan layered over white shirt and black turtleneck, with black wide-leg trousers and brown shoes, vintage, gentle, and relaxed.",Winter,Business
+b199,"p1051,p1052,p1053,p1054","Trendy Street Avant-Garde: Black jacket layered over burgundy shirt, with black wide-leg trousers and reddish-brown shoes, cool, minimalist, and street-casual.",Winter,Social
+b200,"p1055,p1056,p1057,p1058","Elevated Commuter: Navy fur-collar puffer jacket with gray turtleneck, plaid wide-leg trousers, and black boots, warm, vintage, and autumn/winter daily-ready.",Winter,Home
+b201,"p1059,p1060,p1061,p1062","Elevated Commuter: White and red color-blocked cropped puffer jacket with burgundy top, dark gray wide-leg trousers, and brown boots, warm, color-blocked, and relaxed.",Winter,School
+b202,"p1063,p1064,p1065,p1066","Minimalist Neutral: Black pearl-collar knit sweater layered over gray turtleneck, with plaid wide-leg trousers, vintage, refined, and smart-textured.",Winter,Business
+b203,"p1067,p1068,p1069,p1070","Elevated Commuter: Pink cropped puffer jacket layered over matching turtleneck, with light blue wide-leg jeans and brown boots, gentle, fresh, and daily-ready.",Winter,Social
+b204,"p1071,p1072,p1073,p1074","Minimalist Neutral: Burgundy and white color-blocked long trench coat with white shirt, black wide-leg trousers, and black shoes, elegant, elevated, and semi-formal ready.",Autumn,Social
+b205,"p1075,p1076,p1077,p1078","Sweet & Cool: Black cartoon-pattern knit sweater with burgundy wide-leg trousers, playful, cute, and sweet-cool.",Winter,School
+b206,"p1079,p1080,p1081,p1082","Elevated Commuter: Red cropped jacket with brown shirt, black wide-leg trousers, and brown shoes, eye-catching, sharp, and urban commute-ready.",Winter,Home
+b207,"p1083,p1084,p1085,p1086","Minimalist Neutral: Black plush diamond-quilted set (jacket and trousers) with black plush shoes, warm, loungy, and home-casual.",Winter,Business
+b208,"p1087,p1088,p1089,p1090","Minimalist neutral style: houndstooth hooded jacket layered over burgundy turtleneck, paired with black wide-leg trousers and brown shoes, vintage casual for autumn/winter daily wear.",Winter,Social
+b209,"p1092,p1093,p1094","Sophisticated commute style: light blue collared cable-knit sweater paired with off-white wide-leg trousers and brown boots, gentle and relaxed with a minimalist texture.",Autumn/Winter,Home
+b210,"p1095,p1096,p1097,p1098,p1099","Trendy street avant-garde style: black glossy jacket layered over blue shirt, paired with black wide-leg trousers and black hat, cool and edgy for casual outings.",Winter,School
+b211,"p1100,p1101,p1102,p1103","Vintage collegiate style: striped hooded zip-up layered over brown button-up top, paired with light khaki wide-leg trousers and black shoes, casual vintage with a relaxed daily feel.",Autumn/Winter,Business
+b212,"p1104,p1105,p1106,p1107","Sophisticated commute style: light khaki cable-knit sweater paired with dark gray wide-leg trousers, minimalist and gentle for light commute occasions.",Autumn/Winter,Social
+b213,"p1108,p1109,p1110,p1111","Vintage collegiate style: off-white and burgundy color-block outdoor set (jacket + trousers), practical and sharp for casual outings.",Autumn/Winter,Social
+b214,"p1112,p1113,p1114,p1115","Minimalist neutral style: black faux-fur collar jacket layered over brown shirt, paired with black wide-leg jeans and brown shoes, cool, warm, and autumnal street style.",Winter,School
+b215,"p1116,p1117,p1118,p1119","Sophisticated commute style: olive green cropped trench coat layered over off-white shirt, paired with black wide-leg jeans, professional and relaxed for daily commuting.",Autumn/Winter,Home
+b216,"p1120,p1121,p1122,p1123","Minimalist neutral style: off-white down vest layered over matching long-sleeve top, paired with heathered wide-leg trousers and brown boots, warm and cozy for home leisure.",Winter,Business
+b217,"p1124,p1125,p1126,p1127","Sophisticated commute style: off-white faux-fur collar cropped down jacket layered over light pink top, paired with brown wide-leg trousers and black shoes, gentle and warm for daily street wear.",Winter,Social
+b218,"p1128,p1129,p1130,p1131","Minimalist neutral style: navy faux-fur collar jacket paired with off-white wide-leg trousers and striped shoes, minimalist and sophisticated with a casual texture.",Autumn/Winter,Home
+b219,"p1132,p1133,p1134,p1135,p1136","Trendy street avant-garde style: black faux-fur collar cropped down jacket layered over hoodie, paired with light blue wide-leg jeans and brown shoes, styled with a beret, cool vintage street look.",Winter,School
+b220,"p1137,p1138,p1139,p1140,p1141","Sweet-cool girl style: dark brown red-trimmed knit cardigan layered over white turtleneck, paired with plaid maxi skirt and black shoes, styled with doll charm, sweet and vintage for a youthful look.",Winter,Social
+b221,"p1142,p1143,p1144,p1145,p1146","Vintage collegiate style: patterned down vest layered over gray long-sleeve top, paired with off-white wide-leg trousers, styled with faux-fur earmuffs, warm and casual for winter relaxation.",Autumn,Social
+b222,"p1147,p1148,p1149,p1150,p1151","Trendy street avant-garde style: light blue faux-fur collar denim jacket layered over khaki top, paired with matching wide-leg jeans, styled with plaid bag, vintage and cool street style.",Autumn,School
+b223,"p1152,p1153,p1154,p1155,p1156","Sophisticated commute style: off-white cropped jacket layered over gray long-sleeve top, paired with navy wide-leg trousers, styled with color-block bag, minimalist and sharp for daily commuting.",Autumn/Winter,Home
+b224,"p1157,p1158,p1159,p1160","Sweet-cool girl style: light green knit cardigan layered over off-white top, paired with matching tiered skirt, styled with polka-dot socks and shoes, sweet and fresh for a youthful look.",Autumn,Social
+b225,"p1161,p1162,p1163,p1164","Vintage collegiate style: dark gray knit cardigan layered over red and white plaid shirt, paired with printed wide-leg trousers, sophisticated color-blocking for a mature look.",Autumn/Winter,Social
+b226,"p1165,p1166,p1167,p1168,p1169","Sophisticated commute style: dark gray half-zip sweatshirt layered over off-white turtleneck, paired with off-white wide-leg trousers, styled with headband, minimalist and relaxed for daily leisure.",Autumn/Winter,School
+b227,"p1170,p1171,p1172,p1173","Vintage collegiate style: light gray floral hooded sweatshirt layered over white tank top, paired with black velvet maxi skirt, styled with silver shoes, gentle and fresh for a sweet look.",Autumn/Winter,Home
+b228,"p1174,p1175,p1176,p1177","Mature urban style: khaki utility set (jacket + mini skirt) layered over white top, paired with cowboy boots, vintage and sharp for American casual style.",Autumn/Winter,Social
+b229,"p1178,p1179,p1180,p1181,p1182","Vintage collegiate style: dark gray hooded sweatshirt layered over blue striped shirt, paired with black pleated skirt, styled with black shoes, full of collegiate energy and youthful vitality.",Autumn/Winter,Social
+b230,"p1183,p1184,p1185,p1186,p1187","Vintage collegiate style: off-white and navy color-block jacket layered over off-white knit, paired with black velvet maxi skirt, styled with light blue bag, gentle and relaxed for daily street wear.",Autumn/Winter,School
+b231,"p1188,p1189,p1190,p1191","Vintage collegiate style: light blue ruffled shirt layered over off-white top, paired with dark gray maxi skirt and black shoes, fresh and gentle for a mature look.",Autumn,Home
+b232,"p1192,p1193,p1194,p1195","Vintage collegiate style: dark gray knit vest layered over blue striped shirt, paired with gray pleated skirt and black boots, full of collegiate energy for a youthful look.",Autumn/Winter,Social
+b233,"p1196,p1197,p1198,p1199","Denim casual style: navy denim set (jacket + skirt) layered over white top, paired with color-block socks and shoes, vintage and casual for daily relaxation.",Autumn/Winter,Social
+b234,"p1200,p1201,p1202,p1203","Sweet-cool girl style: light blue cable-knit hooded cardigan layered over off-white top, paired with pink plaid maxi skirt and silver shoes, sweet and fresh for a youthful look.",Autumn/Winter,School
+b235,"p1204,p1205,p1206,p1207,p1208","Vintage collegiate style: khaki faux-fur hooded jacket layered over plaid shirt, paired with brown velvet maxi skirt and black boots, warm and vintage for autumn/winter texture.",Autumn/Winter,Home
+b236,"p1209,p1210,p1211,p1212","Sweet-cool girl style: light blue color-block plaid jacket layered over gray knit, paired with white tulle skirt and blue shoes, fresh and relaxed for daily street wear.",Autumn,Social
+b237,"p1213,p1214,p1215,p1216,p1217","Sweet-cool girl style: light gray hooded sweatshirt layered over off-white top, paired with pink plaid maxi skirt and silver shoes, styled with knit hat, gentle and casual for a sweet look.",Autumn/Winter,Social
+b238,"p1218,p1219,p1220,p1221","Minimalist neutral style: navy polo sweatshirt layered over striped shirt, paired with matching shorts and sneakers, minimalist and sharp for street casual style.",Autumn,School
+b239,"p1222,p1223,p1224,p1225,p1226","Vintage collegiate style: light gray knit cardigan paired with black plaid skirt and brown shoes, styled with brown bag, gentle and vintage for a mature look.",Autumn/Winter,Social
+b240,"p1227,p1228,p1229,p1230,p1231","Vintage collegiate style: black-based printed sweater layered over blue plaid shirt, paired with navy mini skirt and black shoes, styled with red bag, sweet-cool and vintage for a youthful look.",Autumn/Winter,Home
+b241,"p1232,p1233,p1234,p1235,p1236","Vintage collegiate style: brown plaid suit set (jacket + pleated skirt) layered over white shirt, paired with black boots and brown bag, vintage and sophisticated for a collegiate look.",Autumn/Winter,Business
+b242,"p1237,p1238,p1239,p1240","Vintage collegiate style: brown plaid set (jacket + pleated skirt) layered over navy knit, paired with brown boots, vintage and casual for a youthful look.",Autumn/Winter,Social
+b243,"p1241,p1242,p1243,p1244","Mature urban style: off-white long coat layered over black lace turtleneck, paired with black rhinestone-embellished wide-leg trousers and black shoes, elegant and sophisticated for an urban look.",Autumn/Winter,Home
+b244,"p1245,p1246,p1247,p1248","Trendy street avant-garde style: light gray cropped sweatshirt layered over rainbow-printed white T-shirt, paired with navy wide-leg trousers and red shoes, individualistic and relaxed for street style.",Autumn/Winter,Business
+b245,"p1249,p1250,p1251,p1252","Minimalist neutral style: light gray sweatshirt set layered over plaid shirt, paired with brown shoes, minimalist and relaxed for a neutral look.",Autumn/Winter,Social
+b246,"p1253,p1254,p1255,p1256","Sweet-cool girl style: light gray hooded sweatshirt layered over pink T-shirt, paired with black leather skirt and black boots, sweet-cool mix for youthful energy.",Autumn/Winter,Social
+b247,"p1257,p1258,p1259,p1260","Sweet-cool girl style: army green faux-fur collar jacket layered over gray T-shirt, paired with black leather skirt and black boots, cool and casual for a street sweet-cool look.",Autumn/Winter,Business
+b248,"p1261,p1262,p1263,p1264,p1265","Sweet & Cool Style: White down jacket layered over a knit cardigan and plaid shirt, paired with a black mini skirt and black boots, warm and sweet-cool autumn/winter look.",Winter,School
+b249,"p1266,p1267,p1268,p1269,p1270","Sophisticated Commuter Style: Grey and black color-block jacket layered over a white shirt and black base layer, paired with black wide-leg culottes and black boots, sharp and professional for the office.",Autumn/Winter,Home
+b250,"p1271,p1272,p1273,p1274","Urban Chic Style: Light brown cropped jacket with an off-white shirt, paired with a black denim skirt and black boots, elegant and relaxed urban look.",Autumn/Winter,Social
+b251,"p1275,p1276,p1277","Sophisticated Commuter Style: Khaki trench coat with leather collar, paired with a black maxi skirt and black boots, professional and elegant for the workplace.",Autumn/Winter,Business
+b252,"p1278,p1279,p1280,p1281","Urban Chic Style: Off-white hooded down jacket layered over a white shirt, paired with navy corduroy wide-leg trousers, warm and relaxed urban texture.",Autumn/Winter,School
+b253,"p1283,p1284,p1285","Urban Chic Style: Off-white cropped down jacket layered over a brown shirt, paired with a brown leather skirt and black boots, refined and gentle autumn/winter look.",Autumn/Winter,Home
+b254,"p1286,p1287,p1288,p1289","Minimalist Neutral Style: Brown satin shirt layered over a white base, paired with black wide-leg trousers, simple and sharp neutral aesthetic.",Autumn/Winter,Social
+b255,"p1290,p1291,p1292,p1293","Minimalist Neutral Style: Grey cropped down jacket layered over a matching turtleneck, paired with grey wide-leg trousers, monochromatic and minimalist.",Winter,Business
+b256,"p1294,p1295,p1296,p1297","Sweet & Cool Style: Light blue cropped down jacket paired with a brown suede mini skirt and black boots, fresh and energetic sweet-cool look.",Autumn/Winter,School
+b257,"p1298,p1299,p1300,p1301,p1302","Sophisticated Commuter Style: Grey blazer layered over a polka-dot top, paired with grey culottes and black boots, refined and professional for the workplace.",Winter,Home
+b258,"p1303,p1304,p1305,p1306,p1307","Urban Chic Style: Grey wool coat layered over a brown satin skirt, paired with black boots, elegant and vintage urban look.",Winter,Business
+b259,"p1308,p1309,p1310,p1311","Sophisticated Commuter Style: Light grey wool coat with a striped shirt, paired with black wide-leg trousers, simple and polished for commuting.",Winter,Social
+b260,"p1312,p1313,p1314,p1315","Edgy Street Style: Brown leather shirt set layered over a lace top, paired with black boots, personalized and cool street aesthetic.",Autumn/Winter,Home
+b261,"p1316,p1317,p1318,p1319","Vintage Preppy Style: Burgundy jacquard hooded sweater layered over a plaid shirt, paired with a khaki pleated skirt and brown boots, vintage and sweet preppy look.",Autumn/Winter,School
+b262,"p1320,p1321,p1322,p1323,p1324","Urban Chic Style: Off-white down jacket layered over a blue shirt and black base, paired with navy flared trousers, sophisticated color-blocking with a relaxed urban feel.",Autumn/Winter,Business
+b263,"p1325,p1326,p1327,p1328,p1329","Casual Denim Style: Off-white down jacket with a black shirt, paired with navy wide-leg jeans and black boots, simple and comfortable for daily wear.",Autumn/Winter,Social
+b264,"p1330,p1331,p1332,p1333","Vintage Preppy Style: Plaid wool coat with a navy shirt, paired with a brown mini skirt and brown boots, vintage and gentle preppy texture.",Autumn/Winter,Home
+b265,"p1334,p1335,p1336,p1337","Urban Chic Style: Brown plaid shirt layered over a black base, paired with a white mini skirt and black heels, simple and refined urban look.",Autumn/Winter,Business
+b266,"p1338,p1339,p1340,p1341","Minimalist Neutral Style: Burgundy plaid shirt layered over a light grey base, paired with dark brown wide-leg trousers, simple and sharp neutral aesthetic.",Autumn/Winter,Social
+b267,"p1342,p1343,p1344,p1345","Sweet & Cool Style: Brown leather jacket layered over a blue shirt and knit vest, paired with a denim mini skirt and black boots, cool and casual street-style look.",Autumn/Winter,Social
+b268,"p1346,p1347,p1348","Urban Chic Style: Black fur-collar leather jacket with a brown maxi skirt, paired with brown boots, elegant and vintage urban look.",Winter,Business
+b269,"p1349,p1350,p1351,p1352","Sophisticated Commuter Style: Dark brown wool coat paired with navy wide-leg jeans and black shoes, simple and polished for the workplace.",Winter,School
+b270,"p1353,p1354,p1355,p1356","Edgy Street Style: Brown leather cropped jacket layered over a black camisole, paired with black wide-leg trousers and leopard-print shoes, personalized and cool street aesthetic.",Autumn/Winter,Home
+b271,"p1357,p1358,p1359,p1360,p1361,p1362,p1363","Minimalist Neutral Style: Black knit sweater layered over a base, paired with black wide-leg jeans and a brown bag, simple and sharp neutral aesthetic.",Autumn/Winter,Social
+b272,"p1364,p1365,p1366,p1367,p1368","Urban Chic Style: Off-white long trench coat with a striped T-shirt and black mini skirt, paired with grey shoes, relaxed and elegant daily urban look.",Autumn,Social
+b273,"p1369,p1370,p1371,p1372,p1373","Edgy Street Style: Black long trench coat with a striped T-shirt and black shorts, paired with brown shoes, casual and cool street style.",Autumn/Winter,Business
+b274,"p1374,p1375,p1376,p1377,p1378,p1379","Urban Chic Style: Brown fur-collar suede jacket with a brown knit top, paired with navy wide-leg jeans and a brown bag, vintage and refined urban look.",Winter,School
+b275,"p1380,p1381,p1382,p1383,p1384","Urban Chic Style: Brown fur-collar suede jacket with a black skirt, paired with plaid socks, black boots, and a brown bag, elegant and vintage urban texture.",Winter,Social
+b276,"p1385,p1386,p1387,p1388","Urban Chic Style: Off-white fur-collar jacket with toggle buttons, paired with a black polka-dot skirt and brown shoes, gentle and refined urban look.",Winter,Social
+b277,"p1390,p1391,p1392","Casual Denim Style: Brown fur-collar jacket with toggle buttons, paired with navy wide-leg jeans, vintage and relaxed daily look.",Autumn/Winter,Business
+b278,"p1393,p1394,p1395,p1396,p1397","Vintage Preppy Style: Argyle knit set (cardigan and mini skirt) with a yellow T-shirt, paired with red sandals and a knit hat, vintage and sweet preppy look.",Autumn,School
+b279,"p1398,p1399,p1400,p1401","Minimalist Neutral Style: Grey and black argyle knit cardigan paired with dark grey wide-leg trousers, simple and sharp neutral aesthetic.",Autumn/Winter,Social
+b280,"p1402,p1403,p1404,p1405,p1406","Urban Chic Style: Brown cable-knit cardigan layered over a yellow T-shirt and grey base, paired with dark grey wide-leg trousers, gentle and relaxed daily urban look.",Autumn/Winter,Social
+b281,"p1407,p1408,p1409,p1410,p1411","Casual Denim Style: Navy denim set (jacket and wide-leg trousers) with a white lace-up top, paired with a straw hat, vintage and relaxed daily casual look.",Autumn,School
+b282,"p1412,p1413,p1414,p1415,p1416,p1417","Urban Chic Style: Brown corduroy set (jacket and skirt) with a pink T-shirt, paired with a black bag and brown shoes, gentle and refined urban texture.",Autumn/Winter,Home
+b283,"p1418,p1419,p1420,p1421","Vintage Preppy Style: Black jacquard fur-collar cardigan with a white T-shirt, paired with a brown corduroy skirt and white shoes, vintage and sweet preppy look.",Winter,Social
+b284,"p1422,p1423,p1424,p1425,p1426","Sophisticated Commuter Style: Khaki trench coat layered over knitwear and a white base, paired with a black polka-dot skirt and grey sock boots, professional and elegant for the workplace.",Autumn/Winter,Social
+b285,"p1427,p1428,p1429,p1430","Casual Denim Style: Navy denim jacket with a striped T-shirt, paired with white wide-leg trousers and slides, simple and comfortable for daily wear.",Autumn,School
+b286,"p1431,p1432,p1433,p1434,p1435","Edgy Street Style: Black striped set (jacket and shorts) with a black turtleneck, paired with black shoes and a baseball cap, cool and casual street style.",Autumn,Social
+b287,"p1436,p1437,p1438,p1439,p1440","Edgy Street Style: Light grey hooded sweatshirt layered over a striped T-shirt, paired with denim shorts and brown shoes, casual and energetic street style.",Autumn,Social
+b288,"p1441,p1442,p1443,p1444","Urban Chic: Grey striped faux-fur collar cardigan with brown wide-leg trousers, minimalist and sophisticated.",Autumn/Winter,School
+b289,"p1145,p1146,p1147,p1148","Professional Commuter: Black hooded cardigan layered over a striped T-shirt, paired with a black skirt and white sneakers, clean and workplace-ready.",Autumn,Home
+b290,"p1449,p1450,p1451,p1452","Vintage Preppy: Grey V-neck jacquard sweater layered over a white shirt, paired with brown wide-leg trousers and white sneakers, vintage and casual.",Autumn/Winter,Social
+b291,"p1453,p1454,p1455,p1456","Minimalist Neutral: Brownish-tan jacquard vest layered over a pink and white top, paired with dark grey wide-leg trousers, minimalist and comfortable.",Autumn/Winter,Social
+b292,"p1457,p1458,p1459,p1460","Urban Chic: Black jacquard vest layered over a white top, paired with white wide-leg trousers, refined and relaxed for daily wear.",Autumn/Winter,School
+b293,"p1461,p1462,p1463,p1464","Urban Chic: Brown faux-fur collar parka layered over a grey suit, minimalist and warm.",Winter,Home
+b294,"p1465,p1466,p1467,p1468","Minimalist Neutral: Deep purple set (zip-up jacket and wide-leg trousers), monochromatic and sophisticated.",Autumn/Winter,Social
+b295,"p1469,p1470,p1471,p1472","Edgy Streetwear: Black hooded sweatshirt layered over a white graphic T-shirt, paired with denim Bermuda shorts and grey sneakers, cool and casual.",Autumn,Social
+b296,"p1473,p1474,p1475,p1476","Denim Casual: Distressed denim set (jacket and Bermuda shorts) over a white T-shirt, paired with black shoes, vintage and relaxed.",Autumn,School
+b297,"p1477,p1478,p1479,p1480,p1481,p1482","Edgy Streetwear: Grey hooded cardigan with a plaid skirt and black wide-leg trousers, eclectic and avant-garde.",Autumn/Winter,Home
+b298,"p1483,p1484,p1485,p1486","Professional Commuter: Dark blue striped jacket layered over a striped top, paired with a dark blue maxi skirt, polished and elegant.",Autumn/Winter,Social
+b299,"p1487,p1488,p1489,p1490","Denim Casual: Dark blue striped jacket layered over a striped top, paired with dark blue wide-leg jeans, minimalist and comfortable.",Autumn/Winter,Social
+b300,"p1491,p1492,p1493,p1494,p1495","Vintage Preppy: Plaid faux-fur collar jacket layered over a navy set, paired with black sock boots and a baseball cap, classic preppy style.",Autumn,School
+b301,"p1496,p1497,p1498,p1499,p1500","Urban Chic: Brown wool coat layered over a jacquard sweater, paired with leopard-print wide-leg trousers and a plaid scarf, vintage and sophisticated.",Autumn/Winter,School
+b302,"p1501,p1502,p1503,p1504,p1505,p1506","Sweet & Edgy: Brown leather jacket over a letter-print knit dress, paired with black boots, cool yet feminine.",Autumn/Winter,Social
+b303,"p1507,p1508,p1509,p1510","Edgy Streetwear: Brown suede vest layered over a white lace dress and denim wide-leg trousers, eclectic and avant-garde.",Autumn/Winter,Social
+b304,"p1511,p1512,p1513,p1514","Sweet & Edgy: Black leather jacket over a graphic T-shirt and white pleated skirt, a mix of sweet and cool elements.",Autumn,School
+b305,"p1515,p1516,p1517,p1518,p1519","Denim Casual: Grey graphic faux-two-piece top with light blue wide-leg jeans, minimalist and comfortable.",Autumn,Home
+b306,"p1520,p1521,p1522,p1523,p1524","Edgy Streetwear: Brown suede jacket over a graphic T-shirt and black leather skirt, rich in detail and personality.",Autumn/Winter,Social
+b307,"p1525,p1526,p1527,p1528,p1529","Vintage Preppy: Jacquard knit vest layered over a plaid shirt and black leather shorts, quintessential preppy style.",Autumn/Winter,School
+b308,"p1530,p1531,p1532,p1533","Urban Chic: Brown shearling coat with matching wide-leg trousers, warm and premium.",Winter,Business
+b309,"p1534,p1535,p1536,p1537,p1538","Sweet & Edgy: Pink satin jacket over a graphic T-shirt and white pleated skirt, paired with black boots, a mix of sweet and cool elements.",Autumn/Winter,Social
+b310,"p1539,p1540,p1541,p1542","Vintage Preppy: Jacquard knit vest layered over a light blue shirt and dark blue wide-leg trousers, vintage and playful.",Autumn,School
+b311,"p1543,p1544,p1545,p1546","Edgy Streetwear: Black graphic sweatshirt layered over a striped shirt, paired with black cargo pants, cool and eclectic.",Autumn/Winter,Home
+b312,"p1547,p1548,p1549,p1550,p1551","Vintage Preppy: Grey letter-print sweatshirt layered over a blue shirt, paired with a black pleated skirt and long socks, classic preppy style.",Autumn/Winter,School
+b313,"p1552,p1553,p1554,p1555","Sweet & Edgy: Khaki utility jacket layered over a yellow T-shirt and white lace skirt, a mix of sweet and cool elements.",Autumn/Winter,Social
+b314,"p1556,p1557,p1558,p1559","Urban Chic: Off-white faux-fur coat with a brown pleated skirt and snow boots, gentle and warm.",Winter,Social
+b315,"p1560,p1561,p1562,p1563,p1564,p1565","Sweet & Edgy: Grey faux-fur vest layered over a white top, paired with a grey pleated skirt and high boots, sweet and casual.",Winter,Business
+b316,"p1566,p1567,p1568,p1569,p1570,p1571,p1572","Vintage Preppy: Grey knit cardigan layered over a white turtleneck, paired with a grey pleated skirt and black bag, vintage and daily-ready.",Winter,School
+b317,"p1573,p1574,p1575,p1576,p1577","Professional Commuter: Grey toggle coat layered over a knit top, paired with black boots and a black bag, polished and workplace-ready.",Winter,Social
+b318,"p1578,p1579,p1580,p1581","Vintage Preppy: Grey jacquard vest layered over a white top, paired with a grey pleated skirt, vintage and gentle.",Autumn/Winter,Home
+b319,"p1582,p1583,p1584,p1585","Sweet & Edgy: Grey jacquard sweater layered over a white top, paired with a brown mini skirt and long socks, sweet and casual.",Autumn/Winter,School
+b320,"p1586,p1587,p1588,p1589","Vintage Preppy: Black knit cardigan layered over a white lace skirt, sweet and vintage.",Autumn,Home
+b321,"p1590,p1591,p1592,p1593","Sweet & Edgy: Black jacket with a black mini skirt and high boots, minimalist and cool.",Autumn/Winter,School
+b322,"p1594,p1595,p1596,p1597,p1598","Urban Chic: Black faux-fur vest with a white maxi skirt, gentle and sophisticated.",Autumn,Home
+b323,"p1599,p1600,p1601","Sweet & Edgy: Off-white faux-fur coat with a white skirt and high boots, sweet and feminine.",Winter,Social
+b324,"p1602,p1603,p1604,p1605","Professional Commuter: Light grey long coat with a black skirt and black sock boots, polished and workplace-ready.",Autumn/Winter,Business
+b325,"p1606,p1607,p1608,p1609,p1610","Denim Casual: Light blue denim jacket with a black mini skirt, minimalist and comfortable.",Autumn,School
+b326,"p1611,p1612,p1613,p1614","Edgy Streetwear: Brown jacket layered over a yellow skirt, eclectic and avant-garde.",Autumn/Winter,Social
+b327,"p1615,p1616,p1617,p1618","Sweet & Edgy: Black jacket over a white skirt, a mix of cool and sweet elements.",Autumn/Winter,Home
+b328,"p1619,p1620,p1621,p1622","Vintage Preppy: Grey jacket with grey mini skirt and long socks, full vintage preppy aesthetic.",Autumn/Winter,Business
+b329,"p1623,p1624,p1625,p1626,p1627","Sophisticated Urban: Brown set (jacket and skirt) with black bag, minimalist and elevated urban style.",Autumn/Winter,Business
+b330,"p1628,p1629,p1630,p1631","Professional Commuter: Grey coat layered with grey skirt, polished and professional for the workplace.",Winter,Social
+b331,"p1632,p1633,p1634,p1635,p1636","Edgy Streetwear: Black jacket with black maxi skirt, dark aesthetic with street personality.",Autumn/Winter,School
+b332,"p1637,p1638,p1639,p1640,p1641","Vintage Preppy: Grey blazer layered over white shirt and grey skirt, vintage preppy style for daily wear.",Autumn/Winter,Home
+b333,"p1642,p1643,p1644","Vintage Preppy: Brown vest layered over white shirt and brown skirt, vintage and gentle preppy style.",Autumn/Winter,Social
+b334,"p1645,p1646,p1647,p1648","Sweet & Edgy: Grey knit top with grey skirt and over-the-knee boots, sweet and edgy casual style.",Autumn/Winter,School
+b335,"p1649,p1650,p1651,p1652","Vintage Preppy: Brown vest layered over white shirt and brown skirt, vintage elements with preppy texture.",Autumn/Winter,Business
+b336,"p1653,p1654,p1655,p1656","Sweet & Edgy: Black jacket with black mini skirt and long socks, cool and sweet edgy style.",Autumn,Home
+b337,"p1657,p1658,p1659,p1660,p1661","Sophisticated Urban: Black vest with black skirt and tall boots, minimalist and refined urban style.",Autumn,School
+b338,"p1662,p1663,p1664,p1665,p1666","Sophisticated Urban: Brown jacket with off-white trousers, gentle and elevated daily urban style.",Autumn/Winter,Social
+b339,"p1667,p1668,p1669,p1670,p1671","Sophisticated Urban: Grey sweater with off-white trousers and plaid scarf, warm and relaxed urban style.",Autumn/Winter,Business
+b340,"p1672,p1673,p1674,p1675,p1676","Minimalist Neutral: Grey sweater with black trousers and white bag, minimalist and comfortable neutral style.",Autumn/Winter,Social
+b341,"p1677,p1678,p1679,p1680","Minimalist Neutral: Brown set (top and trousers) with white shoes, minimalist and sharp neutral style.",Autumn/Winter,Business
+b342,"p1681,p1682,p1683,p1684,p1685","Edgy Streetwear: Burgundy top with brown skirt and long socks, eclectic and personalized street style.",Autumn/Winter,Social
+b343,"p1686,p1687,p1688,p1689,p1690","Minimalist Neutral: Grey set (blazer and trousers) with black bag, minimalist and polished neutral style.",Autumn/Winter,Home
+b344,"p1691,p1692,p1693,p1694","Sophisticated Urban: Red sweater with brown skirt, gentle and refined urban style.",Autumn/Winter,Business
+b345,"p1695,p1696,p1697,p1698,p1699","Professional Commuter: Brown coat with white skirt, polished and elegant for the workplace.",Autumn/Winter,Business
+b346,"p1700,p1701,p1702,p1703,p1704","Sophisticated Urban: Light brown shirt with brown skirt, gentle and elevated daily urban style.",Autumn/Winter,Social
+b347,"p1705,p1706,p1707,p1708,p1709","Minimalist Neutral: Black set (vest and trousers) with white inner layer, minimalist and sharp neutral style.",Autumn/Winter,School
+b348,"p1710,p1711,p1712,p1713,p1714","Edgy Streetwear: Black camisole with black skirt, dark aesthetic with street personality.",Autumn/Winter,Home
+b349,"p1715,p1716,p1717","Minimalist Neutral: Black set (vest and trousers) with green inner layer, minimalist and polished neutral style.",Autumn/Winter,Social
+b350,"p1718,p1719,p1720,p1721,p1722","Sophisticated Urban: Black blazer with black skirt, polished and elegant for the workplace.",Autumn/Winter,Business
+b351,"p1723,p1724,p1725,p1726","Sophisticated Urban: Brown blazer with brown skirt and long socks, gentle and elevated urban style.",Autumn/Winter,Social
+b352,"p1727,p1728,p1729,p1730,p1731","Edgy Streetwear: Black jacket with black skirt and tall boots, cool and personalized street style.",Autumn/Winter,School
+b353,"p1732,p1733,p1734,p1735","Vintage Preppy: Black jacket with plaid trousers, vintage elements with preppy texture.",Autumn/Winter,School
+b354,"p1736,p1737,p1738,p1739,p1740,p1741","Denim Casual: Blue jacket with blue jeans, minimalist and comfortable daily casual style.",Autumn,Social
+b355,"p1742,p1743,p1744,p1745,p1746","Edgy Streetwear: Brown jacket with plaid skirt, eclectic and personalized street style.",Winter,Business
+b356,"p1747,p1748,p1749,p1750","Edgy Streetwear: Brown jacket with plaid skirt, vintage-inspired eclectic street style.",Autumn/Winter,Social
+b357,"p1751,p1752,p1753,p1754,p1755","Sweet & Edgy: Light blue jacket with black skirt and tall boots, sweet and edgy casual style.",Autumn,School
+b358,"p1756,p1757,p1758,p1759,p1760","Edgy Streetwear: Khaki jacket layered over white skirt, eclectic and personalized street style.",Autumn,Home
+b359,"p1761,p1762,p1763,p1764","Sweet & Edgy: Black jacket with grey mini skirt, cool and sweet edgy mix.",Autumn/Winter,Business
+b360,"p1765,p1766,p1767,p1768","Edgy Streetwear: Black jacket with black skirt and tall boots, dark aesthetic with street personality.",Autumn/Winter,Social
+b361,"p1769,p1770,p1771,p1772","Sweet & Edgy: White jacket with grey mini skirt and long socks, sweet and edgy casual style.",Autumn,Social
+b362,"p1773,p1774,p1775,p1776,p1777,p1778","Sophisticated Urban: Pink jacket with black trousers, gentle and elevated urban style.",Winter,Home
+b363,"p1779,p1780,p1781","Sophisticated Urban: Pink plaid skirt with black inner layer and tall boots, gentle and refined urban style.",Autumn/Winter,Business
+b364,"p1782,p1783,p1784,p1785,p1786","Minimalist Neutral: Light grey set (top and trousers) with black bag, minimalist and sharp neutral style.",Autumn/Winter,Business
+b365,"p1787,p1788,p1789,p1790,p1791","Sophisticated Urban: Black sweater with white skirt and black bag, gentle and refined urban style.",Autumn/Winter,Social
+b366,"p1792,p1793,p1794,p1795,p1796","Professional Commuter: Brown blazer with brown trousers, polished and professional for the workplace.",Winter,School
+b367,"p1797,p1798,p1799,p1800","Sophisticated Urban: Red sweater with black trousers, minimalist and elevated daily urban style.",Autumn/Winter,Home
+b368,"p1804,p1805,p1806,p1807","Minimalist neutral style: black set (top and skirt) with black boots, simple and sharp with a neutral aesthetic.",Autumn/Winter,Social
+b369,"p1805,p1806,p1807,p1808,p1809","Sophisticated urban style: brown jacket with patterned skirt and knee-high boots, gentle and refined with a mature aesthetic.",Autumn/Winter,Business
+b370,"p1810,p1811,p1812,p1813,p1814,p1815","Professional commute style: navy coat with brown inner layer and black trousers, polished and sophisticated for the workplace.",Autumn/Winter,School
+b371,"p1816,p1817,p1818,p1819,p1820","Minimalist neutral style: black sweater with white trousers, simple and comfortable with a neutral aesthetic.",Autumn/Winter,Social
+b372,"p1821,p1822,p1823,p1824,p1825","Edgy street style: plaid jacket with striped skirt, eclectic and individualistic with a street aesthetic.",Autumn,Social
+b373,"p1826,p1827,p1828,p1829,p1830","Sophisticated urban style: off-white set (top and skirt) with brown bag, gentle and premium with an urban aesthetic.",Autumn,Home
+b374,"p1831,p1832,p1833","Sweet-cool girl style: grey jacket with white skirt and long socks, sweet, cool, and casual with a youthful aesthetic.",Autumn/Winter,Home
+b375,"p1834,p1835,p1836,p1837","Professional commute style: grey long coat with off-white trousers, polished and sophisticated for the workplace.",Autumn/Winter,Business
+b376,"p1838,p1839,p1840,p1841","Minimalist neutral style: light blue set (top and trousers), simple and comfortable with a neutral aesthetic.",Autumn/Winter,Business
+b377,"p1842,p1843,p1844,p1845","Sophisticated urban style: off-white jacket with brown skirt and long socks, gentle and warm with a mature aesthetic.",Autumn/Winter,Social
+b378,"p1846,p1847,p1848,p1849","Sophisticated urban style: black jacket with grey skirt and knee-high boots, polished and elegant for daily urban wear.",Autumn/Winter,School
+b379,"p1850,p1851,p1852,p1853","Denim casual style: plaid sweater with blue jeans, simple and comfortable for daily wear.",Autumn,Home
+b380,"p1854,p1855,p1856,p1857","Denim casual style: off-white sweater with blue jeans, simple and comfortable for daily wear.",Autumn,Social
+b381,"p1858,p1859,p1860,p1861","Sophisticated urban style: off-white set (top and skirt), gentle and premium with a mature urban aesthetic.",Autumn,Business
+b382,"p1862,p1863,p1864,p1865","Professional commute style: black blazer with black skirt, polished and sophisticated for the workplace.",Autumn/Winter,School
+b383,"p1866,p1867,p1868,p1869","Edgy street style: white jacket with black trousers, individualistic and eclectic with a street aesthetic.",Autumn/Winter,Social
+b384,"p1870,p1871,p1872,p1873","Sophisticated urban style: purple vest with brown skirt, gentle and refined with a mature urban aesthetic.",Autumn,Social
+b385,"p1874,p1875,p1876,p1877,p1878","Edgy street style: color-block jacket with black trousers, individualistic and eclectic with a street aesthetic.",Autumn/Winter,Home
+b386,"p1879,p1880,p1881,p1882","Sweet-cool girl style: navy jacket with black skirt and long socks, sweet, cool, and casual with a youthful aesthetic.",Autumn/Winter,Home
+b387,"p1883,p1884,p1885,p1886","Minimalist neutral style: striped sweater with brown trousers, simple and comfortable with a neutral aesthetic.",Autumn/Winter,Business
+b388,"p1887,p1888,p1889,p1890","Sophisticated urban style: khaki utility jacket with grey trousers, relaxed and elegant for daily urban wear.",Winter,Business
+b389,"p1891,p1892,p1893,p1894","Edgy street style: white jacket with blue skirt, individualistic and eclectic with a street aesthetic.",Autumn,Social
+b390,"p1895,p1896,p1897,p1898","Denim casual style: black camisole with color-block jeans, simple and comfortable for daily wear.",Autumn,School
+b391,"p1899,p1900,p1901,p1902,p1903,p1904","Sophisticated urban style: green utility jacket with brown skirt, relaxed and elegant with an urban aesthetic.",Autumn/Winter,School
+b392,"p1905,p1906,p1907,p1908,p1909","Minimalist neutral style: green vest with green trousers, simple and sharp with a neutral aesthetic.",Autumn,Home
+b393,"p1910,p1911,p1912,p1913,p1914,p1915","Sweet-cool girl style: red camisole with white trousers, sweet elements with a youthful aesthetic.",Autumn,Home
+b394,"p1916,p1917,p1918,p1919","Edgy street style: brown jacket with striped skirt, individualistic and eclectic with a street aesthetic.",Winter,Business
+b395,"p1920,p1921,p1922,p1923","Sweet-cool girl style: pink set (top and trousers), sweet elements with a youthful aesthetic.",Autumn,Home
+b396,"p1924,p1925,p1926,p1927,p1928","Sweet-cool girl style: black vest with black skirt, cool and edgy with a youthful aesthetic.",Autumn,School
+b397,"p1929,p1930,p1931,p1932","Edgy street style: brown jacket with plaid skirt, individualistic and eclectic with a street aesthetic.",Winter,Social
+b398,"p1933,p1934,p1935,p1936","Sweet-cool girl style: black jacket with black skirt and knee-high boots, cool and edgy with a youthful aesthetic.",Autumn/Winter,Social
+b399,"p1937,p1938,p1939,p1940","Vintage collegiate style: red vest with blue shirt and black skirt, full vintage collegiate aesthetic.",Autumn/Winter,School
+b400,"p1941,p1942,p1943,p1944","Sophisticated urban style: brown fleece vest with white trousers, gentle and warm with a mature aesthetic.",Winter,Business
+b401,"p1945,p1946,p1947,p1948,p1949","Vintage collegiate style: cropped casual jacket layered over inner top, paired with pleated skirt and vintage handbag.",Winter,Social
+b402,"p1950,p1951,p1952,p1953,p1954","Denim casual style: denim jacket layered over basic inner top, paired with loose wide-leg jeans.",Autumn/Winter,School
+b403,"p1955,p1956,p1957,p1958,p1959","Sophisticated urban style: light-colored long top paired with high-waisted straight-leg trousers, accented with a simple shoulder bag.",Autumn/Winter,Business
+b404,"p1960,p1961,p1962,p1963,p1964","Professional commute style: long coat layered over cinched inner top, paired with wide-leg dress trousers, minimalist commute style.",Winter,School
+b405,"p1965,p1966,p1967,p1968,p1969","Sweet-cool girl style: cropped top with high-waisted mini skirt, paired with knee-high boots and dark-style accessories.",Autumn/Winter,School
+b406,"p1970,p1971,p1972,p1973,p1974,p1975","Sweet-cool girl style: cropped jacket paired with long bottoms, layered over slim-fit inner top, paired with knee-high boots and statement bag.",Winter,Social
+b407,"p1976,p1977,p1978,p1979","Sweet-cool girl style: cropped midriff-baring inner top paired with high-waisted shorts, layered under loose jacket, paired with knee-high boots.",Autumn/Winter,Social
+b408,"p1980,p1981,p1982,p1983","Denim casual style: denim set, paired with minimalist shoes",Autumn,Home
+b409,"p1984,p1985,p1986,p1987","Vintage preppy style: cropped jacket with high-waisted bermuda shorts, layered with basic top, styled with vintage shoulder bag",Autumn/Winter,School
+b410,"p1988,p1989,p1990,p1991","Sweet-cool girl style: cropped top with high-waisted mini skirt, layered with oversized jacket, styled with knee-high boots and vintage bag",Winter,Social
+b411,"p1992,p1993,p1994,p1995","Minimalist neutral style: oversized blazer with wide-leg trousers, basic top, no extra embellishments",Winter,Home
+b412,"p1996,p1997,p1998,p1999,p2000","Vintage preppy style: cropped jacket with high-waisted mini skirt, layered with top, styled with vintage shoulder bag and knee-high boots",Autumn/Winter,School
+b413,"p2001,p2002,p2003,p2004","Denim casual style: denim jacket with loose wide-leg jeans, basic top with casual shoes",Autumn/Winter,School
+b414,"p2005,p2006,p2007,p2008","Sweet-cool girl style: cropped top with high-waisted midi skirt, layered with oversized jacket, styled with knee-high boots",Autumn/Winter,Business
+b415,"p2009,p2010,p2011,p2012","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, minimalist commute style",Autumn/Winter,Social
+b416,"p2013,p2014,p2015,p2016","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, simple and uniform color palette",Autumn/Winter,Business
+b417,"p2017,p2018,p2019,p2020,p2021","Edgy streetwear style: oversized jacket with wide-leg trousers, layered with statement top, styled with oversized bag",Winter,Business
+b418,"p2022,p2023,p2024,p2025","Vintage preppy style: cropped jacket with high-waisted mini skirt, layered with top, styled with vintage shoulder bag",Winter,Social
+b419,"p2026,p2027,p2028,p2029,p2030","Sweet-cool girl style: cropped jacket with high-waisted bermuda shorts, layered with top, styled with knee-high boots and statement accessories",Winter,School
+b420,"p2031,p2032,p2033","Sweet-cool girl style: cropped top with high-waisted bottoms, layered with oversized jacket, styled with knee-high boots and minimalist bag",Autumn/Winter,Social
+b421,"p2034,p2035,p2036","Edgy streetwear style: oversized jacket with slim-fit bottoms, layered with statement top, high-contrast color palette",Winter,Social
+b422,"p2037,p2038,p2039","Sweet-cool girl style: cropped top with high-waisted mini skirt, layered with oversized jacket, styled with knee-high boots",Winter,Home
+b423,"p2040,p2041,p2042","Minimalist neutral style: slim-fit blazer with wide-leg trousers, basic top, minimalist commute style",Autumn/Winter,School
+b424,"p2043,p2044,p2045,p2046,p2047,p2048","Vintage preppy style: cropped jacket with high-waisted bottoms, layered with top, styled with vintage shoulder bag",Autumn/Winter,Business
+b425,"p2049,p2050,p2051,p2052,p2053,p2054","Elevated commute style: cropped blazer with high-waisted bottoms, layered with slim-fit top, minimalist commute style",Autumn/Winter,Home
+b426,"p2055,p2056,p2057,p2058","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, low-saturation uniform color palette",Winter,Social
+b427,"p2059,p2060,p2061,p2062","Sweet-cool girl style: cropped top with high-waisted bottoms, layered with oversized jacket, styled with knee-high boots and statement bag",Winter,Social
+b428,"p2063,p2064,p2065,p2066","Vintage preppy style: cropped jacket with high-waisted bottoms, layered with top, styled with vintage shoulder bag and knee-high boots",Autumn/Winter,School
+b429,"p2067,p2068，p2069,p2070","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, minimalist style without embellishments",Autumn/Winter,School
+b430,"p2071,p2072，p2073,p2074,p2075","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, minimalist shoulder bag",Autumn/Winter,Social
+b431,"p2076,p2077,p2078","Elevated commute style: long dress with slim-fit top, layered with minimalist jacket, elegant commute style",Autumn/Winter,Business
+b432,"p2079,p2080,p2081","Sweet-cool girl style: cropped top with high-waisted bottoms, layered with oversized jacket, styled with knee-high boots",Autumn/Winter,Home
+b433,"p2082,p2083","Elevated commute style: long dress with minimalist jacket, elegant commute style",Autumn/Winter,School
+b434,"p2084,p2085,p2086,","Elevated commute style: long coat with slim-fit top, paired with wide-leg trousers, minimalist commute style",Autumn/Winter,Business
+b435,"p2087,p2088,p2089","Elevated commute style: long coat with slim-fit top, paired with straight-leg trousers, minimalist commute style",Autumn/Winter,Business
+b436,"p2090,p2091,p2092,p2093","Elevated commute style: slim-fit blazer with wide-leg trousers, basic top, minimalist commute style",Autumn/Winter,Social
+b437,"p2094,p2095,p2096,p2097","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Autumn,School
+b438,"p2098,p2099,p2100,p2101","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, simple and uniform color palette",Autumn/Winter,Home
+b439,"p2102,p2103,p2104,p2105","Sweet-cool girl style: cropped top with high-waisted bottoms, layered with oversized jacket, styled with knee-high boots and statement accessories",Autumn/Winter,Social
+b440,"p2106,p2107,p2108,p2109","Elevated commute style: cropped jacket with high-waisted bottoms, layered with slim-fit top, minimalist commute style",Autumn/Winter,Business
+b441,"p2110,p2111,p2112","Elevated commute style: long coat with slim-fit top, paired with straight-leg trousers, minimalist commute style",Autumn/Winter,School
+b442,"p2113,p2114,p2115,p2116,p2117","Vintage preppy style: cropped jacket with high-waisted bottoms, layered with top, styled with vintage shoulder bag and knee-high boots",Winter,Home
+b443,"p2118,p2119,p2120,p2121","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, minimalist accessories",Winter,Social
+b444,"p2122,p2123,p2124,p2125","Denim casual style: loose wide-leg jeans with basic top, layered with minimalist jacket",Winter,Home
+b445,"p2126,p2127,p2128,p2129","Denim casual style: loose wide-leg jeans with basic top, layered with minimalist jacket",Winter,School
+b446,"p2130,p2131,p2132,p2133","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, styled with oversized bag",Winter,Business
+b447,"p2134,p2135,p2136,p2137","Edgy streetwear style: oversized jacket with wide-leg trousers, layered with statement top, low-saturation contrast color palette",Winter,School
+b448,"p2138,p2139,p2140,p2141","Vintage preppy style: cropped jacket with high-waisted bottoms, layered with top, styled with vintage shoulder bag and knee-high boots",Winter,School
+b449,"p2142,p2143,p2144,p2145","Vintage preppy style: oversized jacket with wide-leg trousers, layered with top, styled with vintage shoulder bag",Winter,Social
+b450,"p2146,p2147,p2148,p2149","Vintage preppy style: slim-fit jacket with straight-leg trousers, layered with top, low-saturation vintage color palette",Autumn/Winter,Business
+b451,"p2150,p2151,p2152,p2153,p2154","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,School
+b452,"p2155,p2156,p2157,p2158,p2159,p2160,p2161,p2162","Vintage collegiate style: loose jacket with straight-leg trousers, layered with top and vintage shoulder bag",Autumn/Winter,Home
+b453,"p2163,p2164,p2165,p2166,p2167,p2168,p2169,p2170","Vintage preppy style: cropped jacket with high-waisted bottoms, layered with top, styled with vintage shoulder bag and knee-high boots",Autumn/Winter,Social
+b454,"p2171,p2172,p2173,p2174,p2175,p2176,p2177","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, minimalist accessories",Autumn/Winter,Home
+b455,"p2178,p2179,p2180,p2181,p2182","Vintage collegiate style: loose jacket with straight-leg trousers, layered with top and vintage shoulder bag",Autumn/Winter,Business
+b456,"p2183,p2184,p2185,p2186,p2187,p2188","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,Business
+b457,"p2189,p2190,p2191,p2192","Elevated commute style: long coat with slim-fit top, paired with straight-leg trousers, minimalist commute style",Autumn/Winter,Social
+b458,"p2193,p2194,p2195,p2196,p2197","Smart urban style: loose jacket with straight-leg trousers, layered with top and minimalist shoulder bag",Winter,Social
+b459,"p2198,p2199,p2200,p2201,p2202,p2203","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, simple and uniform color palette",Autumn/Winter,School
+b460,"p2204,p2205,p2206,p2207,p2208","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,Home
+b461,"p2209,p2210,p2211,p2212","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, low-saturation uniform color palette",Autumn/Winter,Social
+b462,"p2213,p2214,p2215,p2216,p2217,p2218","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, minimalist style without embellishments",Autumn/Winter,Business
+b463,"p2219,p2220,p2221,p2222,p2223","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Winter,Business
+b464,"p2224,p2225,p2226,p2227,p2228,p2229","Edgy streetwear style: oversize jacket with wide-leg trousers, layered with statement top, high-contrast color palette",Winter,School
+b465,"p2230,p2231,p2232,p2233,p2234","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,Social
+b466,"p2235,p2236,p2237,p2238,p2239,p2240","Elevated commute style: long coat with slim-fit top, paired with straight-leg trousers, minimalist commute style",Autumn/Winter,Social
+b467,"p2241,p2242,p2243,p2244","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, simple and uniform color palette",Autumn/Winter,Business
+b468,"p2245,p2246,p2247,p2248,p2249,p2250,p2251","Smart urban style: loose jacket with straight-leg trousers, layered with top and minimalist shoulder bag",Autumn/Winter,Business
+b469,"p2252,p2253,p2254,p2255,p2256,p2257","Smart urban style: long coat with slim-fit top, paired with straight-leg trousers and minimalist accessories",Autumn/Winter,Social
+b470,"p2258,p2259,p2260,p2261,p2262,p2263,p2264","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Autumn/Winter,Home
+b471,"p2265,p2266,p2267,p2268,p2269","Smart urban style: loose jacket with straight-leg trousers, layered with top and minimalist shoulder bag",Winter,Social
+b472,"p2270,p2271,p2272,p2273","Smart urban style: cropped jacket with high-waisted bottoms, layered with top and minimalist accessories",Autumn/Winter,School
+b473,"p2274,p2275,p2276,p2277","Smart urban style: long coat with slim-fit top, paired with straight-leg trousers, minimalist commute style",Autumn/Winter,Home
+b474,"p2278,p2279,p2280,p2281,p2282,p2283","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Winter,Home
+b475,"p2284,p2285,p2286,p2287,p2288,p2289","Vintage collegiate style: cropped jacket with straight-leg trousers, layered with top, vintage shoulder bag and casual shoes",Autumn/Winter,School
+b476,"p2290,p2291,p2292,p2293,p2294","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, low-saturation uniform color palette",Winter,Social
+b477,"p2295,p2296,p2297,p2298,p2299","Vintage collegiate style: cropped jacket with high-waisted bottoms, layered with top, vintage shoulder bag and casual shoes",Autumn/Winter,School
+b478,"p2300,p2301,p2302,p2303","Vintage collegiate style: loose vest with straight-leg trousers, layered with basic top and vintage accessories",Autumn/Winter,Social
+b479,"p2304,p2305,p2306,p2307,p2308","Vintage collegiate style: loose vest with high-waisted bottoms, layered with basic top, vintage socks and casual shoes",Autumn/Winter,Social
+b480,"p2309,p2310,p2311,p2312,p2313","Edgy streetwear style: oversize down jacket with straight-leg trousers, layered with basic top, minimalist contrast color palette",Autumn/Winter,Business
+b481,"p2314,p2315,p2316,p2317,p2318","Sophisticated commute style: long coat with slim-fit top, paired with high-waisted bottoms and vintage handbag",Autumn/Winter,Home
+b482,"p2319,p2320,p2321,p2322,p2323","Sophisticated commute style: loose jacket with high-waisted bottoms, layered with basic top and minimalist bag",Autumn/Winter,Business
+b483,"p2324,p2325,p2326","Minimalist neutral style: oversized jacket with straight-leg trousers, basic top, simple and uniform color palette",Autumn/Winter,Social
+b484,"p2327,p2328,p2329","Sweet-cool girl style: cropped jacket with high-waisted bottoms, layered with top, paired with knee-high boots and minimalist bag",Autumn/Winter,Social
+b485,"p2330,p2331,p2332,p2333,p2334","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Autumn/Winter,Business
+b486,"p2335,p2336,p2337,p2338,p2339,p2340","Sweet-cool girl style: cropped top with high-waisted bottoms, layered with oversized jacket, styled with knee-high boots and statement accessories",Autumn/Winter,Business
+b487,"p2341,p2342,p2343,p2344","Vintage collegiate style: cropped jacket with high-waisted bottoms, layered with top, vintage shoulder bag and casual shoes",Autumn/Winter,Social
+b488,"p2345,p2346,p2347,p2348,p2349,p2350","Minimalist neutral style: loose vest with straight-leg trousers, basic top, minimalist monochromatic color palette",Winter,Home
+b489,"p2351,p2352,p2353,p2354,p2355,p2356","Vintage collegiate style: loose jacket with high-waisted bottoms, layered with top, vintage socks and casual shoes",Autumn/Winter,Social
+b490,"p2357,p2358,p2359,p2360,p2361","Vintage collegiate style: cropped jacket with straight-leg trousers, layered with top, vintage shoulder bag and casual shoes",Winter,Business
+b491,"p2362,p2363,p2364,p2365","Edgy streetwear style: oversize hoodie with wide-leg trousers, layered with basic top and statement shoes",Autumn/Winter,School
+b492,"p2366,p2367,p2368,p2369,p2370","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Autumn/Winter,Home
+b493,"p2371,p2372,p2373,p2374,p2375,p2376","Sophisticated commute style: long coat with slim-fit top, paired with high-waisted bottoms and vintage handbag",Autumn/Winter,Social
+b494,"p2377,p2378,p2379,p2380,p2381","Sophisticated commute style: loose blazer with straight-leg trousers, layered with basic top and vintage handbag",Autumn/Winter,Business
+b495,"p2382,p2383,p2384,p2385,p2386","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,School
+b496,"p2387,p2388,p2389","Sophisticated urban style: long coat with slim-fit top, paired with high-waisted bottoms, minimalist accessories",Autumn/Winter,Business
+b497,"p2390,p2391,p2392,p2393","Sweet-cool girl style: cropped jacket with high-waisted bottoms, layered with top, paired with knee-high boots and minimalist bag",Autumn,Social
+b498,"p2394,p2395,p2396,p2397","Denim casual style: denim jacket with straight-leg jeans, layered with basic top and casual shoes",Autumn/Winter,Social
+b499,"p2398,p2399,p2400,p2401","Vintage collegiate style: loose vest with straight-leg trousers, layered with basic top and vintage shoulder bag",Autumn,School
+b500,"p2402,p2403,p2404,p2405,p2406","Sophisticated urban style: cropped jacket with high-waisted bottoms, layered with top, styled with minimalist shoulder bag",Autumn/Winter,Home

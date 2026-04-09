@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "task1-image-edit"
+version = "0.1.0"
+description = "Baselines for garment flat-lay extraction with Qwen-Edit, LongCat-Image-Edit, and FLUX Kontext."
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

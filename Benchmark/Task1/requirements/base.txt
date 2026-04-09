@@ -1,0 +1,11 @@
+accelerate>=1.8.0
+datasets>=3.0.0,<4.0.0
+diffsynth>=2.0.6
+huggingface_hub>=0.34.0
+numpy>=1.26.4
+peft>=0.18.0
+pillow>=10.4.0
+protobuf>=4.25.3
+safetensors>=0.4.5
+sentencepiece>=0.2.0
+transformers>=4.57.0
